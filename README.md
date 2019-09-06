@@ -62,3 +62,8 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 1. Paste it in a new file bookcase.gps
 1. Save the file on your computer
 1. It's done.
+
+## Stats
+|Date      |Bookcases|Bookcase without description|
+|----------|---------|----------------------------|
+|2019-05-27|4795     |764                         |
