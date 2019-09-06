@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <textarea cols="180" rows="10" id="input"></textarea>
+    <br>
+    <button onclick="convertToOsmandFavXml()">Convert</button>
+    <label>Input lines : </label><span id="inputLines">0</span>;
+    <label>Output lines : </label><span id="outputLines">0</span>;
+    <label>Bookcases : </label><span id="bookcase">0</span>;
+    <label>Bookcase without desc : </label><span id="bookcaseNoDesc">0</span>
+    <pre id="output"></pre>
+    <script type="text/javascript">
+      var input = document.getElementById("input");
+      var output = document.getElementById("output");
+      var buffer = "";
+      var inputLines = 0, outputLines = 0, bookcase = 0, bookcaseNoDesc = 0;
+      
+      function convertToOsmandFavXml() {
+        reset();
+        var lines = input.value.split("\n");
+        inputLines = lines.length;
+        console.log("lines=" + lines.length);
+        //"Adresse";"Code_Postal";" Ville";"Pays";" Coord_GPS";" Remarque"
+        printHeader();
+        for(var i=1; i<lines.length; i++) {
+          try {
+            var line = lines[i];
+            line = line.replace(new RegExp('&', 'g'), "et");
+            line = line.replace(new RegExp('";"', 'g'), "<SEPARATOR>");
+            line = line.replace(new RegExp(';"', 'g'), "<SEPARATOR>");
+            line = line.replace(new RegExp('";', 'g'), "<SEPARATOR>");
+            parseLine(line);
+          } catch(e) {
+            console.error(e);
+            console.error(lines[i]);
+            console.error(line);
+          }
+        }
+        printFooter();
+        flush();
+      }
+      function parseLine(line) {
+        if (line.length < 10) {
+          return;
+        }
+        var fields = line.split('<SEPARATOR>');
+        if (fields.length <5) {
+          console.warn("not enougth fields");
+          console.warn(line);
+          return;
+        }        
+        var gps = fields[4].replace('"','').replace(';','').split(',');
+        var lat = gps[0].trim();
+        var lon = gps[1].trim();
+        var name = fields[0].replace('"', '').trim();
+        var desc = "";
+        if (fields.length > 5) {
+          desc = fields[5].trim();
+        }
+        if (desc.length === 0) {
+          bookcaseNoDesc++;
+        }
+        bookcase++;
+        printFav(lat, lon, name, desc);
+      }
+      function printFav(lat, lon, name, desc) {
+        print('  <wpt lat="'+lat+'" lon="'+lon+'">');
+        print('    <name>'+name+'</name>');
+        print('    <desc>'+desc+'</desc>');
+        print('    <cmt>Amenity::entertainment:public_bookcase</cmt>');
+        print('    <type>Boite à livre</type>');
+        print('  </wpt>');
+      }
+      function printHeader() {
+        print("<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>");
+        print('<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">');
+      }
+      function printFooter() {
+        print('</gpx>');
+      }
+      function print(text) {
+        buffer += text + "\n";
+        //output.innerText += text + "\n";
+      }
+      function reset() {
+        output.innerText = "";
+        buffer = "";
+        inputLines = 0;
+        outputLines = 0;
+        bookcase = 0;
+        bookcaseNoDesc = 0;
+      }
+      function flush() {
+        output.innerText = buffer;
+        outputLines = buffer.length;
+        document.getElementById("inputLines").innerText = inputLines;
+        document.getElementById("outputLines").innerText = outputLines;
+        document.getElementById("bookcase").innerText = bookcase;
+        document.getElementById("bookcaseNoDesc").innerText = bookcaseNoDesc;
+      }
+    </script>
+  </body>
+</html>
