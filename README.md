@@ -3,6 +3,11 @@ In this repository, you will find "public bookcases" exported from website : htt
 
 Those bookcases are mainly located in France and french speaking countries. You can display those bookcases in OsmAnd, JOSM, etc.
 
+### View data online
+You can view all bookcases from those data here : 
+
+https://umap.openstreetmap.fr/fr/map/2019-05-27-public-bookcases_362245#6/46.314/3.955
+
 ### Repo hierarchy
 - **YYYY-MM-DD** : date I export data from the website.
   - **bookcase.gpx** : file to use in OsmAnd, JOSM, etc.
