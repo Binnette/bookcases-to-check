@@ -56,9 +56,9 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 1. Click on link "**Téléchargez toutes les coordonnées**"
 1. Go to https://binnette.github.io/bookcases-to-check/bookcase.html
 1. Copy CSV content in the input field
-1. Click on button convert
+1. Click on button "Convert"
 1. Wait for the file to be converted
-1. Copy all text behind button convert
+1. Click on button "Copy output to clipboard"
 1. Paste it in a new file bookcase.gps
 1. Save the file on your computer
 1. It's done.
@@ -67,3 +67,5 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 |Date      |Bookcases|Bookcase without description|
 |----------|---------|----------------------------|
 |2019-05-27|4795     |764                         |
+|2019-09-07|5206     |842                         |
+
