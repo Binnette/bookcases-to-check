@@ -1,7 +1,7 @@
 ## Summary
 In this repository, you will find "public bookcases" exported from website : https://www.boite-a-lire.com/
 
-Those bookcases are mainly located in France and french speaking countries. You can display those bookcases in OsmAnd, JOSM, etc.
+Those bookcases are mainly located in France and french speaking countries. You can display them in OsmAnd, JOSM, uMap etc.
 
 ### View data online
 You can view all bookcases from those data here : 
@@ -10,6 +10,14 @@ You can view all bookcases from those data here :
 |----------|---------|------------------------------------------|
 |2019-09-07|5206     |[Map with 2019-09-07 data](https://umap.openstreetmap.fr/fr/map/public-bookcases_362282#6/46.606/3.889)|
 |2019-05-27|4795     |[Map with 2019-05-27 data](https://umap.openstreetmap.fr/fr/map/2019-05-27-public-bookcases_362245#6/46.606/3.889)|
+
+### Compare data with OSM bookcases
+
+[Map of OSM bookcases and 2019-09-07 dataset](https://umap.openstreetmap.fr/fr/map/osm-bookcases-and-boite-a-lire_362287#15/45.2010/5.7389)
+
+In this map :
+- OSM bookcases are displayed in **green** ![](https://placehold.it/12/32CD32/000000?text=+) with 1 hour cache
+- boite-a-lire.com bookcases are displayed in **red** ![](https://placehold.it/12/DC143C/000000?text=+)
 
 ### Repo hierarchy
 - **YYYY-MM-DD** : date I export data from the website.
