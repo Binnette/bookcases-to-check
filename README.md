@@ -16,7 +16,7 @@ You can view all bookcases from those data here :
 [Map of OSM bookcases and 2019-09-07 dataset](https://umap.openstreetmap.fr/fr/map/osm-bookcases-and-boite-a-lire_362287#15/45.2010/5.7389)
 
 In this map :
-- OSM bookcases are displayed in **green** ![](https://placehold.it/12/32CD32/000000?text=+) with 1 hour cache
+- OSM bookcases are displayed in **green** ![](https://placehold.it/12/32CD32/000000?text=+) on zoom 14+ with 1 hour cache
 - boite-a-lire.com bookcases are displayed in **red** ![](https://placehold.it/12/DC143C/000000?text=+)
 
 ### Repo hierarchy
