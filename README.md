@@ -6,7 +6,10 @@ Those bookcases are mainly located in France and french speaking countries. You 
 ### View data online
 You can view all bookcases from those data here : 
 
-https://umap.openstreetmap.fr/fr/map/2019-05-27-public-bookcases_362245#6/46.314/3.955
+|Date      |Bookcases|Map                                       |
+|----------|---------|------------------------------------------|
+|2019-09-07|5206     |[Map with 2019-09-07 data](https://umap.openstreetmap.fr/fr/map/public-bookcases_362282#6/46.606/3.889)|
+|2019-05-27|4795     |[Map with 2019-05-27 data](https://umap.openstreetmap.fr/fr/map/2019-05-27-public-bookcases_362245#6/46.606/3.889)|
 
 ### Repo hierarchy
 - **YYYY-MM-DD** : date I export data from the website.
@@ -66,6 +69,5 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 ## Stats
 |Date      |Bookcases|Bookcase without description|
 |----------|---------|----------------------------|
-|2019-05-27|4795     |764                         |
 |2019-09-07|5206     |842                         |
-
+|2019-05-27|4795     |764                         |
