@@ -18,7 +18,7 @@ You can view all bookcases from those data here:
 
 |Date      |Bookcases|Map                                       |
 |----------|---------|------------------------------------------|
-|2019-12-01|5206     |[Map with 2019-12-01 data](http://u.osmfr.org/m/394535/)|
+|2019-12-01|5551     |[Map with 2019-12-01 data](http://u.osmfr.org/m/394535/)|
 |2019-09-07|5206     |[Map with 2019-09-07 data](https://umap.openstreetmap.fr/fr/map/public-bookcases_362282#6/46.606/3.889)|
 |2019-05-27|4795     |[Map with 2019-05-27 data](https://umap.openstreetmap.fr/fr/map/2019-05-27-public-bookcases_362245#6/46.606/3.889)|
 
@@ -78,8 +78,8 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 1. Repair broken lines (there is some ; in the data)
 1. [Not mandatory] Parse GPS in 2 differents columns
 1. [Not mandatory] Prepare data:
-1. * Remove "
-1. * Remove line with comment "n'existe plus"
+   * Remove "
+   * Remove line with comment "n'existe plus"
 1. Save as CSV
 
 ### Convert CSV to GPX
@@ -113,6 +113,7 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 ## Stats by region 2019-12-01
 
 |Region                 |Bookcases|
+|-----------------------|---------|
 |France                 |     5291|
 |Nouvelle Aquitaine     |      871|
 |Ile de France          |      671|
@@ -129,4 +130,4 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 |Corse                  |        9|
 
 
-NB: I duplicate some bookcase on boundaries.
+NB: I duplicate some bookcases on boundaries.
