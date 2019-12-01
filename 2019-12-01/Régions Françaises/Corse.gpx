@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="41.699064" minlon="8.7381252" maxlat="42.701123" maxlon="9.4512278"/>
+  </metadata>
+  <wpt lat="42.6326037" lon="8.9380841">
+    <name>Casino</name>
+    <desc>A la sortie du Casino, près des caisses, il y a une petite caisse de livres en libre service !</desc>
+  </wpt>
+  <wpt lat="41.699063978799174" lon="8.840952515602114">
+    <name>Résidence golfe du valinco, Olmeto plage</name>
+    <desc>Petite boite à lire au rond point du Motel et du Spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l&apos;eau.</desc>
+  </wpt>
+  <wpt lat="42.7005856" lon="9.4512278">
+    <name>Place saint nicolas</name>
+    <desc>En haut de la place dans une ancienne cabine téléphonique</desc>
+  </wpt>
+  <wpt lat="42.081804" lon="9.060516">
+    <name>Bâtiment U palazzu</name>
+    <desc>La boîte à lire se trouve à l&apos;entrée de la médiathèque. Des livres pour les petits et grands .Réapprovisionnée tous les jours ...Une vrai mine ...</desc>
+  </wpt>
+  <wpt lat="42.2989986" lon="9.1528366">
+    <name>Université</name>
+    <desc>A votre disposition dans le hall du bâtiment Desanti-bibliothèque universitaire.</desc>
+  </wpt>
+  <wpt lat="42.7005856" lon="9.4512278">
+    <name>Place Saint Nicolas</name>
+    <desc>Boîte à lire aménagée dans une ancienne cabine téléphonique.</desc>
+  </wpt>
+  <wpt lat="41.997829" lon="9.399904">
+    <name>Migliacciaro</name>
+    <desc>Armoire à lire près de la boutique Bio Sous les Glycines.</desc>
+  </wpt>
+  <wpt lat="42.701123" lon="9.451018">
+    <name>Allée Général Fieschi</name>
+    <desc>La boite se trouve dans une ancienne cabine téléphonique sur la place St Nicolas.</desc>
+  </wpt>
+  <wpt lat="41.9254665" lon="8.7381252">
+    <name>cours Napoléon</name>
+    <desc>La boite se trouve dans le Bistrot du Cours juste en face de la préfecture d&apos;Ajaccio</desc>
+  </wpt>
+</gpx>

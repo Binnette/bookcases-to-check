@@ -1,0 +1,1194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="48.3749489" minlon="-1.8479261" maxlat="50.051327" maxlon="1.745921"/>
+  </metadata>
+  <wpt lat="49.1864011" lon="-0.3548865">
+    <name>41 Rue des Chanoines</name>
+    <desc>Face aux vestiges de l ancienne église Saint-Gilles</desc>
+  </wpt>
+  <wpt lat="49.145922" lon="0.227849">
+    <name>Square Arnoul</name>
+  </wpt>
+  <wpt lat="49.1490259" lon="0.2333307">
+    <name>Piscine</name>
+  </wpt>
+  <wpt lat="49.1382421" lon="0.2312423">
+    <name>Gare</name>
+  </wpt>
+  <wpt lat="49.1311276" lon="0.2238637">
+    <name>Près d&apos;intermarché</name>
+  </wpt>
+  <wpt lat="49.146572" lon="0.218402">
+    <name>Centre Socio Culturel</name>
+  </wpt>
+  <wpt lat="49.1581369" lon="0.2239108">
+    <name>rue Victorine Magné</name>
+  </wpt>
+  <wpt lat="49.142309" lon="0.231505">
+    <name>avenue Sainte Thérèse</name>
+  </wpt>
+  <wpt lat="49.1475195" lon="0.2260225">
+    <name>Jardin de l&apos;évêché</name>
+  </wpt>
+  <wpt lat="48.5243139" lon="0.585319">
+    <name>Rue de la Mare Basse</name>
+    <desc>Cabine à Livres rouge à peu près face au débouché de l impasse de Bellevue</desc>
+  </wpt>
+  <wpt lat="49.9374167" lon="1.1149579">
+    <name>RUE DU GENERAL LECLERC</name>
+    <desc>BOITE A LIVRE SITUEE A PUYS SUR LA PROMENADE  DE LA  PLAGE</desc>
+  </wpt>
+  <wpt lat="49.3563334" lon="0.0896964">
+    <name>Boulevard Eugène boudin</name>
+    <desc>Derrière l arrêt de bus</desc>
+  </wpt>
+  <wpt lat="48.864933" lon="1.345867">
+    <name>Bois le roi</name>
+    <desc>Boîte à lire plus en place merci de mettre à jour</desc>
+  </wpt>
+  <wpt lat="49.8809691" lon="1.1272572">
+    <name>RUE DE ROME</name>
+    <desc>Boite à livres située devant le groupe scolaire</desc>
+  </wpt>
+  <wpt lat="49.9046964" lon="0.9932267">
+    <name>ROUTDE DE DIEPPE</name>
+    <desc>Boite à livres située place de la mairie</desc>
+  </wpt>
+  <wpt lat="50.0174053" lon="1.3178364">
+    <name>Rue de l Hospice</name>
+    <desc>Boite à livre située prés du manoir de Briancon</desc>
+  </wpt>
+  <wpt lat="50.0368609" lon="1.3267564">
+    <name>Rue du Tréport</name>
+    <desc>Boite à livres située dans le parc de jeux pour enfants près de la plage</desc>
+  </wpt>
+  <wpt lat="50.0179499" lon="1.490956">
+    <name>Rue Jules Verne</name>
+    <desc>A l angle de la rue jules Verne et de la rue jean Moulin Juste avant le rond point de la place de l&apos;église. à côté du magasin Vival</desc>
+  </wpt>
+  <wpt lat="50.050157" lon="1.420878">
+    <name>Place de l abbé Legris</name>
+    <desc>Dans le jardin de jeux pour enfants</desc>
+  </wpt>
+  <wpt lat="50.051327" lon="1.4200026">
+    <name>Boulevard Hélène</name>
+    <desc>sur le chemin longeant la rivière La Bresle non loin de l avenue de la gare</desc>
+  </wpt>
+  <wpt lat="49.1923387" lon="-0.3796444">
+    <name>Place des Vestiges</name>
+    <desc>Sur la place des vestiges de l ancienne église Saint Gilles</desc>
+  </wpt>
+  <wpt lat="48.553872" lon="-1.509877">
+    <name>Rond-point de distribution centre</name>
+    <desc>Cabine anglaise rouge sur la gauche en direction de la croix avranchin</desc>
+  </wpt>
+  <wpt lat="49.2087733" lon="0.2821362">
+    <name>Le Bourg</name>
+    <desc>à côté de l école</desc>
+  </wpt>
+  <wpt lat="49.259225" lon="0.201011">
+    <name>35, Chemin du champs du Mont</name>
+    <desc>Près de la mairie</desc>
+  </wpt>
+  <wpt lat="49.2751047" lon="0.1967712">
+    <name>Lac de Pont-L Evêque</name>
+    <desc>en face de l entrée du camping, installée par Terre d&apos;Auge</desc>
+  </wpt>
+  <wpt lat="49.2790521" lon="0.070476">
+    <name>404 route de Bourgeauille</name>
+    <desc>Dans le jardin de la mairie, initiative de l intercom Terre D Auge</desc>
+  </wpt>
+  <wpt lat="49.4639824" lon="1.0708711">
+    <name>rue Marc Sangnier</name>
+    <desc>Belle cabine de téléphone anglaise rouge devant le tout nouveau centre Marc Sangnier</desc>
+  </wpt>
+  <wpt lat="48.940013" lon="-0.25403">
+    <name>Rue du lavoir</name>
+    <desc>A côté de l abri bus de la salle des fêtes et école. Fabriqué par l association Ussy et Maintenant.</desc>
+  </wpt>
+  <wpt lat="48.826874" lon="-0.8809185">
+    <name>Parc de l Europe</name>
+    <desc>La boîte à livres se trouve près du toboggan  et de la tyrolienne</desc>
+  </wpt>
+  <wpt lat="48.844384" lon="1.316735">
+    <name>8 Grande rue</name>
+    <desc>Ancienne cabine téléphonique au bord de la D52</desc>
+  </wpt>
+  <wpt lat="49.7577809" lon="0.3771564">
+    <name>Place Bellet</name>
+  </wpt>
+  <wpt lat="49.7599726" lon="0.3698783">
+    <name>Quai Berigny</name>
+    <desc>Coté Pêcheries de FECAMP.</desc>
+  </wpt>
+  <wpt lat="49.739392" lon="0.358333">
+    <name>Parking Mairie</name>
+    <desc>Près du carrefour.</desc>
+  </wpt>
+  <wpt lat="48.7601398" lon="-1.4598825">
+    <desc>il y a 3 boîtes à lire à Sartilly .Une près des écoles publiques et du lotissement les violettes, une sur la grande rue,près de l école privée et la dernière dans une rue adjacente à la grande rue.Il y a aussi une boîte à lire à st jean le thomas sur la rue longeant la mer.</desc>
+  </wpt>
+  <wpt lat="49.2385328" lon="0.0162305">
+    <name>Arrêt de bus chemin de la vigne</name>
+  </wpt>
+  <wpt lat="49.6288024" lon="0.7512428">
+    <name>manoir du fay</name>
+    <desc>une deuxieme boite se trouve dans le parc du manoir du fay</desc>
+  </wpt>
+  <wpt lat="49.6186109" lon="0.7528571">
+    <name>Parc du manoir du fay</name>
+    <desc>A l entrée du parc sur la gauche, belle boîte toute en verre.</desc>
+  </wpt>
+  <wpt lat="49.860582" lon="0.708557">
+    <name>Rue marc leclerc</name>
+    <desc>Devant les immeubles hlm, boîte fabriquée par les élèves de 3eme segpa du college</desc>
+  </wpt>
+  <wpt lat="49.2324848" lon="-0.3847317">
+    <name>Place Jeanne Albertine</name>
+    <desc>Située sur la place devant l&apos;épicerie</desc>
+  </wpt>
+  <wpt lat="48.6818205" lon="-1.4125788">
+    <name>rue de la mairie</name>
+    <desc>Sous l&apos;abribus face à la mairie</desc>
+  </wpt>
+  <wpt lat="49.3245182" lon="-0.3707333">
+    <name>Parc du Bois Joli</name>
+  </wpt>
+  <wpt lat="49.4155727" lon="1.1410342">
+    <name>rue du général de gaulle. Place du panetier du roy</name>
+    <desc>Boite à livres voulue et imaginée par les enfants du conseil municipal des enfants de Belbeuf. Située sur la place du village, à proximité du café de Belbeuf.</desc>
+  </wpt>
+  <wpt lat="48.8952633" lon="-0.196086">
+    <name>1 rue des premontres</name>
+    <desc>Devant le centre social culturel</desc>
+  </wpt>
+  <wpt lat="49.8009665" lon="1.1740706">
+    <name>RUE DE LA POSTE</name>
+    <desc>BOITE A LIVRES SITUEE PLACE DE LA MAIRIE</desc>
+  </wpt>
+  <wpt lat="49.9548506" lon="1.1855601">
+    <name>RUE PASTEUR</name>
+    <desc>BOITE A LIVRE SITUEE VERS LE 15 RUE PASTEUR</desc>
+  </wpt>
+  <wpt lat="49.4967374" lon="-1.8479261">
+    <name>plage de Sciotot</name>
+    <desc>elle n est en place que pendant la saison estivale</desc>
+  </wpt>
+  <wpt lat="49.2426221" lon="-0.8734197">
+    <name>Place du marché</name>
+  </wpt>
+  <wpt lat="49.0644457" lon="1.293992">
+    <name>Rue de la poste</name>
+    <desc>ancienne cabine de telephone</desc>
+  </wpt>
+  <wpt lat="49.2518346" lon="1.6983736">
+    <name>18 chaussée Louis XIII</name>
+    <desc>Juste à côte de la boîte à lettres de l&apos;agence postale</desc>
+  </wpt>
+  <wpt lat="49.9666168" lon="1.3023074">
+    <name>Place de la Mairie rue St Pierre à Guilmécourt</name>
+  </wpt>
+  <wpt lat="49.7165334" lon="1.099472">
+    <name>Jardin public</name>
+    <desc>Elle est tout à gauche en rentrant par l&apos;entrée principale du jardin public</desc>
+  </wpt>
+  <wpt lat="49.9431593" lon="1.2614813">
+    <name>RUE DE LA MAIRIE</name>
+    <desc>Boite à livres située devant la mairie</desc>
+  </wpt>
+  <wpt lat="49.9084416" lon="1.1069209">
+    <name>SUR LA PLACE AU CENTRE BOURG</name>
+    <desc>Boite à livres située face au magasin le panier sympa</desc>
+  </wpt>
+  <wpt lat="49.2905546" lon="-0.1150458">
+    <name>Avenue de la Marne</name>
+    <desc>Coté Jardin du casino</desc>
+  </wpt>
+  <wpt lat="49.2871451" lon="-0.1465328">
+    <name>27 rue Léon Pican</name>
+    <desc>Sur le parking de la plage</desc>
+  </wpt>
+  <wpt lat="49.2745474" lon="-0.1312619">
+    <name>California Park - Chemin de Villiers</name>
+    <desc>A coté de l&apos;accueil</desc>
+  </wpt>
+  <wpt lat="49.1649381" lon="-0.3637749">
+    <name>Rue du Finistère</name>
+  </wpt>
+  <wpt lat="49.45592091898456" lon="1.0897171497344973">
+    <name>Place Foch, Parvis de l&apos;église saint André</name>
+  </wpt>
+  <wpt lat="49.3459758" lon="0.3412968">
+    <name>Hotel de Ville</name>
+    <desc>La boîte à livre se trouve sur la droite de l&apos;entrée de l&apos;hôtel de Ville de Beuzeville.</desc>
+  </wpt>
+  <wpt lat="48.875672" lon="-0.156714">
+    <name>lavoir de la bonne eau</name>
+    <desc>Creation le 15 juin 2019</desc>
+  </wpt>
+  <wpt lat="49.278363" lon="0.111144">
+    <name>Statue Laplace</name>
+    <desc>près de la statue Laplace</desc>
+  </wpt>
+  <wpt lat="49.282812" lon="0.071192">
+    <name>jardin de la mairie</name>
+    <desc>Dans le jardin de la mairie</desc>
+  </wpt>
+  <wpt lat="49.121282" lon="-1.341621">
+    <name>Pré de la boulangerie</name>
+    <desc>En dessous de la mairie</desc>
+  </wpt>
+  <wpt lat="49.4647319" lon="1.0740853">
+    <name>CANOPE rue du docteur Fleury</name>
+    <desc>La boite à livres est dans l entrée du bâtiment. A côté de la fontaine à eau et machine à café pas loin.</desc>
+  </wpt>
+  <wpt lat="49.5111609" lon="0.8473844">
+    <name>ROUTE DE ST PAER</name>
+    <desc>Boite à livre située sur la place de la mairie et de l église</desc>
+  </wpt>
+  <wpt lat="49.11670601869698" lon="-1.0859513282775881">
+    <name>Eglise Sainte Croix</name>
+    <desc>Située derrière l&apos;église Sainte Croix à, côté du jardin des Incroyables comestibles</desc>
+  </wpt>
+  <wpt lat="48.620277" lon="-1.17389">
+    <name>La Poste</name>
+    <desc>Dans le petit centre commercial du bourg d&apos;Isigny le Buat, près de la poste</desc>
+  </wpt>
+  <wpt lat="48.8688295" lon="-0.5179096">
+    <name>Place Charles de gaulle</name>
+    <desc>La boite à lire est fixée sur le mur de l église à proximité du Calvaire . Mise en place le 17 mai 2019</desc>
+  </wpt>
+  <wpt lat="48.851713" lon="-0.5253058">
+    <name>Hameau de Pont Erambourg</name>
+    <desc>La boite à lire se situe dans l abribus sur le parking de Pont Erambourg / commune de Saint Denis de MéréMise en en service le 17 Mai 2019</desc>
+  </wpt>
+  <wpt lat="49.7319304" lon="1.1913468">
+    <name>649 RUE DES POMMIERS</name>
+    <desc>Boite à livres fabriquée à l aide d&apos;un ancien réfrigérateur</desc>
+  </wpt>
+  <wpt lat="49.895981" lon="1.26509">
+    <name>PLACE DU MARCHE</name>
+    <desc>DEVANT LA SALLE DES FETES</desc>
+  </wpt>
+  <wpt lat="49.6151698" lon="0.7531477">
+    <name>RUE DE L UNION</name>
+    <desc>Boite à livres située dans le parc pres de la rue du Bailly</desc>
+  </wpt>
+  <wpt lat="49.9072748" lon="1.0894794">
+    <name>RUE DU CHAMP DE COURSES</name>
+    <desc>SUR LE PARKING DE LA MAIRIE</desc>
+  </wpt>
+  <wpt lat="49.6646093" lon="0.8966571">
+    <name>ROUTE DE SAINT MARTIN</name>
+    <desc>CABINE TELEPHONIQUE ANGLAISE PRES DU ROND POINT</desc>
+  </wpt>
+  <wpt lat="49.8655479" lon="1.151345">
+    <name>RUE LEANDRE BIMONT</name>
+    <desc>BOITE A LIVRE SITUEE DEVANT L ECOLE</desc>
+  </wpt>
+  <wpt lat="49.617904" lon="0.7544769">
+    <name>RUE GUSTAVE FLAUBERT</name>
+    <desc>BOITE A LIVRES SITUEE PLACE DES BELGES A PROXIMITE DE LA BNP</desc>
+  </wpt>
+  <wpt lat="49.3035635" lon="-0.0739759">
+    <name>Square Debussy avenue du Sporting</name>
+    <desc>A l&apos;entrée  sud du square</desc>
+  </wpt>
+  <wpt lat="49.4321635" lon="1.090005">
+    <name>quai de seine</name>
+  </wpt>
+  <wpt lat="49.2012079" lon="0.4359133">
+    <name>Le village de  l église</name>
+    <desc>Cabine téléphonique</desc>
+  </wpt>
+  <wpt lat="48.3749489" lon="0.5622712">
+    <name>Boulevard Bansard des bois</name>
+    <desc>Boîte à livres sur la droite d une rue  qui traverse la ville, avec à gauche les vestiges des fossés d&apos;un château disparu</desc>
+  </wpt>
+  <wpt lat="48.9659799" lon="1.4068981">
+    <name>Rue de Pacy</name>
+    <desc>Dans l ancienne cabine téléphonique devant la mairie.</desc>
+  </wpt>
+  <wpt lat="49.716239" lon="1.098514">
+    <name>PLACE MICHEL HOLLARD</name>
+    <desc>GARE SNCF</desc>
+  </wpt>
+  <wpt lat="49.5840236" lon="1.3564692">
+    <name>ROUTE DE ROUEN DANS L EGLISE</name>
+    <desc>BOITE A LIVRES SITUEE  DANS L EGLISE ,  UNIQUEMENT DES LIVRES SUR LA RELIGION</desc>
+  </wpt>
+  <wpt lat="49.7649654" lon="1.3806899">
+    <name>12 GRAND RUE</name>
+    <desc>Dans le jardin face à la mairie , la cabane à lire</desc>
+  </wpt>
+  <wpt lat="49.8820474" lon="1.1250541">
+    <name>CHATEAU BLANC</name>
+    <desc>ENTREE I.M.E</desc>
+  </wpt>
+  <wpt lat="48.8710363" lon="1.355858">
+    <name>place de la mairie</name>
+    <desc>dans l ancien abri bus, devant la mairie</desc>
+  </wpt>
+  <wpt lat="48.7642633" lon="0.6248811">
+    <name>Allée Raoul Barbé</name>
+  </wpt>
+  <wpt lat="49.3138671" lon="1.2012864">
+    <name>Rue des flandres</name>
+  </wpt>
+  <wpt lat="48.8321288" lon="-0.1155975">
+    <name>parking mairie</name>
+    <desc>Lions Club Argentan</desc>
+  </wpt>
+  <wpt lat="48.7187827" lon="-0.0405452">
+    <name>parking mairie</name>
+    <desc>Lions Club Argentan</desc>
+  </wpt>
+  <wpt lat="49.1899042" lon="-1.0260066">
+    <name>17 rue Maurice genevoix</name>
+    <desc>Cette boîte à lire/livres est installée depuis février 2019, inaugurée le jeudi 28 février 2019. Elle a été réalisée par M.Girault, agent du collège. Le projet est conçu en partenariat avec Mme Raimbeault, maire d e Saint Clair sur L Elle, pour que d&apos;autres boîtes à lire voient le jour au fil du temps sur le territoire...</desc>
+  </wpt>
+  <wpt lat="49.1899042" lon="-1.0260066">
+    <name>17 rue Maurice genevoix</name>
+    <desc>Cette boîte à lire/livres est installée depuis février 2019, inaugurée le jeudi 28 février 2019. Elle a été réalisée par M.Girault, agent du collège. Le projet est conçu en partenariat avec Mme Raimbeault, maire d e Saint Clair sur L Elle, pour que d autres boîtes à lire voient le jour au fil du temps sur le territoire...</desc>
+  </wpt>
+  <wpt lat="49.48382" lon="1.723007">
+    <name>Place d, Armes</name>
+  </wpt>
+  <wpt lat="49.4824315" lon="1.745921">
+    <name>La mairie</name>
+  </wpt>
+  <wpt lat="49.478877" lon="1.715343">
+    <name>Rue Pierre et Marie curie</name>
+  </wpt>
+  <wpt lat="49.478877" lon="1.715343">
+    <name>Rue Pierre et Marie curie</name>
+  </wpt>
+  <wpt lat="49.4819386" lon="1.7367657">
+    <name>Avenue de la gare</name>
+  </wpt>
+  <wpt lat="49.1643637" lon="1.6619786">
+    <name>Route d Aveny</name>
+    <desc>Sur la voie verte, au carrefour de la route et proche du pont enjambant l Epte</desc>
+  </wpt>
+  <wpt lat="49.2021467" lon="0.0750801">
+    <name>Rue de Saint pierre</name>
+    <desc>Elle se trouve sur le bord de la route devant la bibliotheque</desc>
+  </wpt>
+  <wpt lat="49.214224" lon="1.1708185">
+    <name>Rue du quai</name>
+    <desc>La boîte de trouve juste avant la médiathèque, devant l entrée du jardin Bigard.</desc>
+  </wpt>
+  <wpt lat="48.424375" lon="0.063406">
+    <name>2 rue de l élan</name>
+    <desc>La boîte se trouve sur le parking derrière la bibliothèque.</desc>
+  </wpt>
+  <wpt lat="48.8336711" lon="-1.323883">
+    <name>Rue Saint Gaud</name>
+    <desc>Située près de la mairie</desc>
+  </wpt>
+  <wpt lat="48.5131115" lon="0.3532864">
+    <name>Place du Général de Gaulle</name>
+    <desc>Cabine téléphonique transformée en boite à lire,  Le Mêle-livres</desc>
+  </wpt>
+  <wpt lat="49.0820405" lon="1.477094">
+    <name>13 route d Ivry</name>
+  </wpt>
+  <wpt lat="49.094735" lon="1.477168">
+    <name>rue Adolphe Vard</name>
+  </wpt>
+  <wpt lat="49.09221" lon="1.489713">
+    <name>Mail Anatole France</name>
+    <desc>DAns le parc pour enfants Jeanne-et-Robert-Laurence</desc>
+  </wpt>
+  <wpt lat="49.094493" lon="1.48332">
+    <name>rue des Ecuries des Gardes</name>
+    <desc>Dans le parc pour enfants</desc>
+  </wpt>
+  <wpt lat="49.0989015" lon="1.4915173">
+    <name>Place J. Charpentier</name>
+  </wpt>
+  <wpt lat="49.5281669" lon="0.2519224">
+    <name>5 Rue de la Gare</name>
+    <desc>Boite située à la Gare ferroviaire de Saint Laurent de Brèvedent, au pied de l’escalier d’accès aux quais.</desc>
+  </wpt>
+  <wpt lat="49.0557091" lon="-1.4302532">
+    <name>13a, Rue Régis Messac</name>
+    <desc>A proximité du point J Quartier Claires FontainesGPS: 49.318, 1.2553</desc>
+  </wpt>
+  <wpt lat="49.0669721" lon="-1.5875745">
+    <name>Route de la Mer</name>
+    <desc>A proximité de l office du tourismeGPS: 49.06726, 1.58637</desc>
+  </wpt>
+  <wpt lat="49.0455842" lon="-1.5442391">
+    <name>Le Bourg</name>
+    <desc>Derrière l abri bus au centre du bourg</desc>
+  </wpt>
+  <wpt lat="48.686843" lon="-1.36166">
+    <name>jardin Bergevin</name>
+  </wpt>
+  <wpt lat="48.6219131" lon="-1.2944896">
+    <name>Rue du Géneral Leclerc</name>
+    <desc>dans le parc du château</desc>
+  </wpt>
+  <wpt lat="48.6219131" lon="-1.2944896">
+    <name>rue du général Leclerc</name>
+    <desc>près de l aire des camping-cars</desc>
+  </wpt>
+  <wpt lat="49.5858809" lon="-1.263901">
+    <name>1 Rue de la Vieille Église</name>
+    <desc>Boite à lire accrochée au mur à l&apos;extérieur des toilettes publiques, face au bar-restaurant le Débarcadère</desc>
+  </wpt>
+  <wpt lat="49.2930675" lon="-0.2841">
+    <name>22 Rue du Commandant Kieffer</name>
+    <desc>Boite Lions Club</desc>
+  </wpt>
+  <wpt lat="49.6356204" lon="-1.5940816">
+    <name>590 Boulevard de l&apos;est</name>
+    <desc>La boîte à lire est en accès libre dans un salon de thé.</desc>
+  </wpt>
+  <wpt lat="49.565786" lon="0.256161">
+    <name>École de Manéglise</name>
+    <desc>Boîte à lire située à côté de l escalier de la garderie, accessible à tous.</desc>
+  </wpt>
+  <wpt lat="49.3056984" lon="-1.2241095">
+    <name>rue des fleurs</name>
+    <desc>Boîte à lire réaliser par delavier julien</desc>
+  </wpt>
+  <wpt lat="49.3062984" lon="-1.2397919">
+    <name>rue de caligny</name>
+    <desc>à côté du port</desc>
+  </wpt>
+  <wpt lat="49.1895912" lon="-1.1885428">
+    <name>1 le bourg</name>
+    <desc>A côté de la mairie</desc>
+  </wpt>
+  <wpt lat="49.2863891" lon="1.0215211">
+    <name>Jardin du cèdre</name>
+    <desc>Boite à livre située dans le parc du Cèdre</desc>
+  </wpt>
+  <wpt lat="49.5655444" lon="0.9461481">
+    <name>rue de la Vierge</name>
+    <desc>La boite à livres se situe devant le groupe scolaire</desc>
+  </wpt>
+  <wpt lat="49.0921906" lon="1.4690738">
+    <name>cimetière</name>
+    <desc>Au niveau du parking du cimetière</desc>
+  </wpt>
+  <wpt lat="49.116400550227375" lon="-1.1144256591796877">
+    <name>Place Edmond Piedagnel</name>
+    <desc>Boîte à livre sur la place en face de carrefour city cabine téléphonique</desc>
+  </wpt>
+  <wpt lat="49.115411" lon="-1.098318">
+    <name>Office de tourisme</name>
+    <desc>Boîte à livres situées derrière l office de tourisme. Ressemble a une petite maison</desc>
+  </wpt>
+  <wpt lat="49.376402" lon="-1.756615">
+    <name>Place de la gare</name>
+    <desc>Elle a été inaugurée le 17 février 2018</desc>
+  </wpt>
+  <wpt lat="49.09280708524696" lon="1.4849781990051272">
+    <name>Place Adolphe Barette</name>
+    <desc>Pas très loin de la fontaine, côté rue Ste-Geneviève</desc>
+  </wpt>
+  <wpt lat="49.5138819" lon="1.6981163">
+    <name>Salle des fêtes</name>
+    <desc>La boîte à livres du village est installée sur une plate-bande aux abords de la salle des fêtes.</desc>
+  </wpt>
+  <wpt lat="49.11572991744848" lon="-1.098214387893677">
+    <name>Plage Verte</name>
+    <desc>Collée à l&apos;office du tourisme</desc>
+  </wpt>
+  <wpt lat="48.8363689" lon="-0.8890398">
+    <name>rue des Augustines</name>
+    <desc>La boîte se trouve sur la barrière d un jardin de la maison, mise en place par les personnes vivant ici.</desc>
+  </wpt>
+  <wpt lat="48.7759896561903" lon="-1.5688562393188479">
+    <name>Avenue des sapins</name>
+    <desc>à l&apos;angle avec rue hippolyte jacqueminot</desc>
+  </wpt>
+  <wpt lat="49.285325" lon="0.182675">
+    <name>Place du tribunal</name>
+  </wpt>
+  <wpt lat="48.9311775" lon="1.440962">
+    <name>98C rue du Bois</name>
+    <desc>Sur la place</desc>
+  </wpt>
+  <wpt lat="48.8643117" lon="-1.329338">
+    <name>bourg</name>
+  </wpt>
+  <wpt lat="49.5094396" lon="-1.4719763">
+    <name>place du château</name>
+    <desc>en haut de la place à côté du rond-point</desc>
+  </wpt>
+  <wpt lat="48.8523854" lon="-0.3909292">
+    <name>Le pont des vers</name>
+    <desc>Boîte à lire dans une cabine téléphonique située dans la rue principale du village.</desc>
+  </wpt>
+  <wpt lat="49.3727221" lon="1.2314266">
+    <name>98 rue de l église</name>
+  </wpt>
+  <wpt lat="48.617336" lon="-1.2907366">
+    <name>Pôle enfance, 4 Rue de Saint-Aubin</name>
+    <desc>Boîte située devant le pôle enfance rue de Saint aubin.</desc>
+  </wpt>
+  <wpt lat="49.381576541205405" lon="0.57204008102417">
+    <name>Route du bourg</name>
+    <desc>Dans la cabine téléphonique à côté de la mairie</desc>
+  </wpt>
+  <wpt lat="49.182317" lon="-0.3100562">
+    <name>Avenue de la Falaise</name>
+    <desc>Colombelles Plateau: A côté du square, au coin de l avenue de la falaise et de l avenue des écoles, dans une cabine téléphonique.</desc>
+  </wpt>
+  <wpt lat="49.5950255" lon="-1.6632884">
+    <name>2 GENERAL DUMONCEL</name>
+  </wpt>
+  <wpt lat="48.429447" lon="0.774353">
+    <name>Ancienne gare de Rémalard Bellou</name>
+    <desc>Boîte à livres en forme de locomotive installée sur un chemin piéton et cycliste reliant Notre-Dame de Paris au Mont Saint-Michel, juste à côté de l&apos;ancienne gare de Rémalard Bellou.</desc>
+  </wpt>
+  <wpt lat="49.930287" lon="1.086409">
+    <name>Quai de la Marne</name>
+    <desc>Parking camping car</desc>
+  </wpt>
+  <wpt lat="49.7714281" lon="1.2346863">
+    <name>ESPACE SALLE PAUL GODEFROY</name>
+    <desc>Derrière la Mairie</desc>
+  </wpt>
+  <wpt lat="48.5797789" lon="-1.0947108">
+    <name>35 rue de la pêcherie</name>
+    <desc>Boîte située à proximité de la maison des jeunes.</desc>
+  </wpt>
+  <wpt lat="48.9963922" lon="1.105098">
+    <name>10 rue Aristide Briand</name>
+    <desc>À côté de la Mairie. Il y a aussi  un distributeur de pain.</desc>
+  </wpt>
+  <wpt lat="48.9620662" lon="1.2104487">
+    <name>Place René Cardin</name>
+    <desc>En face de la Mairie</desc>
+  </wpt>
+  <wpt lat="49.0141508" lon="1.3803645">
+    <name>73 rue Édouard Isambard</name>
+  </wpt>
+  <wpt lat="49.3533288" lon="0.070761">
+    <name>2 avenue florian de kergolay</name>
+    <desc>Près du parc</desc>
+  </wpt>
+  <wpt lat="49.139904" lon="1.1883914">
+    <name>Place de la Mairie</name>
+    <desc>juste sur le côté de la mairie</desc>
+  </wpt>
+  <wpt lat="49.145009" lon="-0.3562389">
+    <name>Rue de Champagne</name>
+    <desc>Aire de jeux de la forêt de Ifs</desc>
+  </wpt>
+  <wpt lat="49.5988224" lon="1.1104567">
+    <name>143 le marche pied de la rivière</name>
+    <desc>Les magasins de proximité Vival installent des boites à livres devant tous leurs magasins.</desc>
+  </wpt>
+  <wpt lat="49.7288096" lon="0.6047934">
+    <name>place jean lepicard</name>
+    <desc>Les magasins de proximité Vival installent des boites à livres devant tous leurs magasins.</desc>
+  </wpt>
+  <wpt lat="48.8987277" lon="1.4046373">
+    <name>4 rue Georges LEBLANC</name>
+    <desc>Dans une charmante petite ville</desc>
+  </wpt>
+  <wpt lat="48.6910901" lon="-1.35776">
+    <name>quartier clairefontaine</name>
+    <desc>A côté de l école</desc>
+  </wpt>
+  <wpt lat="49.625504" lon="-1.643126">
+    <name>Place Roussel</name>
+  </wpt>
+  <wpt lat="49.3056984" lon="-1.2241095">
+    <name>rue des fleurs</name>
+  </wpt>
+  <wpt lat="49.0672381" lon="-1.5857759">
+    <name>Office de Tourisme</name>
+    <desc>Boîte  Lions club située à côté de l office de tourisme.</desc>
+  </wpt>
+  <wpt lat="49.7192591" lon="1.0407397">
+    <name>515 rue andre mallet</name>
+  </wpt>
+  <wpt lat="49.566677" lon="0.9542317">
+    <name>Rue du Général De Gaulle</name>
+    <desc>Boîte située sur un mur de la Mairie.</desc>
+  </wpt>
+  <wpt lat="49.4915167" lon="0.1254904">
+    <name>Novotel Le Havre centre gare, quai Colbert</name>
+    <desc>Située dans le hall</desc>
+  </wpt>
+  <wpt lat="49.116996" lon="-1.0973762">
+    <name>60 rue de la poterne</name>
+    <desc>Office de tourisme de Saint-Lô</desc>
+  </wpt>
+  <wpt lat="49.1852019" lon="-0.3617509">
+    <name>Porte saint pierre</name>
+  </wpt>
+  <wpt lat="49.187468" lon="-0.3703311">
+    <name>Jardin des plantes</name>
+    <desc>2 Boites a livres existent:-En bas pres de la serre-En haut pres de la scluture arc en ciel</desc>
+  </wpt>
+  <wpt lat="49.1609035" lon="-0.3988476">
+    <name>ZAC des Longs Courts</name>
+    <desc>Juste devant l entrée du magasin Intermarché</desc>
+  </wpt>
+  <wpt lat="49.1198132" lon="-1.1133007">
+    <name>Parc de la Paliere</name>
+    <desc>Dans le parc devant la mairie</desc>
+  </wpt>
+  <wpt lat="49.1827545" lon="-0.368876">
+    <name>place Saint-Sauveur</name>
+  </wpt>
+  <wpt lat="49.471224" lon="1.3425069">
+    <name>Grand Rue</name>
+    <desc>Boîte à Lire Lions Club située juste devant l&apos;office du tourisme, place Gustave Flaubert.</desc>
+  </wpt>
+  <wpt lat="49.673338" lon="1.283631">
+    <desc>Sur la place à proximité de l&apos;église, dans une cabine téléphonique reconvertie en boite à lire</desc>
+  </wpt>
+  <wpt lat="49.2172145" lon="0.1672981">
+    <name>Le Bourg</name>
+    <desc>A l&apos;initiative de la bibliothèque intercommunale de Blangy Pont-L&apos;Evêque Intercom, située entre la mairie et l&apos;école</desc>
+  </wpt>
+  <wpt lat="49.85442057023132" lon="1.1213779449462893">
+  </wpt>
+  <wpt lat="49.754665" lon="1.149003">
+    <desc>Les livres sont rangés dans une cabine téléphonique reconvertie en boite à livres</desc>
+  </wpt>
+  <wpt lat="49.2832179" lon="-0.0918351">
+    <name>Rond point du côteau</name>
+  </wpt>
+  <wpt lat="49.919481625215866" lon="1.0770463943481448">
+    <name>Rue Thiers</name>
+    <desc>Près de l&apos;hôpital</desc>
+  </wpt>
+  <wpt lat="49.859137886173066" lon="1.1042439937591555">
+    <name>Place de la Mairie</name>
+    <desc>Devant la Mairie</desc>
+  </wpt>
+  <wpt lat="49.928585385684364" lon="1.1035895347595217">
+    <name>Avenue Charles Nicolle</name>
+    <desc>Devant le collège Camus</desc>
+  </wpt>
+  <wpt lat="49.93221812119622" lon="1.083633899688721">
+    <name>Front de mer</name>
+    <desc>Parking des campings car</desc>
+  </wpt>
+  <wpt lat="49.927065909390784" lon="1.0828292369842532">
+    <name>Quartier Du Pollet</name>
+    <desc>A l&apos;entrée du parking des camping car</desc>
+  </wpt>
+  <wpt lat="49.9231415" lon="1.1008668">
+    <name>Rue Jean Puech</name>
+    <desc>Près de la crèche</desc>
+  </wpt>
+  <wpt lat="49.674704" lon="-1.801155">
+  </wpt>
+  <wpt lat="49.6544446" lon="-1.5636564">
+    <name>Piscine de collignon</name>
+    <desc>Sur le parking de la piscine</desc>
+  </wpt>
+  <wpt lat="49.1171582" lon="-1.0846608">
+    <name>rue des 29e et 35e divisions</name>
+    <desc>Située dans le jardin des Incroyables comestibles au chevet de l&apos;église Sainte-Croix, cette boîte a la forme d&apos;une petite serre</desc>
+  </wpt>
+  <wpt lat="49.86020302281241" lon="1.6567468643188479">
+    <name>ecole maternelle</name>
+    <desc>La boîte à Lire est sur la place, au pied de la fresque de l école maternelle.</desc>
+  </wpt>
+  <wpt lat="49.8513404" lon="0.5969681">
+    <name>Chemin des tennis</name>
+  </wpt>
+  <wpt lat="49.8693004" lon="0.7139487">
+    <name>Place de la chapelle</name>
+  </wpt>
+  <wpt lat="49.2590635" lon="-0.3375521">
+    <name>Rue de la Dame</name>
+    <desc>Au croisement de la rue de l Église et de la rue de la Dame, à droite de l&apos;arrêt de bus.</desc>
+  </wpt>
+  <wpt lat="49.089103" lon="0.598734">
+    <name>Place Guillaume de Volpiano</name>
+    <desc>A l entrée du Musée des Beaux-Arts, dont je conseille la visite, une boite à livres dans une rouge cabine téléphonique made in Grande-Bretagne</desc>
+  </wpt>
+  <wpt lat="49.3426039" lon="0.088755">
+    <name>Avenue Michel d Ornano</name>
+    <desc>à gauche de la mairie dans une grande cabane au milieu de la pelouse.</desc>
+  </wpt>
+  <wpt lat="48.8443658" lon="-0.5488544">
+    <name>rue Iberthe Bertoux</name>
+    <desc>Mise en service semaine 12Est donc apparue en même temps que le printempsEst-ce un signe ?</desc>
+  </wpt>
+  <wpt lat="49.1762887" lon="-0.3231081">
+    <name>Place Robert Estivals</name>
+    <desc>Sur la place, dans une cabine téléphonique.  A côté du Crédit Agricole. A côté de l aire de jeux pour enfants.</desc>
+  </wpt>
+  <wpt lat="49.4703001" lon="1.1197184">
+    <name>Place de la libération</name>
+    <desc>A gauche en sortant de la mairie</desc>
+  </wpt>
+  <wpt lat="48.4290551" lon="0.0792585">
+    <name>Parc des promenades</name>
+    <desc>Dans une ancienne cabine téléphonique</desc>
+  </wpt>
+  <wpt lat="49.2339648" lon="-0.5180071">
+    <name>esplanade de la mairie</name>
+    <desc>sur la place en face de la mairie</desc>
+  </wpt>
+  <wpt lat="49.4429425" lon="1.0749409">
+    <name>quai rive gauche</name>
+    <desc>En bas des marches sur le nouvel aménagement des quais de Rouen rive gauche</desc>
+  </wpt>
+  <wpt lat="49.0391031" lon="-1.4447641">
+    <name>1 Rue de la Gare</name>
+    <desc>En face de l école primaire par rapport à la route.</desc>
+  </wpt>
+  <wpt lat="49.6407989" lon="-1.5798337">
+    <name>109, avenue des Prairies</name>
+    <desc>Près de la mairie</desc>
+  </wpt>
+  <wpt lat="49.6654002" lon="-1.6926045">
+    <name>59 rue Roger Glinel</name>
+    <desc>Dans la cour, devant le centre socio-culturel</desc>
+  </wpt>
+  <wpt lat="49.2358169" lon="-0.5221852">
+    <name>Place de l église</name>
+    <desc>Mise en place depuis peu, elle se situe à côté de l église.</desc>
+  </wpt>
+  <wpt lat="49.4622138" lon="1.0711646">
+    <name>place Colbert</name>
+    <desc>La boite à lire se trouve juste à côté de la pharmacie. Sous le préau. Place Colbert.</desc>
+  </wpt>
+  <wpt lat="49.4713495" lon="1.1423738">
+    <name>rue georges méliès</name>
+    <desc>La boite est posée sur le grillage de l école maternelle Georges Méliès. A côté de la grille d&apos;entrée , au châpitre à Bihorel.</desc>
+  </wpt>
+  <wpt lat="49.5737328" lon="-1.627036">
+    <name>mairie</name>
+    <desc>Sur le parking de la mairie</desc>
+  </wpt>
+  <wpt lat="49.4241177" lon="1.0582408">
+    <name>place Foch</name>
+    <desc>La boîte se trouve sur la petite place devant l église. Elle est toujours bien remplie !</desc>
+  </wpt>
+  <wpt lat="49.3026283649115" lon="1.009647846221924">
+    <name>Place du Général de Gaulle</name>
+    <desc>Située sur la gauche en sortant de la gare Elbeuf-Saint-Aubin.</desc>
+  </wpt>
+  <wpt lat="49.140398" lon="0.9100367">
+    <name>Rue Jean de La Fontaine</name>
+    <desc>Devant l&apos;entrée de la Piscine du Haut Phare</desc>
+  </wpt>
+  <wpt lat="49.574687" lon="-1.652356">
+    <name>Bourg</name>
+    <desc>30 m au dessus de l&apos;ecole.</desc>
+  </wpt>
+  <wpt lat="49.4396113" lon="1.1294576">
+    <name>moulin de la Pannevert</name>
+    <desc>La boite à lire se trouve juste derrière le four à pain</desc>
+  </wpt>
+  <wpt lat="49.276211826653174" lon="-0.7027548551559449">
+    <name>Hôtel de Ville</name>
+    <desc>Sous le porche de l hôtel de ville</desc>
+  </wpt>
+  <wpt lat="49.0187509" lon="0.0657392">
+    <name>Les bouvets</name>
+    <desc>Elle est située sur le parking, en bord de route entre Saint-Pierre-sur-Dives et Livarot.</desc>
+  </wpt>
+  <wpt lat="49.151006" lon="0.905791">
+    <name>Place Ferrand</name>
+    <desc>Installée place de la Mairie</desc>
+  </wpt>
+  <wpt lat="50.0485131" lon="1.412576">
+    <name>Rue Jean du Hornay</name>
+    <desc>grande boîte à livres devant l entrée du château d&apos; Eu</desc>
+  </wpt>
+  <wpt lat="49.1975585" lon="0.800301">
+    <name>Route du Bec Hellouin</name>
+    <desc>Tout près de la Mairie</desc>
+  </wpt>
+  <wpt lat="49.307054" lon="0.9542992">
+    <name>Place de l ourail</name>
+    <desc>La boite se situe dans l&apos;Aire de jeux.</desc>
+  </wpt>
+  <wpt lat="49.92981474508369" lon="1.0823518037796023">
+    <name>Bout du quai, Place du moulin à vent</name>
+    <desc>Boîte à livres gérée par le service D Lire, ville de Dieppe.</desc>
+  </wpt>
+  <wpt lat="49.730665532527134" lon="1.438736915588379">
+    <name>Square Saint Pierre</name>
+    <desc>Petite boîte à lire du Lion s Club.</desc>
+  </wpt>
+  <wpt lat="49.454894319832626" lon="1.1379939949950995">
+    <name>Jardin partagé la Lombardie</name>
+    <desc>près de la rue de La Lombardie, entre les immeubles Gémeau et Mizar</desc>
+  </wpt>
+  <wpt lat="49.4568641" lon="1.1287929000000076">
+    <name>Sapins</name>
+    <desc>aire de jeux Granville</desc>
+  </wpt>
+  <wpt lat="49.44212531101605" lon="1.063935368325815">
+    <name>Presqu&apos;ïle Rollet</name>
+  </wpt>
+  <wpt lat="49.42203014565866" lon="1.0773249557281588">
+    <name>Jardin des Plantes</name>
+    <desc>près des bassins de l’allée centrale, côté de la roseraie Est</desc>
+  </wpt>
+  <wpt lat="49.42755713679254" lon="1.079889147546396">
+    <name>Square Pinchon</name>
+  </wpt>
+  <wpt lat="49.42867362506603" lon="1.0857256343628023">
+    <name>Jardin Saint-Sever</name>
+  </wpt>
+  <wpt lat="49.42533804091429" lon="1.0894592693115328">
+    <name>Rue du Docteur Dévé</name>
+    <desc>square au milieu des immeubles</desc>
+  </wpt>
+  <wpt lat="49.426147534058224" lon="1.098342745568857">
+    <name>Parc Grammont</name>
+  </wpt>
+  <wpt lat="49.4358979" lon="1.0921324999999342">
+    <name>Prairie Saint-Sever</name>
+    <desc>quais bas rive gauche, en tête du pont Corneille</desc>
+  </wpt>
+  <wpt lat="49.43419598335373" lon="1.099004147359551">
+    <name>Ile Lacroix</name>
+    <desc>avenue Jacques Chastellain, devant les commerces</desc>
+  </wpt>
+  <wpt lat="49.439286636478315" lon="1.1297369171888931">
+    <name>Rue de la Pannevert</name>
+    <desc>près du Moulin de la Pannevert de la promenade du Robec</desc>
+  </wpt>
+  <wpt lat="49.44340585597065" lon="1.1268971359679654">
+    <name>Rue des Hallettes</name>
+    <desc>À l&apos;angle de la rue Charles Muller</desc>
+  </wpt>
+  <wpt lat="49.4431608" lon="1.1083318">
+    <name>Square Marcel Halbout</name>
+  </wpt>
+  <wpt lat="49.43872536065068" lon="1.1074382698974432">
+    <name>Square Thuilleau</name>
+    <desc>boulevard Gambetta à l&apos;angle de la rue d’Amiens</desc>
+  </wpt>
+  <wpt lat="49.4383087" lon="1.1015937">
+    <name>Place St-Marc</name>
+    <desc>angle Nord/Ouest avec la rue Martainville</desc>
+  </wpt>
+  <wpt lat="49.436942875594816" lon="1.0956281877746505">
+    <name>Promenade Eric Tabarly</name>
+    <desc>quais bas rive droite, au pied du Pont Corneille</desc>
+  </wpt>
+  <wpt lat="49.4397223" lon="1.0945529">
+    <name>Place de la Calende</name>
+    <desc>devant l’arrêt TEOR</desc>
+  </wpt>
+  <wpt lat="49.4418301" lon="1.100348">
+    <name>rue des Faulx</name>
+    <desc>Jardins de l’Hôtel de ville</desc>
+  </wpt>
+  <wpt lat="49.4472189" lon="1.1064829">
+    <name>Place du Boulingrin</name>
+  </wpt>
+  <wpt lat="49.4507051" lon="1.1045518">
+    <name>rue de Bihorel</name>
+    <desc>square des Poètes, face à l’église Saint-Joseph</desc>
+  </wpt>
+  <wpt lat="49.448505" lon="1.0935629">
+    <name>Place Bernard Tissot</name>
+    <desc>côté parking des taxis</desc>
+  </wpt>
+  <wpt lat="49.440357844416624" lon="1.0827190316161932">
+    <name>Promenade la France Libre</name>
+    <desc>quai bas rive droite, devant l’aide de jeux le bateau des pirates</desc>
+  </wpt>
+  <wpt lat="49.4438805" lon="1.0786498">
+    <name>avenue Pasteur</name>
+    <desc>Parc de la Madeleine dans le haut de l’avenue Pasteur</desc>
+  </wpt>
+  <wpt lat="49.442834" lon="1.0776349">
+    <name>allée Aimé Césaire</name>
+    <desc>ardin Jean de Verrazane, face à l’arrêt TEOR</desc>
+  </wpt>
+  <wpt lat="49.4492101" lon="1.0822998">
+    <name>place de l’église Saint-Gervais</name>
+    <desc>Pelouse de l’église Saint-Gervais</desc>
+  </wpt>
+  <wpt lat="49.4506314" lon="1.0736811">
+    <name>rue du Renard</name>
+    <desc>Square Achille Lefort</desc>
+  </wpt>
+  <wpt lat="49.4447089" lon="1.0676829">
+    <name>Quai Ferdinand de Lesseps</name>
+    <desc>au niveau du hangar E / Strök</desc>
+  </wpt>
+  <wpt lat="49.4464909" lon="1.0976001">
+    <name>Parvis Kindarena</name>
+    <desc>près de l’espace vert à l’Est du Kindarena</desc>
+  </wpt>
+  <wpt lat="49.4518327" lon="1.059911">
+    <name>Boulevard Jean Jaurès</name>
+    <desc>devant l’entrée du Jardin partagé de la Croix d’Yonville, près de la voie TEOR montant à Mont Saint Aignan</desc>
+  </wpt>
+  <wpt lat="49.4385212" lon="1.6656843">
+    <name>Place du village</name>
+    <desc>Créée à l&apos;initiative du CCAS, la boîte à lire permet un échange de livres entre les habitants de la commune.</desc>
+  </wpt>
+  <wpt lat="49.452829" lon="1.10981">
+    <name>rue de Bihorel</name>
+    <desc>La boite est en bas de la rue de Bihorel derrière l&apos;arrêt de bus du 20 à côté des petits commerces qui s&apos;y trouvent.</desc>
+  </wpt>
+  <wpt lat="49.4428601" lon="1.0787731">
+    <name>Quai de rouen droite</name>
+    <desc>La boite à lire se trouve à côté du restaurant le Ströke, sur les quais de Rouen droite. Au pied du parking.</desc>
+  </wpt>
+  <wpt lat="49.6337826" lon="-1.6482785">
+    <name>2 rue Max Pol Fouchet</name>
+    <desc>Superbe meuble valises pour livres voyageurs Dans le hall de la Bibliothèque Universitaire de Cherbourg</desc>
+  </wpt>
+  <wpt lat="49.0772994" lon="-0.4922617">
+    <name>rue Revel de Bretteville</name>
+    <desc>Dans l&apos;ancienne cabine téléphonique au croisement rue Revel de Bretteville et rue de la poste.</desc>
+  </wpt>
+  <wpt lat="49.2792964" lon="0.9116869">
+    <name>80 GRANDE RUE</name>
+    <desc>SOUS UN PORCHE</desc>
+  </wpt>
+  <wpt lat="49.2786124" lon="-0.1215741">
+    <name>Avenue Michel d&apos;ornano</name>
+    <desc>Petite boîte à lire remplie de livres au bord de la route.</desc>
+  </wpt>
+  <wpt lat="49.1678195" lon="-0.3481102">
+    <name>33 Avenue Capitaine Georges Guynemer</name>
+    <desc>La boite se situe dans le Parc Decaen.</desc>
+  </wpt>
+  <wpt lat="49.071679" lon="-0.487876">
+    <desc>La boite se situe dans le centre ville.</desc>
+  </wpt>
+  <wpt lat="49.4703258" lon="1.1194977">
+    <name>Mairie de Bois Guillaume</name>
+    <desc>La boite est à droite du parvis de la mairie face au parterre de fleurs devant la mairie.</desc>
+  </wpt>
+  <wpt lat="48.8369358" lon="-1.2188976">
+    <name>8, rue des costils</name>
+    <desc>Petit point lecture local avec des ouvrages divers.</desc>
+  </wpt>
+  <wpt lat="49.0228916" lon="1.1531353">
+    <name>résidence François Morel, rue du Puits Carré</name>
+    <desc>Boite à lire mise en place par l&apos;association de quartier Carrement Voisins, en face de l&apos;école du Puits Carré.</desc>
+  </wpt>
+  <wpt lat="49.0218726" lon="1.1528028">
+    <name>28 rue franklin roosevelt</name>
+    <desc>Boite à lire installée par l&apos;association de quartier Carrement Voisins.</desc>
+  </wpt>
+  <wpt lat="49.1980529" lon="-0.3898322">
+    <name>colline aux oiseaux</name>
+    <desc>A l&apos;entrée de la colline aux oiseaux, à l&apos;intérieur de la colline aux oiseaux.</desc>
+  </wpt>
+  <wpt lat="48.681697" lon="-1.1854149">
+    <name>3 Place de la mairie</name>
+    <desc>Sous le préau.</desc>
+  </wpt>
+  <wpt lat="49.2852017" lon="-0.1054079">
+    <name>Rue du Général de Gaulle</name>
+    <desc>Au milieu du village d art de Guillaume le Conquérant.</desc>
+  </wpt>
+  <wpt lat="49.399351" lon="0.126905">
+    <name>Place du lavoir</name>
+    <desc>Entourée de fleurs, près du lavoir, décorée de rondins en bois.</desc>
+  </wpt>
+  <wpt lat="49.0187509" lon="0.0657392">
+    <name>Les bouvets</name>
+    <desc>Cabine téléphonique sur le grand parking où se trouvent les conteneurs poubelles.</desc>
+  </wpt>
+  <wpt lat="49.4431949" lon="1.0884076">
+    <name>Place du Vieux Marché</name>
+    <desc>au pied de la rue Cauchoise</desc>
+  </wpt>
+  <wpt lat="49.2890316" lon="1.0066046">
+    <name>Place de la libération</name>
+    <desc>à côté du cinéma Mercure</desc>
+  </wpt>
+  <wpt lat="49.289483" lon="-0.1252578">
+    <name>Avenue de l&apos;aquilon</name>
+    <desc>Petite maison blanche dans un arbre.</desc>
+  </wpt>
+  <wpt lat="49.2860001" lon="1.0072049">
+    <name>place lécallier</name>
+    <desc>Au niveau du parking.</desc>
+  </wpt>
+  <wpt lat="49.291892" lon="1.007073">
+    <name>place de la mairie</name>
+    <desc>Se trouve juste à côté des jeux pour enfants.</desc>
+  </wpt>
+  <wpt lat="48.8966423" lon="-1.5687145">
+    <name>La cale</name>
+    <desc>Il y a même un livre en japonais pour les amateurs...</desc>
+  </wpt>
+  <wpt lat="49.6332058" lon="-1.6168125">
+    <name>11 avenue de paris</name>
+    <desc>A côté de l&apos;école Doisneau.</desc>
+  </wpt>
+  <wpt lat="49.623772" lon="-1.617796">
+    <name>rue Louis Lanonneur</name>
+    <desc>A côté du lavoir, au carrefour avec la rue de la source des oiseaux</desc>
+  </wpt>
+  <wpt lat="49.3229572" lon="0.8316307">
+    <name>Mairie</name>
+    <desc>Juste à côté de la mairie.</desc>
+  </wpt>
+  <wpt lat="49.2856765" lon="-0.2501697">
+    <name>65 Rue des Dunes</name>
+    <desc>Sur la piste cyclable jusqu à la plage, il y a un blanc boite à lire</desc>
+  </wpt>
+  <wpt lat="49.0280475" lon="1.1453545">
+    <name>3 Rue du 7E Chasseur</name>
+    <desc>Boîte installée devant le cinéma et à côté du McDo.</desc>
+  </wpt>
+  <wpt lat="49.4710581" lon="1.0877293">
+    <name>Parc du village</name>
+    <desc>Située juste à la 1 ère entrée du parc du Village à Mont Saint Aignan.</desc>
+  </wpt>
+  <wpt lat="49.0561849" lon="-1.1101203">
+    <name>BOURG</name>
+    <desc>Cabine téléphonique transformée joliment en cabine à livres... Plus de 270 livres actuellement.</desc>
+  </wpt>
+  <wpt lat="49.4952703" lon="0.3601306">
+    <name>Place de la mairie</name>
+  </wpt>
+  <wpt lat="49.1725397" lon="1.1770114">
+    <name>50 rue Aristide Briand</name>
+    <desc>Dans le magasin Vival Casino.</desc>
+  </wpt>
+  <wpt lat="49.1725397" lon="1.1770114">
+    <name>50 rue Aristide Briand</name>
+    <desc>Dans le magasin Vival Casino.</desc>
+  </wpt>
+  <wpt lat="49.4484665" lon="1.0938746">
+    <name>place Bernard tissot</name>
+    <desc>Située juste à la sortie de la gare</desc>
+  </wpt>
+  <wpt lat="49.6310701" lon="1.5382805">
+    <name>1058 route de Neufchâtel</name>
+    <desc>La ville de Serqueux a mis à la disposition une boîte à lire.</desc>
+  </wpt>
+  <wpt lat="49.0217522" lon="1.1490027">
+    <name>Rue du Jardin botanique</name>
+    <desc>Dans le jardin Public François Mitterand</desc>
+  </wpt>
+  <wpt lat="49.0478967" lon="-1.5962291">
+    <name>40 rue Amiral Tourville</name>
+    <desc>Livres de poches et toutes catégories.</desc>
+  </wpt>
+  <wpt lat="48.7648836" lon="0.6291601">
+    <name>Place Fulbert de Beina</name>
+    <desc>Boite disponible en place publique et ouverte à tous</desc>
+  </wpt>
+  <wpt lat="49.9186803" lon="1.0683727">
+    <name>Square Perotte</name>
+    <desc>Elle se trouve dans le square en face de l&apos;école de Broglie.</desc>
+  </wpt>
+  <wpt lat="49.0925706" lon="0.9732805">
+    <name>1 Avenue de Turgère</name>
+    <desc>Cabine téléphonique transformée en cabane à lire  devant la Mairie et face à l arrêt de car</desc>
+  </wpt>
+  <wpt lat="49.2612025" lon="-0.2872223">
+    <name>place Boisset</name>
+    <desc>Installée sous ancien arrêt de bus.</desc>
+  </wpt>
+  <wpt lat="49.0270723" lon="1.151076">
+    <name>place du Général de Gaulle</name>
+    <desc>Située face à l Hôtel de ville  près du Théâtre et de La Maison des Arts</desc>
+  </wpt>
+  <wpt lat="48.838589" lon="-0.886082">
+    <name>place Saint Thomas</name>
+    <desc>Mise en place par les élèves de 4G</desc>
+  </wpt>
+  <wpt lat="49.301467" lon="-0.465443">
+    <name>Grand rue</name>
+  </wpt>
+  <wpt lat="48.817499" lon="-1.568788">
+    <name>Avenue Jozeau-Marigne</name>
+    <desc>Devant l&apos;aire de jeux</desc>
+  </wpt>
+  <wpt lat="49.191068" lon="0.7218025">
+    <name>6 bis Avenue de la République</name>
+    <desc>Au lac  près des sanitaires. Une belle et grande boite qui  je l&apos;espère  restera longtemps en état.</desc>
+  </wpt>
+  <wpt lat="49.1180866" lon="1.6368323">
+    <name>route de gasny</name>
+    <desc>Au carrefour de la voie verte et de la route de Gasny</desc>
+  </wpt>
+  <wpt lat="49.3445659" lon="-0.7026974">
+    <name>119 Les parcs</name>
+    <desc>L&apos;espace Incroyables Comestibles à Longues-sur-Mer évolue... Il compte désormais une boîte à livres... Partage de plantes  échange de livres  semons des graines d idées...</desc>
+  </wpt>
+  <wpt lat="49.336387" lon="-0.696318">
+    <name>Chemin des Merisiers</name>
+    <desc>La boîte est complétée d un espace de partage de végétaux. Échange de plantes  partage de livres... Semons des graines d&apos;idées</desc>
+  </wpt>
+  <wpt lat="49.2864022" lon="-0.2589901">
+    <name>avenue de la mer</name>
+    <desc>Sur l&apos;aire de jeu au début de l&apos;avenue de la mer.</desc>
+  </wpt>
+  <wpt lat="49.5071305" lon="-1.4704431">
+    <name>25 rue de l&apos;église</name>
+    <desc>Boîte à lire à l office de tourisme</desc>
+  </wpt>
+  <wpt lat="48.605919" lon="0.172625">
+    <name>Parc d Argentré</name>
+    <desc>La Boîte à Livres est située au c?ur des jardins du Palais d&apos;Argentré  endroit propice à la lecture... Vous y trouverez des romans  des magazines  des BD pour les enfants mais aussi plus les plus grands ! Partager  découvrir et surtout LIRE sont les maîtres-mots de cette aventure !</desc>
+  </wpt>
+  <wpt lat="49.1491568" lon="0.508143">
+    <name>6 Grande-rue</name>
+    <desc>Boîte à lire devant la Mairie  dans une ancienne cabine téléphonique  projet initié par la Mairie.</desc>
+  </wpt>
+  <wpt lat="49.6423355" lon="-1.6668157">
+    <name>Rue des Hauts Varengs</name>
+    <desc>Elle se trouve à côté du centre social Le Totem.</desc>
+  </wpt>
+  <wpt lat="49.4430656" lon="1.1079124">
+    <name>Square Marcel Halbout</name>
+  </wpt>
+  <wpt lat="49.143692" lon="0.2549758">
+    <name>21 Place Mozart</name>
+  </wpt>
+  <wpt lat="49.1436999" lon="0.2435208">
+    <name>4 Rue Roger Aini</name>
+    <desc>Boite à lire dans le hall d&apos;entrée de l&apos;hôpital. Mise en place par l&apos;hôpital.</desc>
+  </wpt>
+  <wpt lat="49.1428804" lon="0.2404834">
+    <name>1 Avenue Taunton</name>
+    <desc>A l intérieur du Centre Socioculturel CAF</desc>
+  </wpt>
+  <wpt lat="49.143456" lon="0.21304">
+    <name>Rue Henri Poincaré</name>
+    <desc>boite installée à l&apos;initiative d&apos;un habitant</desc>
+  </wpt>
+  <wpt lat="49.4874079" lon="0.1355359">
+    <name>36 Rue Marceau</name>
+    <desc>Elle se trouve dans le hall d&apos;entrée de la clinique des ormeaux  à droite  à disposition de tous  résidents ou non.</desc>
+  </wpt>
+  <wpt lat="49.41689229800882" lon="0.2307558059692383">
+    <name>rue de la république</name>
+    <desc>Elle est rue de la République  la grande rue qui aboutit au port  sur la droite en allant vers le port.</desc>
+  </wpt>
+  <wpt lat="49.4219401" lon="1.0794763">
+    <name>114ter Avenue des Martyrs de la Résistance</name>
+    <desc>La boite se situe dans le Jardin des plantes.</desc>
+  </wpt>
+  <wpt lat="48.432856" lon="0.091266">
+    <name>Cour Bernadette et Jean Mars</name>
+    <desc>La boîte à lire est une ancienne cabine téléphonique anglaise  offerte par la municipalité de Basingstoke à la Ville d Alençon. Elle entame donc une deuxième vie  tout comme les livres qu on peut y trouver ! Elle se trouve près de la Médiathèque Aveline.</desc>
+  </wpt>
+  <wpt lat="49.1824856" lon="-0.3719345">
+    <name>36 rue saint manvieu</name>
+    <desc>La boite à lire se trouve au sein du café sauvage (café associatif). Ce n&apos;est pas une boîte à lire à proprement parler mais c&apos;est ce qui s&apos;en rapproche le plus pour le moment sur la ville de Caen  de vraies boîtes sont en projet.</desc>
+  </wpt>
+  <wpt lat="49.2834" lon="-0.2506346">
+    <name>rue des dunes</name>
+    <desc>Au bord de la piste cyclable qui longe la gare maritime.</desc>
+  </wpt>
+</gpx>

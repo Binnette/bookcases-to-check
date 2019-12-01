@@ -1,0 +1,971 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-34.5774905" minlon="-149.5709895" maxlat="59.615884" maxlon="55.6159039"/>
+  </metadata>
+  <wpt lat="50.4028456" lon="4.3637719">
+    <name>Rue de Mons</name>
+    <desc>Petite boîte à lire accompagnée d un petit potager collectif</desc>
+  </wpt>
+  <wpt lat="50.684505" lon="3.5628221">
+    <name>place d Anvaing</name>
+    <desc>A droite à l entrée de la place</desc>
+  </wpt>
+  <wpt lat="50.6292387" lon="5.7876066">
+    <name>Sur la commune 11</name>
+    <desc>Grande et jolie boîte à livres, en pleine campagne.</desc>
+  </wpt>
+  <wpt lat="50.6405285" lon="5.7928046">
+    <name>Place Albert Ier</name>
+    <desc>Boîte au milieu de la place. Proche des jeux pour enfants.</desc>
+  </wpt>
+  <wpt lat="-21.0272603" lon="55.2265249">
+    <name>11 rue du Grand Hôtel  Boucan Canot</name>
+    <desc>La boîte à livres est placée à l entrée d une école, lieu de passages enfants/ parents</desc>
+  </wpt>
+  <wpt lat="50.4851047" lon="4.8083365">
+    <name>12 Roue de Ramilies</name>
+    <desc>Accessible de 8h30 à 18h</desc>
+  </wpt>
+  <wpt lat="50.6289141" lon="4.968243">
+    <name>4 Baty de Branchon</name>
+    <desc>à la salle paroissiale   le foyer</desc>
+  </wpt>
+  <wpt lat="50.6086848" lon="4.8912142">
+    <name>7 Rue du village</name>
+  </wpt>
+  <wpt lat="50.558647" lon="4.9143196">
+    <name>32 Route de Namêche</name>
+    <desc>à l école saint martin</desc>
+  </wpt>
+  <wpt lat="46.3347377" lon="-73.49492">
+    <name>rue Lachance</name>
+  </wpt>
+  <wpt lat="-23.5532201" lon="-46.7133578">
+    <name>Praça Conde de Barcelos - Alto de Pinheiros</name>
+    <desc>Free book library. Rotary, shared reading initiative. Come make literary discoveries and collaborate with our cultural collective</desc>
+  </wpt>
+  <wpt lat="50.6823539" lon="4.2682528">
+    <name>rue de la Libération 4</name>
+    <desc>Boîte réalisée par les enfants de l école Saint-Rémy.</desc>
+  </wpt>
+  <wpt lat="47.3909528" lon="6.991837">
+    <name>Route de Besancon</name>
+    <desc>Sur le bord de la route, plutôt bien en vue</desc>
+  </wpt>
+  <wpt lat="47.414696" lon="7.07105">
+    <name>Rue mont-joie</name>
+  </wpt>
+  <wpt lat="50.616741425251504" lon="5.6821417808532715">
+    <name>Rue François Lapierre</name>
+    <desc>A l&apos;entrée du parking de l’hôtel de ville</desc>
+  </wpt>
+  <wpt lat="50.6383515" lon="5.6018817">
+    <name>rue Fond de Bois</name>
+    <desc>Sur la place en face du hall omnisport</desc>
+  </wpt>
+  <wpt lat="50.6168231151433" lon="5.682109594345094">
+    <name>Rue François Lapierre</name>
+    <desc>A l&apos;entrée du parking de l&apos;hôtel de ville</desc>
+  </wpt>
+  <wpt lat="50.0760743" lon="4.5097957">
+    <name>Rue du monument 5</name>
+    <desc>Boîte à livres dans le sas d entrée des commerceOuvert du lundi au samedi de 8h30 à 19h</desc>
+  </wpt>
+  <wpt lat="44.025352" lon="11.7823119">
+    <name>via rome 13</name>
+    <desc>une bibliothèque, rien que cela complétement gratuite !</desc>
+  </wpt>
+  <wpt lat="45.5143706" lon="-122.5045791">
+    <name>Place des Arawaks</name>
+    <desc>Sur la place en bord de mer, dans le kiosque près de la route en bordure du terrain de basket</desc>
+  </wpt>
+  <wpt lat="57.6656979" lon="15.8534799">
+    <name>Storgatan 44</name>
+    <desc>Ancienne cabine téléphonique</desc>
+  </wpt>
+  <wpt lat="14.4691573" lon="-60.8644936">
+    <name>Laverie, Marina du marin</name>
+    <desc>La boîte à lire se trouve dans la laverie de la Marina</desc>
+  </wpt>
+  <wpt lat="50.4072563" lon="4.5912519">
+    <name>Rue du Faubourg, 38</name>
+    <desc>Cette boite à livres a été mise en place par moi-même. C est lors d&apos;un voyage en Espagne, où j&apos;en ai vu une pour la première fois, que l&apos;idée m&apos;est venue.Dans ma rue, nous sommes tout un collectif de voisins organisant des barbecues, des réunions citoyennes, des soirées afin de créer un réel collectif citoyen favorisant le partage et la nature. Le fait de créer une boite à livres était donc un bon moyen de partage dans ce quartier !</desc>
+  </wpt>
+  <wpt lat="50.5934323" lon="5.8675346">
+    <name>rue de la maison communale</name>
+  </wpt>
+  <wpt lat="50.5745445" lon="5.8662821">
+    <name>rue de l église</name>
+  </wpt>
+  <wpt lat="50.1621429" lon="8.3180255">
+    <name>Feldbergstraße 1,</name>
+    <desc>Ancienne cabine téléphonique sur la place en face du magasin Tegut</desc>
+  </wpt>
+  <wpt lat="50.1621429" lon="8.3180255">
+    <name>Feldbergstraße 1,</name>
+    <desc>Ancienne cabine téléphonique sur la place en face du magasin Tegut</desc>
+  </wpt>
+  <wpt lat="-33.9941029" lon="22.5754099">
+    <name>zone piétonne , rue George Road</name>
+    <desc>boite située derrière le magasin Kwikspar dans la zone piétonne à Wilderness en Afrique du Sud</desc>
+  </wpt>
+  <wpt lat="50.7283721" lon="3.5175412">
+    <name>Rue d Anseroeul 34</name>
+    <desc>La Famille du 34 met à disposition des livres pour enfants et adultes.Suivez sur Facebook les aventures de  La Famille du 34.Bientôt, en juin 2019, une cabane à dons</desc>
+  </wpt>
+  <wpt lat="50.586725" lon="4.9038689">
+    <name>anne.herrezeel@gmail.com</name>
+    <desc>Boîte à livre et à cd s dans chapelle d&apos;Hanret, au croisement de la route de wasseiges et de la rue du parc dans le village d&apos;Hanret, Eghezée.</desc>
+  </wpt>
+  <wpt lat="50.5940198" lon="4.9565141">
+    <name>route de wasseiges</name>
+    <desc>Chouette boîte à livre et à cd s dans la chapelle d&apos;Hanret, au croisement de la route de wasseiges et de la rue du parc dans le village d&apos;Hanret, commune d&apos;Eghezée.</desc>
+  </wpt>
+  <wpt lat="50.39531" lon="5.93265">
+    <name>Avenue Ferdinand Nicolay</name>
+    <desc>Se trouve sur la petit place en face de l&apos;abbaye</desc>
+  </wpt>
+  <wpt lat="50.1933422" lon="4.5447316">
+    <name>Avenue de samart, 2B</name>
+    <desc>Dans l entrée de l&apos;Athénée Royal Jean Rostand</desc>
+  </wpt>
+  <wpt lat="46.9918301" lon="6.9342541">
+    <name>place du port</name>
+    <desc>Très belle boite à livre à NEUCHATEL en SUISSE à l arrêt de bus</desc>
+  </wpt>
+  <wpt lat="50.29689" lon="4.71906">
+    <name>Non précisée</name>
+  </wpt>
+  <wpt lat="50.6029948" lon="5.681296">
+    <name>rue du Village 11</name>
+    <desc>Adossée au mur de l école communale</desc>
+  </wpt>
+  <wpt lat="50.1898319" lon="5.9539193">
+    <name>30 rue de la gare</name>
+    <desc>Sur le mur du syndicat informations</desc>
+  </wpt>
+  <wpt lat="50.6104987" lon="5.6646518">
+    <name>5 Place Hector Denis</name>
+    <desc>Accolée au mur de la maison  Fléron Services</desc>
+  </wpt>
+  <wpt lat="50.3942394" lon="4.6913721">
+    <name>Avenue Albert 1er</name>
+  </wpt>
+  <wpt lat="50.4645451" lon="4.8615021">
+    <name>Rue Basse Marcelle 26</name>
+  </wpt>
+  <wpt lat="50.6714831" lon="4.6177932">
+    <name>Place de l&apos;Accueil 10</name>
+    <desc>Dans l&apos;étage inférieur du centre commercial L&apos;Esplanade</desc>
+  </wpt>
+  <wpt lat="50.4232435" lon="4.6349774">
+    <name>85 rue de Fosses</name>
+    <desc>La nouvelle Boîte à Lire de Kri vient d être installée en lieu et place de la précédente.</desc>
+  </wpt>
+  <wpt lat="-17.535286" lon="-149.547958">
+    <name>Mairie de Pirae</name>
+    <desc>Boite à livres située dans le hall de la mairie</desc>
+  </wpt>
+  <wpt lat="50.2356164" lon="5.5146155">
+    <name>Bardonwez 2</name>
+  </wpt>
+  <wpt lat="50.42654" lon="5.5668">
+    <name>Place du tilleul</name>
+    <desc>Près du banc</desc>
+  </wpt>
+  <wpt lat="50.4803255" lon="4.1897116">
+    <name>Place Matteoti</name>
+  </wpt>
+  <wpt lat="49.6227108" lon="5.7178679">
+    <name>Au Pré des Seigneurs</name>
+  </wpt>
+  <wpt lat="48.6266194" lon="8.0749207">
+    <name>49 rue de la République</name>
+    <desc>Implantée Square d&apos;Achern</desc>
+  </wpt>
+  <wpt lat="50.4806789" lon="5.5208921">
+    <name>6 Rue du Faustay</name>
+    <desc>Dans un ancien frigo devant le resto Le chef sans toque</desc>
+  </wpt>
+  <wpt lat="52.514374" lon="13.392429">
+    <name>Gertraudenstraße 18</name>
+    <desc>En Allemagne, les boites à livres sont très répandue</desc>
+  </wpt>
+  <wpt lat="35.3985958" lon="25.026866">
+    <name>Unnamed Road</name>
+    <desc>En Grèce, sur cette magnifique ile</desc>
+  </wpt>
+  <wpt lat="40.995945" lon="17.219189">
+    <name>Vico Gualdella, 5</name>
+    <desc>En Italie, simple mais efficace</desc>
+  </wpt>
+  <wpt lat="49.2050716" lon="8.11986">
+    <name>Paul-Münch-Str. 3</name>
+    <desc>En Allemagne, magnifique boite à livres pour les amateurs du Doctor Who puisque c&apos;est un Tardis</desc>
+  </wpt>
+  <wpt lat="50.5733058" lon="4.6880236">
+    <name>Avenue de la Station</name>
+    <desc>Boite à livres située dans la salle des pas perdus de la garde de Gembloux.</desc>
+  </wpt>
+  <wpt lat="50.5607516" lon="4.6924818">
+    <name>16 Rue Notre-Dame</name>
+  </wpt>
+  <wpt lat="50.4100945" lon="4.4484423">
+    <name>13 Rue du Parc</name>
+  </wpt>
+  <wpt lat="50.69557415219667" lon="4.548232555389405">
+    <name>Rue des écoles</name>
+    <desc>Située dans le tunnel sous la voie ferrée à 600m de la gare de Profondsart</desc>
+  </wpt>
+  <wpt lat="50.5347408" lon="5.4778916">
+    <name>11 Rue Biens Lefèvre</name>
+  </wpt>
+  <wpt lat="50.0484" lon="4.3190363">
+    <name>rue du pavillon</name>
+    <desc>la boite a livre se trouve sur le mur du coiffeur Coiff B</desc>
+  </wpt>
+  <wpt lat="50.4235635" lon="5.5304794">
+    <name>10b rue du Moulin</name>
+    <desc>Dans le hall omni-sport</desc>
+  </wpt>
+  <wpt lat="50.5835295" lon="5.6114066">
+    <name>Au cession 8</name>
+    <desc>A la piscine</desc>
+  </wpt>
+  <wpt lat="45.6695707" lon="9.7036313">
+    <name>Aéroport international de Bergame Orio al serio</name>
+    <desc>La grande bibliothèque blanche se trouve près des portes d embarquement.</desc>
+  </wpt>
+  <wpt lat="43.865491" lon="12.47308">
+    <name>Piazza Matteotti 1</name>
+    <desc>En Italie, le village de Monte grimano se revendique comme la capitale du bookcrossing, avec le plus de boite à livres dans tous le village</desc>
+  </wpt>
+  <wpt lat="47.3758846" lon="8.5104157">
+    <name>Aemtlerstrasse 151 Haupteingang gleich links beim Soldatendenkmal</name>
+    <desc>dans le cimetière</desc>
+  </wpt>
+  <wpt lat="50.6459618" lon="5.5755864">
+    <name>Square des p tits ouhès</name>
+  </wpt>
+  <wpt lat="50.2260982" lon="5.3424803">
+    <name>Boulevard du midi</name>
+    <desc>A l&apos;entrée de la maison communale</desc>
+  </wpt>
+  <wpt lat="-20.9341524" lon="55.2914834">
+    <name>Place des cheminots</name>
+    <desc>Liv  Voyazèr est une cabane à livres situé au Square Pierre Sémard qui a été réalisée par des élèves des lycées Jean Hinglo et Léon de Lepervanche au Port.</desc>
+  </wpt>
+  <wpt lat="48.9751211" lon="8.1786011">
+    <name>Place de la république</name>
+    <desc>En face de la poste près du kiosque.</desc>
+  </wpt>
+  <wpt lat="37.1351303" lon="-8.5386461">
+    <name>Águas Residuos Portimão</name>
+    <desc>EMARP-Emp Municipal Águas Residuos Portimãoin the office</desc>
+  </wpt>
+  <wpt lat="46.8394357" lon="14.8446485">
+    <name>Hoher Platz</name>
+    <desc>Telefonkabine</desc>
+  </wpt>
+  <wpt lat="47.5211715" lon="12.4308434">
+    <name>Bahnhofstraße</name>
+    <desc>Parkbibliothek</desc>
+  </wpt>
+  <wpt lat="49.6705916" lon="5.6000867">
+    <name>58 rue du bois</name>
+  </wpt>
+  <wpt lat="50.4729504" lon="5.0369213">
+    <name>174 Rue des cailloux</name>
+    <desc>A l école communale de Bonneville</desc>
+  </wpt>
+  <wpt lat="47.3208789" lon="11.6816151">
+    <name>Auweg 2</name>
+    <desc>Schöner Bücherschrank bei den öffentlichen Toiletten</desc>
+  </wpt>
+  <wpt lat="50.4806789" lon="5.5208921">
+    <name>6 rue du Faustay</name>
+    <desc>Devant le restaurant ChefSansToque</desc>
+  </wpt>
+  <wpt lat="50.4157166" lon="4.484042">
+    <name>rue des auduins</name>
+  </wpt>
+  <wpt lat="46.5373877" lon="6.6064139">
+    <name>Route du chasseur</name>
+    <desc>Boîte à livre située sur une esplanade en herbe près du collège de l&apos;union.</desc>
+  </wpt>
+  <wpt lat="50.267549804439334" lon="5.448886156082154">
+    <name>Ile Oneux</name>
+    <desc>Près des jeux d&apos;enfants</desc>
+  </wpt>
+  <wpt lat="50.5968881" lon="3.6713982">
+    <name>2 rue du Village</name>
+  </wpt>
+  <wpt lat="47.487901" lon="10.7323806">
+    <name>Max Kerber Platz 1</name>
+    <desc>schöne Telefonkabine</desc>
+  </wpt>
+  <wpt lat="46.839516" lon="14.8449616">
+    <name>Hoher Platz 9</name>
+    <desc>Telefonkabine</desc>
+  </wpt>
+  <wpt lat="28.1069048" lon="-15.4187926">
+    <name>Calle de Domingo J Navarro</name>
+    <desc>Cabina telefónica</desc>
+  </wpt>
+  <wpt lat="47.5896468" lon="7.768779">
+    <desc>Wird von der Rheinfelder Bibliothek betrieben und ist in einer ehemaligen Telefonzelle installiert. Einfach die Tür aufmachen und eintreten. Befindet sich auf dem Bahnsteig zwischen den Gleisen.</desc>
+  </wpt>
+  <wpt lat="46.626333" lon="14.221512">
+    <name>Krumpendorf am Wörthersee Bahnhof</name>
+    <desc>Im Bahnhof steht ein Regal und auch im Außenbereich</desc>
+  </wpt>
+  <wpt lat="50.3786035" lon="4.4636445">
+    <name>18 rue du Tunnel</name>
+    <desc>Initiative d&apos;une habitante</desc>
+  </wpt>
+  <wpt lat="50.7131731" lon="3.2523655">
+    <name>Rue de l&apos;Yser</name>
+    <desc>Dans un ancien frigo</desc>
+  </wpt>
+  <wpt lat="50.4756861" lon="5.5761913">
+    <name>Place Leblanc</name>
+    <desc>Sur la place</desc>
+  </wpt>
+  <wpt lat="42.2632172" lon="3.1744145">
+    <name>Avinguda de Rhode</name>
+    <desc>En Espagne, Gérone en CatalogneLes citadelles de Rosas</desc>
+  </wpt>
+  <wpt lat="50.5082855" lon="5.5792791">
+    <name>Rue Puissant</name>
+    <desc>Au bord de la route</desc>
+  </wpt>
+  <wpt lat="50.2019661" lon="5.3180082">
+    <name>rue de l ancienne poste 5</name>
+    <desc>Près de l église</desc>
+  </wpt>
+  <wpt lat="50.2812277" lon="5.912439">
+    <name>Place de Salm</name>
+    <desc>Boite à livre place de Salm</desc>
+  </wpt>
+  <wpt lat="50.6415738" lon="5.5753666">
+    <name>Place Cockerill</name>
+    <desc>Pour les étudiants, dans la cafétéria de l Université de Liège.</desc>
+  </wpt>
+  <wpt lat="50.4911288" lon="4.8904181">
+    <name>rue hector fontaine</name>
+    <desc>NAMUR belgique</desc>
+  </wpt>
+  <wpt lat="50.4860307" lon="4.4294578">
+    <name>56 rue Jean lorette</name>
+    <desc>Presque en face de la pharmacie...a côté des garages du n 56</desc>
+  </wpt>
+  <wpt lat="50.049073" lon="4.319426">
+    <name>rue maurice gauchez</name>
+    <desc>près de l&apos;enseigne bara et d&apos;un coiffeur derrière l&apos;athenée royal section secondaire</desc>
+  </wpt>
+  <wpt lat="50.4235823" lon="4.635106">
+    <name>Rue de Fosses 85</name>
+    <desc>La Boîte à Lire de Kri</desc>
+  </wpt>
+  <wpt lat="37.9509594" lon="23.7029794">
+    <name>Dimosthenous 157</name>
+    <desc>Sur le mur de la 1ère école primaire de Kallithea, côté rue Dimosthenous, des étagères et une jolie boite à livres à la disposition des passants.</desc>
+  </wpt>
+  <wpt lat="47.2661991" lon="11.4042502">
+    <name>Museumstraße 38A</name>
+    <desc>Schöner öffentlicher Bücherschrank im  2. OG</desc>
+  </wpt>
+  <wpt lat="40.4171675" lon="-3.689334">
+    <name>Between C. Alfonso XII and Avenida de Menendez Pelayo</name>
+    <desc>Dans le grand parc du Retiro  de 118 hectares situé au c?ur de Madrid.</desc>
+  </wpt>
+  <wpt lat="41.6337898" lon="-0.8880662">
+    <name>Paseo de Colón 14</name>
+    <desc>A l&apos;entrée de l&apos;hôpital  San Juan de Dios de Zaragoza en Espagne</desc>
+  </wpt>
+  <wpt lat="-34.5774905" lon="-58.457718">
+    <name>Virrey Loreto 3530</name>
+    <desc>Biblioteca al Paso, Buenos Aires, Argentine</desc>
+  </wpt>
+  <wpt lat="-20.8869223" lon="55.4509524">
+    <name>jardin de l état</name>
+    <desc>Boites à lire disposées à divers endroits du jardin</desc>
+  </wpt>
+  <wpt lat="-23.540877" lon="-46.7064596">
+    <name>Praça Japubá 35</name>
+    <desc>Petite boîte à lire à São Paulo, Brésil</desc>
+  </wpt>
+  <wpt lat="4.9363102" lon="-52.3341934">
+    <name>2 place du marché</name>
+    <desc>La boîte à lire se situe à l Alliance française de Cayenne. Ouverte à tous aux heures d&apos;ouverture de l&apos;Alliance.</desc>
+  </wpt>
+  <wpt lat="50.6128114" lon="5.5855771">
+    <name>rue de l Hotel de ville</name>
+    <desc>Dans le hall d entrée de la maison communale</desc>
+  </wpt>
+  <wpt lat="42.2887571" lon="3.2779723">
+    <desc>la boite se trouve  en face de la sortie du grand  parking payant livres en espagnol, français, allemand il y en a pour tous les goûts.</desc>
+  </wpt>
+  <wpt lat="46.8019038" lon="7.145531">
+    <name>34 Avenue Beauregard</name>
+    <desc>à côté de la boulangerie Lauper</desc>
+  </wpt>
+  <wpt lat="28.1668015" lon="-14.2204713">
+    <name>Av. Jahn Reisen, 11 Urbanización Cañada del Río</name>
+    <desc>boite a livre se trouve au fond du hall de l hotel SBH Monica beach costa calma Ile de  fuerteventura EspagneLivres en francais anglais espagnol et allemand</desc>
+  </wpt>
+  <wpt lat="49.4665188" lon="6.3719896">
+    <name>11 route de Trèves</name>
+    <desc>En face de la Tour Eiffel miniature, l ancien poste douanier a été réaménagé en Armoire à Livres. Il y a des ouvrages en français et en allemand, car c&apos;est une armoire transfrontalière.</desc>
+  </wpt>
+  <wpt lat="50.4433028" lon="3.8685701">
+    <name>Rue Charles Dupuis, 118</name>
+    <desc>Nos boîtes se trouvent dans l accueil du Cpas, et sont accessibles du lundi au vendredi de 8h00 à 16h00. nous avons réalisé 3 boîtes, une à destination des enfants, une pour ados et une pour adultes.</desc>
+  </wpt>
+  <wpt lat="50.4433028" lon="3.8685701">
+    <name>Rue Charles Dupuis, 118</name>
+    <desc>Dans l&apos;accueil du Cpas, accessibles du lundi au vendredi de 8h à 16h. Il y a 3 boîtes : une pour enfants, une pour ados, et une pour adultes</desc>
+  </wpt>
+  <wpt lat="50.4433028" lon="3.8685701">
+    <name>Rue Charles Dupuis, 118</name>
+    <desc>Nos boîtes se trouvent dans l accueil du Cpas, et sont accessibles du lundi au vendredi de 8h00 à 16h00. Nous avons réalisé 3 boîtes, une à destination des enfants, une pour ados et une pour  adultes.</desc>
+  </wpt>
+  <wpt lat="50.2020918" lon="5.3180389">
+    <name>Rue de l ancienne poste N°5</name>
+    <desc>1ère boite à lire du village, elle est stratégiquement posée sur le muret de l école. elle est accessible pour les élèves mais aussi pour les habitants du village ou gens de passage.</desc>
+  </wpt>
+  <wpt lat="50.2020918" lon="5.3180389">
+    <name>rue de l Ancienne Poste</name>
+    <desc>1ère boite à lire du village, elle est stratégiquement posée sur le muret de l école. Elle est accessible pour les élèves mais aussi pour les habitants du village ou gens de passage.</desc>
+  </wpt>
+  <wpt lat="46.8334272" lon="7.0712846">
+    <name>Place de l Eglise 3</name>
+    <desc>En face de l Eglise du village de Grolley</desc>
+  </wpt>
+  <wpt lat="50.2250824" lon="5.345342">
+    <name>30 avenue de la Toison d Or</name>
+  </wpt>
+  <wpt lat="50.6509034" lon="5.5882625">
+    <name>74 rue Maghin</name>
+    <desc>Dans la salle d attente de la Maison Médicale Saint Léonard</desc>
+  </wpt>
+  <wpt lat="50.6528027" lon="5.5896167">
+    <name>46 place Vivegnis</name>
+    <desc>A l entrée de la Bibliothèque Saint Léonard,</desc>
+  </wpt>
+  <wpt lat="50.2406915" lon="4.4530119">
+    <name>rue du monument</name>
+    <desc>de dimension modeste mais débordante de livre, dans le petit village sympa de Vogenée</desc>
+  </wpt>
+  <wpt lat="47.3872524" lon="8.5334559">
+    <name>Wasserwerkstrasse 93</name>
+    <desc>Le magazine de voyage suisse Transhelvetica entretient une boite à lire et échange de livres.Transhelvetischer Büchertausch am alten Bahnhof Letten bei der Redaktion des Schweizer Reisemagazins Transhelvetica.</desc>
+  </wpt>
+  <wpt lat="50.5771" lon="5.67611">
+    <name>rue de l Eglise</name>
+    <desc>A côté de l&apos;administration communale.</desc>
+  </wpt>
+  <wpt lat="50.5861239" lon="5.6418902">
+    <name>Avenue des Thermes</name>
+    <desc>Dans le parc O.Rama</desc>
+  </wpt>
+  <wpt lat="50.5931633" lon="5.6115519">
+    <name>Avenue du Centenaire</name>
+    <desc>Dans le parc Jean Gol.</desc>
+  </wpt>
+  <wpt lat="50.6657314" lon="5.6316582">
+    <name>Rue Large Voie 9</name>
+    <desc>Boîte à livres dans le salon de coiffure Soho</desc>
+  </wpt>
+  <wpt lat="50.7093098" lon="5.6434157">
+    <name>Avenue Reine Astrid 8</name>
+    <desc>Boîte à livres dans salon de coiffure Soho</desc>
+  </wpt>
+  <wpt lat="50.6011024" lon="5.6316395">
+    <name>Place Foguenne</name>
+  </wpt>
+  <wpt lat="50.5587656" lon="4.6881297">
+    <name>19, rue lucien petit</name>
+    <desc>C&apos;est une toute nouvelle boite à livre faites artisanalement.</desc>
+  </wpt>
+  <wpt lat="49.6894295" lon="5.80734">
+    <name>Rue Sainte Croix, 50</name>
+    <desc>Boulangerie Van De Kerkhove</desc>
+  </wpt>
+  <wpt lat="49.6873788" lon="5.8100825">
+    <name>Rue de Bastogne, 30</name>
+    <desc>Cabinet médical Medarel</desc>
+  </wpt>
+  <wpt lat="49.6835796" lon="5.8080481">
+    <name>Rue Léon Castilhon, 46</name>
+    <desc>en face de la prison</desc>
+  </wpt>
+  <wpt lat="49.685164" lon="5.8155821">
+    <name>Rue Porte Neuve, 73</name>
+  </wpt>
+  <wpt lat="49.6847763" lon="5.8106334">
+    <name>Rue des Faubourgs, 46</name>
+  </wpt>
+  <wpt lat="49.6951835" lon="5.8099232">
+    <name>Rue de Bastogne, 250</name>
+  </wpt>
+  <wpt lat="49.6839299" lon="5.8154464">
+    <name>Rue des Capucins, 50</name>
+  </wpt>
+  <wpt lat="49.6747542" lon="5.8137076">
+    <name>Avenue Patton, 93</name>
+    <desc>Boîte à lire N°1 Arlon.</desc>
+  </wpt>
+  <wpt lat="46.7897642" lon="6.5234516">
+    <name>Rue du chemin neuf 6</name>
+    <desc>La boîte se situe sur le petit mur qui longe le jardin.</desc>
+  </wpt>
+  <wpt lat="46.1906844" lon="7.210225">
+    <name>Ch des carrières 6</name>
+    <desc>A côté du distributeur de produits du terroir leemannfruits.ch</desc>
+  </wpt>
+  <wpt lat="50.701" lon="5.8804992">
+    <name>Route de la Clouse 90</name>
+    <desc>Devant l&apos;école.</desc>
+  </wpt>
+  <wpt lat="50.3436202" lon="4.8118795">
+    <name>Rue Parapet 35</name>
+    <desc>La boite à livres de Zaza Macaroni.</desc>
+  </wpt>
+  <wpt lat="50.3655611" lon="4.8746689">
+    <name>Chemin des villas 10</name>
+    <desc>La boite à livres de Babouchka Boite à livres en papier-mâché réalisé par Zaza Macaroni</desc>
+  </wpt>
+  <wpt lat="50.6931109" lon="5.8541101">
+    <name>route de battice, 140</name>
+  </wpt>
+  <wpt lat="50.7061599" lon="5.8580257">
+    <name>Place albert 1er</name>
+    <desc>En haut de la place Albert 1er à Aubel.</desc>
+  </wpt>
+  <wpt lat="46.46411" lon="12.2047519">
+    <name>Via Nazionale, 51</name>
+    <desc>La boîte à lire est appelée Biblioteca Stradale et se trouve dans les Dolomites.</desc>
+  </wpt>
+  <wpt lat="50.814245" lon="4.3605296">
+    <name>383 rue vanderkindere straat</name>
+    <desc>C&apos;est la tendance du livre gratuit. N&apos;hésitez pas à utiliser cette boîte à livre!</desc>
+  </wpt>
+  <wpt lat="47.0457848" lon="9.4393779">
+    <name>Altstadt</name>
+    <desc>A Sargans en Suisse, canton de Saint-Gall se trouve une armoire à livres dans la vieille ville, Staedtchenstrasse.</desc>
+  </wpt>
+  <wpt lat="50.4078263" lon="4.5428149">
+    <name>Rue J.A. Chaudron 38</name>
+  </wpt>
+  <wpt lat="47.1384708" lon="9.5225877">
+    <name>Städtle 39</name>
+    <desc>L armoire à livres se situe près de la poste centrale et de l&apos;office du tourisme de Vaduz, dans la Principauté du Liechtenstein, à quelques mètres de la Postgasse.</desc>
+  </wpt>
+  <wpt lat="50.3836374" lon="4.3819036">
+    <name>rue de la marchienne</name>
+    <desc>juste derrière la maison communale, à la petite plaine de jeux, il y en a aussi une à la bibliothèque mais les heures d ouverture sont limitées.</desc>
+  </wpt>
+  <wpt lat="50.4449591" lon="5.1428617">
+    <name>Rue de Nalamont 139</name>
+    <desc>Se trouve sur le site de l école communale à Haillot. Réalisée par le comité des parents et décorée par l&apos;équipe éducative et les enfants.</desc>
+  </wpt>
+  <wpt lat="50.490526" lon="4.4080915">
+    <name>place des combattants</name>
+  </wpt>
+  <wpt lat="50.3173727" lon="4.1939276">
+    <name>8 rue saint Pierre</name>
+  </wpt>
+  <wpt lat="50.675258" lon="5.0835689">
+    <name>rue des combattants 1</name>
+    <desc>devant l académie communale</desc>
+  </wpt>
+  <wpt lat="50.6743953" lon="5.0739763">
+    <name>rue de tirlemont 51</name>
+  </wpt>
+  <wpt lat="50.3000625" lon="4.719307">
+    <name>rue de la molignée 8</name>
+    <desc>ERMETTON SUR BIERT</desc>
+  </wpt>
+  <wpt lat="50.3245459" lon="4.6572466">
+    <name>77 rue albert 1er</name>
+    <desc>province de NAMUR BELGIQUE</desc>
+  </wpt>
+  <wpt lat="46.0467219" lon="-73.115151">
+    <name>rue du prince</name>
+    <desc>Plusieurs boites à livres ont été installées dans la commune de SOREL TRACY au Canada. Parc carré royal, Parc Dorimêne, parc regard sur le fleuve,</desc>
+  </wpt>
+  <wpt lat="49.7000217" lon="5.7615006">
+    <name>104 rue du Panorama</name>
+    <desc>Jolie boîte dédiée au livre-échange installée en juillet 2017 dans le village de Freylange.</desc>
+  </wpt>
+  <wpt lat="48.5825765" lon="7.8466082">
+    <desc>Bücherschrank Bücherwurm auf dem Marktplatz Non pas une, mais deux armoires à livres, sur la place du marché d une petite ville allemande, à portée de tram de Strasbourg.</desc>
+  </wpt>
+  <wpt lat="46.5248512" lon="6.630107">
+    <name>Rue Pré-duMarché</name>
+    <desc>Ancienne cabine téléphonique, au pied du clocher de la basilique Notre-Dame.</desc>
+  </wpt>
+  <wpt lat="46.9484519" lon="7.0287751">
+    <name>Rue de l&apos;ancienne ecole</name>
+    <desc>La boite se trouve au numéro 5.</desc>
+  </wpt>
+  <wpt lat="50.3994162" lon="3.7382005">
+    <name>rue d Italie, 2</name>
+    <desc>Les premières boîtes à lire de la Bibliothèque de Dour sont enfin disponibles ! L&apos;une d&apos;elle se trouve à la Cité Sainte-Odile à Elouges. Bonne lecture à tous !</desc>
+  </wpt>
+  <wpt lat="50.394252" lon="3.7767741">
+    <name>Chemin des Croix, 3</name>
+    <desc>Les premières boîtes à lire de la Bibliothèque de Dour sont enfin disponibles ! L&apos;une d&apos;elle se trouve à l&apos;intérieur du Belvédère. Bonne lecture à tous !</desc>
+  </wpt>
+  <wpt lat="50.3964631" lon="3.7789279">
+    <name>Grand-Place,1</name>
+    <desc>Les boîtes à livres de la Bibliothèque de Dour sont enfin disponibles ! L&apos;une d&apos;elle se trouve à l&apos;intérieur de l&apos;Hôtel de ville de Dour. Bonne lecture à tous !</desc>
+  </wpt>
+  <wpt lat="50.626098" lon="4.996915">
+    <name>rue du Baron d&apos;Obin 219</name>
+  </wpt>
+  <wpt lat="50.697216" lon="5.256537">
+    <name>rue Charles Lejeune 4</name>
+  </wpt>
+  <wpt lat="50.613496" lon="5.231509">
+    <name>Place Maurice Grandgagnage 4</name>
+  </wpt>
+  <wpt lat="50.591979" lon="5.85441">
+    <name>rue Lucien Defays 10</name>
+  </wpt>
+  <wpt lat="50.580037" lon="5.839346">
+    <name>rue Henri Davignon 5</name>
+  </wpt>
+  <wpt lat="50.591023" lon="5.868168">
+    <name>rue Courte du Pont 20</name>
+  </wpt>
+  <wpt lat="50.531166" lon="5.815661">
+    <name>rue des 600 Franchimontois 1</name>
+  </wpt>
+  <wpt lat="50.493332" lon="5.86687">
+    <name>rue de l&apos;Hôtel de Ville 44</name>
+  </wpt>
+  <wpt lat="50.588923" lon="5.50457">
+    <name>rue de la Jeunesse 2</name>
+  </wpt>
+  <wpt lat="50.571206" lon="5.536189">
+    <name>Avenue du Gerbier 6</name>
+  </wpt>
+  <wpt lat="50.620071" lon="5.486764">
+    <name>Place Brossolette 2</name>
+  </wpt>
+  <wpt lat="50.599909" lon="5.538714">
+    <name>rue de l&apos;Enseignement 166</name>
+  </wpt>
+  <wpt lat="50.599909" lon="5.538714">
+    <name>rue de l&apos;Enseignement 166</name>
+  </wpt>
+  <wpt lat="50.581566" lon="5.48671">
+    <name>Avenue des Puddleurs</name>
+  </wpt>
+  <wpt lat="50.631784" lon="5.539246">
+    <name>rue de l&apos;Hôtel Communal 63</name>
+  </wpt>
+  <wpt lat="50.601043" lon="5.35473">
+    <name>rue Albert 1er 16</name>
+  </wpt>
+  <wpt lat="50.678461" lon="5.320628">
+    <name>rue Nouvelle Percée 5</name>
+  </wpt>
+  <wpt lat="50.743232" lon="5.988722">
+    <name>rue César Franck 163</name>
+  </wpt>
+  <wpt lat="50.567196" lon="5.806948">
+    <name>rue Nids d&apos;Aguesses 1</name>
+  </wpt>
+  <wpt lat="50.708935" lon="5.644446">
+    <name>rue du Roi Albert 194</name>
+  </wpt>
+  <wpt lat="50.735464" lon="5.667359">
+    <name>rue des Ecoles 4</name>
+  </wpt>
+  <wpt lat="50.5302172" lon="5.4128863">
+    <name>4 rue du Presbytère</name>
+  </wpt>
+  <wpt lat="50.483026" lon="5.297779">
+    <name>Place Georges Hubin 1-3-5</name>
+  </wpt>
+  <wpt lat="50.480247" lon="5.22551">
+    <name>Place Belle Maison 14</name>
+  </wpt>
+  <wpt lat="50.71485" lon="5.033351">
+    <name>rue des Ecoles 1</name>
+  </wpt>
+  <wpt lat="50.622408" lon="5.938324">
+    <name>Quartier du Vieux Moulin 1</name>
+  </wpt>
+  <wpt lat="50.718736" lon="6.013138">
+    <name>rue du Patronage</name>
+  </wpt>
+  <wpt lat="50.709107" lon="5.531027">
+    <name>rue du Tige 142 A</name>
+  </wpt>
+  <wpt lat="50.726558" lon="5.562956">
+    <name>rue Cordémont 17</name>
+  </wpt>
+  <wpt lat="50.558928" lon="5.966864">
+    <name>rue de la Fagne 46</name>
+  </wpt>
+  <wpt lat="50.520096" lon="5.241673">
+    <name>rue des Augustins 18 B</name>
+  </wpt>
+  <wpt lat="50.519757" lon="5.24912">
+    <name>rue du Long Thier 35</name>
+  </wpt>
+  <wpt lat="50.665596" lon="5.610728">
+    <name>rue Henri Nottet 11</name>
+  </wpt>
+  <wpt lat="50.685215" lon="5.641132">
+    <name>Avenue de la Cité Wauters 35 B</name>
+  </wpt>
+  <wpt lat="50.688283" lon="5.593838">
+    <name>rue de la Renaissance 11</name>
+  </wpt>
+  <wpt lat="50.675963" lon="5.082159">
+    <name>rue de Landen 43</name>
+  </wpt>
+  <wpt lat="50.674513" lon="5.074268">
+    <name>Route de Tirlemont 51</name>
+  </wpt>
+  <wpt lat="50.426721" lon="5.532256">
+    <name>rue Gilles Del Cour 10</name>
+  </wpt>
+  <wpt lat="50.646232" lon="5.504085">
+    <name>rue des Alliés 33</name>
+  </wpt>
+  <wpt lat="50.613646" lon="5.676228">
+    <name>rue de Romsée 18</name>
+  </wpt>
+  <wpt lat="50.616239" lon="5.682309">
+    <name>rue François Lapierre 19</name>
+  </wpt>
+  <wpt lat="50.400703" lon="5.607513">
+    <name>rue de Lognoul 6</name>
+  </wpt>
+  <wpt lat="50.624807" lon="6.033622">
+    <name>Bergkapellstrasse 46</name>
+  </wpt>
+  <wpt lat="50.62136" lon="6.040375">
+    <name>Hillstrasse 7</name>
+  </wpt>
+  <wpt lat="50.639366" lon="6.025452">
+    <name>Nöretherstrasse 53</name>
+  </wpt>
+  <wpt lat="50.531706" lon="5.564196">
+    <name>Avenue Montéfiore 26 A</name>
+  </wpt>
+  <wpt lat="50.52656" lon="5.572223">
+    <name>rue de la Station 80</name>
+  </wpt>
+  <wpt lat="50.558932" lon="5.362099">
+    <name>rue du Pont 7</name>
+  </wpt>
+  <wpt lat="50.610318" lon="5.851769">
+    <name>rue Léopold 36</name>
+  </wpt>
+  <wpt lat="50.735538" lon="5.76904">
+    <name>rue Bassetrée 5</name>
+  </wpt>
+  <wpt lat="50.626506" lon="5.149926">
+    <name>Place du Carcan 2</name>
+  </wpt>
+  <wpt lat="50.698443" lon="5.211388">
+    <name>rue Antoine Dodion 10</name>
+  </wpt>
+  <wpt lat="50.668754" lon="5.500587">
+    <name>rue Edouard Colson 148</name>
+  </wpt>
+  <wpt lat="50.667461" lon="5.507504">
+    <name>Esplanade de l&apos;Hôtel Communal 1</name>
+  </wpt>
+  <wpt lat="46.7786059" lon="6.6413118">
+    <name>Place Pestalozzi</name>
+    <desc>Situé devant la papeterie à côté du Temple</desc>
+  </wpt>
+  <wpt lat="50.6694065" lon="4.6117473">
+    <name>Grand Place</name>
+    <desc>Mise à disposition par la Maison du Développement Durable</desc>
+  </wpt>
+  <wpt lat="50.8659236" lon="4.7058925">
+    <name>Zegelaan</name>
+    <desc>Jolie petite cabanette avec des livres en français anglais flamand et autres J en ai même trouvé un en hongrois une fois.</desc>
+  </wpt>
+  <wpt lat="50.3637817" lon="4.5116214">
+    <name>Rue de Villers 81</name>
+    <desc>La boite se trouve au niveau de l&apos;école de Lausprelle.</desc>
+  </wpt>
+  <wpt lat="49.4031329" lon="8.687452">
+    <name>Wilhelmsplatz</name>
+    <desc>La boite se trouve dans le kiosque au milieu de la place.</desc>
+  </wpt>
+  <wpt lat="45.5761536" lon="-73.5497082">
+    <name>4457 Rue Louis-Veuillot</name>
+  </wpt>
+  <wpt lat="50.8378953" lon="4.3643221">
+    <name>Rue d&apos;Edimbourg 26,</name>
+    <desc>Dans les Locaux de Mundo-B juste à l&apos;entrée</desc>
+  </wpt>
+  <wpt lat="50.8223824" lon="4.3454917">
+    <name>Rue ducpetiaux 133</name>
+    <desc>Située devant une plaine de jeux</desc>
+  </wpt>
+  <wpt lat="-17.5545371" lon="-149.5709895">
+    <name>avenue de tipaeru&apos;i</name>
+    <desc>La boite se trouve au 1er étage du Conservatoire  près des bureaux de la direction.</desc>
+  </wpt>
+  <wpt lat="50.449935" lon="3.951602">
+    <name>4a rue des soeurs noires</name>
+    <desc>Site du Carré des arts - Domaine des Arts visuels d ARTS². Au 1er étage  couloir de droite  en face de la Bibliothèque.</desc>
+  </wpt>
+  <wpt lat="48.0969008" lon="-77.7887848">
+    <name>113, rue Saint Laurent</name>
+  </wpt>
+  <wpt lat="54.6811335" lon="25.2946287">
+    <name>Malūnų g.</name>
+  </wpt>
+  <wpt lat="50.2833406" lon="4.9704123">
+    <name>2 rue du centre</name>
+    <desc>Cette boite à lire est pour tous ceux qui aiment lire et partager leurs lectures.</desc>
+  </wpt>
+  <wpt lat="50.6014226" lon="4.1361197">
+    <name>19 rue des Frères Dulait</name>
+    <desc>L&apos;arbre à livres se trouve à l&apos;entrée du CPAS de Braine-le-Comte</desc>
+  </wpt>
+  <wpt lat="50.5748995" lon="4.0692816">
+    <name>70 rue de la station</name>
+    <desc>L&apos;arbre à livres se trouve dans l entrée du Centre Culturel  face au restaurent Chez Joseph.</desc>
+  </wpt>
+  <wpt lat="50.4770606" lon="4.2392997">
+    <name>34 rue Ferrer</name>
+    <desc>Disponible tous les jours de 8h à 18h!</desc>
+  </wpt>
+  <wpt lat="50.6092387" lon="4.1347985">
+    <name>1 rue Adolphe Gillis</name>
+    <desc>L&apos;arbre à livres se trouve dans l&apos;entrée de la crèche.</desc>
+  </wpt>
+  <wpt lat="50.610328" lon="4.1365631">
+    <name>4 grand place</name>
+    <desc>Cet arbre à livres se trouve dans la bibliothèque communale de Braine-le-Comte.</desc>
+  </wpt>
+  <wpt lat="50.4538894" lon="4.1987211">
+    <name>rue de l&apos;église</name>
+    <desc>Un projet citoyen qui a vu le jour en juin 2016 et qui connaît un beau succès.</desc>
+  </wpt>
+  <wpt lat="50.6115366" lon="3.3916077">
+    <name>Place Verte</name>
+    <desc>Mise en place par l&apos;asbl Tournai Centre-Ville et les riverains de la place.</desc>
+  </wpt>
+  <wpt lat="50.308972" lon="4.1203386">
+    <name>17, rue du Port</name>
+    <desc>Petite boite à livres située à Erquelinnes (Belgique)  tout près du port de plaisance</desc>
+  </wpt>
+  <wpt lat="50.289996" lon="5.338671">
+    <name>rue du Village</name>
+    <desc>BelgiqueFace à l&apos;église</desc>
+  </wpt>
+  <wpt lat="50.4288518" lon="3.7436786">
+    <name>2 grande ruelle</name>
+    <desc>En Belgique</desc>
+  </wpt>
+  <wpt lat="50.4289022" lon="3.7436734">
+    <name>6 Grande ruelle</name>
+    <desc>En Belgique</desc>
+  </wpt>
+  <wpt lat="59.615884" lon="17.7166933">
+    <name>Nicolai gränd 1</name>
+    <desc>Ancienne cabine téléphonique. Littérature suédoise</desc>
+  </wpt>
+  <wpt lat="50.8271016" lon="4.372799">
+    <name>Place Flagey 18</name>
+  </wpt>
+  <wpt lat="50.8496678" lon="4.3534132">
+    <name>Munt 6</name>
+  </wpt>
+  <wpt lat="50.8356" lon="4.306795">
+    <name>De Rinck Dapperheidsplein 7</name>
+    <desc>Gemeenschapcentrum De Rinck</desc>
+  </wpt>
+  <wpt lat="50.8369712" lon="4.3069531">
+    <name>Rue du Chapelain, 1-7</name>
+    <desc>Bibliothèque de l?Espace Maurice Carême</desc>
+  </wpt>
+  <wpt lat="50.8369712" lon="4.3069531">
+    <name>Rue du Chapelain, 1-7</name>
+  </wpt>
+  <wpt lat="50.6505779" lon="5.4014433">
+    <name>1 rue du Monument</name>
+    <desc>Belgique à RolouxBelle petite boite bien protegee belle variete</desc>
+  </wpt>
+  <wpt lat="50.2382528" lon="4.241444">
+    <name>2, rue Germain Michiels</name>
+    <desc>A l entrée d&apos;un magasin Bien remplie ...</desc>
+  </wpt>
+  <wpt lat="50.4982456" lon="5.8829784">
+    <name>Avenue Amédée Hesse 9</name>
+    <desc>A l&apos;entrée de la piscine.</desc>
+  </wpt>
+  <wpt lat="50.4982524" lon="5.8829733">
+    <name>9 Avenue Amédée Hesse</name>
+    <desc>A l&apos;extérieur de la piscine communale</desc>
+  </wpt>
+  <wpt lat="36.8172871" lon="24.5596228">
+    <name>Ruelle de Chora</name>
+    <desc>Initiative de l association Kimolites.</desc>
+  </wpt>
+  <wpt lat="38.0723678" lon="23.8136596">
+    <name>4 rue Levidou</name>
+    <desc>Sur le trottoir en face de la boulangerie Paul.</desc>
+  </wpt>
+  <wpt lat="45.2313417" lon="13.5994697">
+    <name>Ul Nikole Tesle</name>
+  </wpt>
+  <wpt lat="37.9408412" lon="23.7403763">
+    <name>Avenue Vouliagmeni 276</name>
+    <desc>Dans la station de métro Agios Dimitrios  en face du point de vente des titres de transport.</desc>
+  </wpt>
+  <wpt lat="40.6331882" lon="22.9360786">
+    <name>Navarhou Votsi</name>
+    <desc>Installée en 2015  l&apos;intérieur est tapissé d&apos;étagères. Il faut passer dessous et mettre sa tête directement dans la boîte pour avoir accès aux livres.</desc>
+  </wpt>
+  <wpt lat="40.4975568" lon="22.834533">
+    <name>Aggelochori</name>
+    <desc>Initiative d&apos;un habitant du village d&apos;Aggelochori amoureux des livres  elle est en place depuis deux ans.</desc>
+  </wpt>
+  <wpt lat="38.8428128" lon="24.5382951">
+    <name>Skyros</name>
+    <desc>Sur le port  à l arrivée des bateaux de plaisance  on y trouve des livres dans toutes les langues.</desc>
+  </wpt>
+  <wpt lat="37.9329575" lon="23.7587431">
+    <name>Leof. Sofokli Venizelou ke Leof. Protopapa</name>
+    <desc>Boîte à livres gérée par la municipalité d&apos;Iliopouli à Athènes. Installée devant la mairie  elle est accessible 24h/24.</desc>
+  </wpt>
+  <wpt lat="37.8655817" lon="23.7409956">
+    <name>Leof. Posidonos 70</name>
+    <desc>Boîte à livres installée par la municipalité de Glyfada en bord de plage  pour les habitants et les touristes.</desc>
+  </wpt>
+  <wpt lat="50.4596024" lon="4.3747096">
+    <name>Rue Jean Jaurès 2</name>
+    <desc>À l entrée de la maison communale.</desc>
+  </wpt>
+  <wpt lat="50.5944427" lon="5.8605075">
+    <name>100 Enclos des Récollets</name>
+    <desc>Il s agit d&apos;une boite à lire uniquement jeunesse en partenariat avec la bibliothèque de Verviers.</desc>
+  </wpt>
+  <wpt lat="50.7242958" lon="4.8669286">
+    <name>Rue du Château 13</name>
+    <desc>Une boite à côté d&apos;un banc  dans un joli petit parc. Lire est un plaisir bien tentant!</desc>
+  </wpt>
+  <wpt lat="-21.3767025" lon="55.6159039">
+    <name>240 Rue Raphael Babet</name>
+    <desc>La boite a été mise en place par le Conseil municipal des enfants et la bibliothèque.</desc>
+  </wpt>
+</gpx>

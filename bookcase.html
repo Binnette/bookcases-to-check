@@ -3,25 +3,63 @@
     <meta charset="utf-8" />
   </head>
   <body>
+    <!--
+      This can be started locally with pyhon:
+      python -m http.server 8888
+    -->
     <textarea cols="180" rows="10" id="input"></textarea>
     <br>
+    <div id="options">
+      Options:
+      <ol>
+        <li>
+        <label>Parsing lat/long</label>
+        <select id="latLonInSameColumn" onchange="onOptionsChange();">
+          <option selected="true" value="true">in the same column</option>
+          <option value="false">lat then lon in 2 columns</option>
+        </select>
+        </li>
+        <li>
+          <label>Separator</label>
+          <select id="isSemicolon" onchange="onOptionsChange();">
+            <option selected="true" value="true">semicolon</option>
+            <option value="false">comma</option>
+          </select>
+        </li>
+      </ol>
+      Expected CSV headers: <span id="headers">Adresse;Code_Postal;Ville;Pays;Coord_GPS;Remarque</span>
+    </div>
+    <br>
     <button onclick="convertToOsmandFavXml()">Convert</button>
-    <label>Input lines : </label><span id="inputLines">0</span>;
-    <label>Output lines : </label><span id="outputLines">0</span>;
-    <label>Bookcases : </label><span id="bookcase">0</span>;
-    <label>Bookcase without desc : </label><span id="bookcaseNoDesc">0</span>
+    <label>Input lines: </label><span id="inputLines">0</span>;
+    <label>Output lines: </label><span id="outputLines">0</span>;
+    <label>Bookcases: </label><span id="bookcase">0</span>;
+    <label>Bookcase without desc: </label><span id="bookcaseNoDesc">0</span>
     <pre id="output"></pre>
     <script type="text/javascript">
       var input = document.getElementById("input");
+      var latLonInSameColumn = true;
+      var isSemicolon = true;
+      var separator = ";"
       var output = document.getElementById("output");
       var buffer = "";
       var inputLines = 0, outputLines = 0, bookcase = 0, bookcaseNoDesc = 0;
       
+      function onOptionsChange() {
+        latLonInSameColumn = document.getElementById("latLonInSameColumn").value === "true";
+        isSemicolon = document.getElementById("isSemicolon").value === "true";
+        separator = isSemicolon ? ";" : ",";
+        var headers = ["Adresse","Code_Postal","Ville","Pays"];
+        var gps = latLonInSameColumn ? ["Coord_GPS"] : ["lat", "lon"];
+        headers = headers.concat(gps, "Remarque");
+        var span = document.getElementById("headers");
+        span.textContent = headers.join(separator);
+      }
+
       function convertToOsmandFavXml() {
         reset();
         var lines = input.value.split("\n");
-        inputLines = lines.length;
-        console.log("lines=" + lines.length);
+        inputLines = lines.length - 1;
         //"Adresse";"Code_Postal";" Ville";"Pays";" Coord_GPS";" Remarque"
         printHeader();
         for(var i=1; i<lines.length; i++) {
@@ -31,7 +69,9 @@
             line = line.replace(new RegExp('";"', 'g'), "<SEPARATOR>");
             line = line.replace(new RegExp(';"', 'g'), "<SEPARATOR>");
             line = line.replace(new RegExp('";', 'g'), "<SEPARATOR>");
-            parseLine(line);
+            line = line.replace(new RegExp('"', 'g'), "");
+            line = line.replace(new RegExp(separator, 'g'), "<SEPARATOR>");
+            parseLine(line, i);
           } catch(e) {
             console.error(e);
             console.error(lines[i]);
@@ -41,24 +81,33 @@
         printFooter();
         flush();
       }
-      function parseLine(line) {
-        if (line.length < 10) {
-          return;
-        }
+      function parseLine(line, index) {
         var fields = line.split('<SEPARATOR>');
-        if (fields.length <5) {
-          console.warn("not enougth fields");
-          console.warn(line);
-          return;
-        }        
-        var gps = fields[4].replace('"','').replace(';','').split(',');
-        var lat = gps[0].trim();
-        var lon = gps[1].trim();
-        var name = fields[0].replace('"', '').trim();
-        var desc = "";
-        if (fields.length > 5) {
-          desc = fields[5].trim();
+        if (line.length < 10){
+          console.warn("line without content");
         }
+        if (fields.length < 5) {
+          console.warn("not enougth fields on line " + (index+1));
+          console.warn("content=" + line);
+          return;
+        }
+        var name = fields[0].replace('"', '').trim();
+        var lat, lon, desc = "";
+        if (latLonInSameColumn) {
+          var gps = fields[4].replace('"','').replace(';','').split(',');
+          lat = gps[0].trim();
+          lon = gps[1].trim();
+          if (fields.length > 5) {
+            desc = fields[5].trim();
+          }
+        } else {
+          lat = fields[4].replace('"','').replace(';','').trim();
+          lon = fields[5].replace('"','').replace(';','').trim();
+          if (fields.length > 6) {
+            desc = fields[6].trim();
+          }
+        }
+
         if (desc.length === 0) {
           bookcaseNoDesc++;
         }
