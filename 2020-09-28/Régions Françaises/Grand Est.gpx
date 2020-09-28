@@ -1,0 +1,3171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <author>
+      <name>Binnette</name>
+    </author>
+    <copyright author="Binnette">
+      <year>2020</year>
+      <license>MIT</license>
+    </copyright>
+    <bounds minlat="47.3758846" minlon="3.4971195" maxlat="50.0860362" maxlon="8.687452"/>
+  </metadata>
+  <wpt lat="48.303201" lon="4.3373573">
+    <name>Plage de Géraudot</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres située en face de la plage, près d&apos;un petit restaurant et d&apos;un camping.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.769186099999985" lon="7.321609200000001">
+    <name>54 rue de Soultz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte aux livres dans le jardin du Pax spécial enfance et petite enfance</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2356739" lon="5.9740889">
+    <name>Square Bagno Di Romagna</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Proche d une aire de jeux et d&apos;un arrêt de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.660196199999994" lon="4.7961031">
+    <name>Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte située dans la cours de la mairie du village. Créée en mai 2018, on y trouve de tout.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.638173099999996" lon="6.8581843">
+    <name>rue des écoles</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une ancienne armoire électrique transformée en bibliothèque. L accès est libre. Les rayonnages sont bien garnis.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.82781" lon="3.7996062">
+    <name>1 rue des marais de saint-Gond</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.50433679999999" lon="5.754411">
+    <name>68 rue de Longwy</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la façade du bâtiment, derrière l abribus.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.26041789999999" lon="7.455402599999999">
+    <name>Rue de l eglise</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près du presbytère a proximité de l Eglise saint Georges</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.07617815982897" lon="6.683582067489623">
+    <name>Hôtel de ville, rue d&apos;Usson du Poitou</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une boîte à lire en extérieur, juste en face de la mairie et à proximité du collège Alexandre Dreux.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57068599999999" lon="7.766359799999999">
+    <name>24 rue de la Kurvau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>24 rue de la Kurvau</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6242291" lon="7.490584000000002">
+    <name>2, rue des Roses</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Très belle boîte à livres située devant la chapelle protestante, régulièrement entretenue et rangée.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.36370860000001" lon="6.86504">
+    <name>4 Rue du Vivier</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le parking derrière la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.03003609999999" lon="5.8621872">
+    <name>22 Grand Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cabinet téléphonique. A côté de la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6170575" lon="6.353731599999999">
+    <name>Rue vaudémont square du Maroc</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le parking du centre médico social</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5818517" lon="7.7454274000000005">
+    <name>14 rue Sainte-Barbe</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au Trolley. Choix très diversifiés et à disposition libre...</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2140239" lon="4.0941524">
+    <name>2 rue de Sillery</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Se situe devant la mairie, la boîte est transparente</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.800270459811905" lon="7.315843105316165">
+    <name>Rue de la Capucine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près de la Maison des Jeunes. Installée par le LIONS CLUB MULHOUSE EUROPE</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.06990520000001" lon="7.365181099999999">
+    <name>100 avenue d&apos;Alsace</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.3488683" lon="6.061543400000001">
+    <name>RUE DE VEYMERANGE</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>INSTALLEE LE 11 SEPTEMBRE 2018 VENEZ DECOUVRIR CETTE NOUVELLE BOITE A LIRE EN LIBRE SERVICE. Empruntez, déposer, partager, lire pour le plaisir de tous</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.03212899999999" lon="3.9571236000000005">
+    <name>8 rue de l&apos;ile de france</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire dans le parc de l&apos;hôtel de ville en face du perron.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.78800189999999" lon="7.3275385">
+    <name>Rue Pierre de Coubertin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La Kabine du Parc des Gravières !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.734725999999995" lon="7.520905">
+    <name>Poste d incendie Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite d une capacite d&apos;une centaine d&apos;ouvragesLes livres sont changes tous les trois semaines</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.061192" lon="6.579441899999998">
+    <name>Place de l Hotel de Ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette joloie boite blanche se trouve sur le parking, en face de la mairie. Attention à bien pousser la porte en haut et en bas pour la refermer.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.799917099999995" lon="7.314500399999999">
+    <name>rue de la Capucine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>devant la MJC Fernand Anna</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.122524" lon="6.0812505">
+    <name>8, rue Jeanne D arc</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.70884919999999" lon="6.2554851000000005">
+    <name>Avenue du gremillon</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à lire se situe au bord du plan d eau, vers les jeux pour enfants, superbe endroit !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.343979899999994" lon="6.044144599999999">
+    <name>Dans la médiathèque</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Valise à livres à l intérieur de la médiathèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.445997599999984" lon="4.5810884">
+    <name>Rue des Fontaines</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l&apos;arrêt de bus.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.13387229999999" lon="4.363404">
+    <name>espace suzanne haulin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.826806099999985" lon="7.2553003">
+    <name>Mairie de Staffelfelden</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Offerte par le Lions Club de Guebwiller</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.60604250000001" lon="4.777026899999999">
+    <name>grande rue des côtes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans une ancienne cabine téléphonique en face de l&apos;arrêt de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.78281140000001" lon="7.863367700000001">
+    <name>1 Place de l&apos;Église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cabane à livres installée dans la commune de Oberhoffen-sur-Moder.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.165712899999995" lon="7.2968234">
+    <name>Rue de la 1ère armée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.09132640000001" lon="5.1568523">
+    <name>place du tilleul</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A coté du pont, place du tilleul.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.11752469999999" lon="6.185070600000001">
+    <name>Boulevard André Maginot</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.74000190000001" lon="4.7470541">
+    <name>1 rue jules Guesde</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ancienne cabine téléphonique</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.105346241657955" lon="6.7074912786483765">
+    <name>Gare routière Transavold, rue des Moulins</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boîte à lire a été instaurée par l&apos;association Lions Club de Saint-Avold dans le but de cultiver le goût de lire. Elle se trouve dans le bureau d&apos;accueil, à l&apos;entrée de la gare routière Transavold.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.407404499999984" lon="6.8452647">
+    <name>1 rue docteur raoult</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte en libre service. A côté de l école primaire du centre.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.82557599999999" lon="7.4827585">
+    <name>Place du château</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de la mairie, place du château</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.10984" lon="7.0706194">
+    <name>2 rue du maire massing</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Fixée au mur de la mairie juste à côté de la porte d entrée</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.7880519" lon="7.504561800000002">
+    <name>rue Principale - Zoebersdorf</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Petite boîte à lire, ou à livres, installée sous l abri-bus scolaire. Il y a un banc, vous pouvez vous y installer pour consulter les ouvrages avant de décider de les emporter, ou non.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.35791309999999" lon="6.1670808">
+    <name>8 place Anne Grommerch</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la place du beffroi</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.497507499999976" lon="3.5098347999999997">
+    <name>Avenue St Roch</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l&apos;intérieur de l&apos;Agora</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.0273882" lon="3.9546938999999997">
+    <name>Place du 13ème Régiment de Génie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres Lions dans le parc de la communauté d&apos;agglo</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.70185619999999" lon="4.991267">
+    <name>Ruelle des prés</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres et revues</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.630573599999984" lon="7.6207274">
+    <name>Chemin de la Souffel</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite se trouve  juste à côté du parking</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.20971619999999" lon="5.8318091999999995">
+    <name>Rue rhulemoine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve devant le supermarché Vival</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.755475499999996" lon="6.0848040999999995">
+    <name>91 route de pompey</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une boite a livre mis à disposition à tous qui se situe dans la propriété de la personne.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.04020209999999" lon="7.1350247">
+    <name>12 rue du presbytère</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à l exterieur de la maison abritant l&apos;association Vallée de Munster en Transition</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.872733200000006" lon="4.7898364">
+    <name>Grand Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située au bord de la Semoy</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.1873717" lon="7.3975401">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Bibliothèque créée dans une niche en pierre à droite de la mairie de Ribeauvillé</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.635088999999994" lon="6.046641">
+    <name>Point central</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Bonjour,Une association m a interrogée sur les préconisations existantes concernant les boîtes à lire : fermeture totale, restriction des accès, affichage... Quelles sont les mesures à prendre ? Sur quels documents s&apos;appuyer ? Merci pour votre réponse rapide.Cordialement,Edith FavennecCheffe de projet prévention des déchetsCommunauté de communes Moselle et Madonefavennec@cc-mosellemadon.fr06 29 91 58 90</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="50.08603624590762" lon="4.727479219436646">
+    <name>Office de Tourisme</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres située devant l&apos;office du tourisme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.652466200000006" lon="7.452016">
+    <name>6 rue du Moulin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite à lire se trouve juste à côté de la Médiathèque. Il s agit d&apos;un ancien four reconverti  également appelé four à lire. Il y a des romans adultes et enfants  des documentaires et même quelques BD !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.80478630000001" lon="7.1807322">
+    <name>1 Rue Gustave Eiffel</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans le parc des Rives de la Thur</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.59365689999999" lon="7.578948799999998">
+    <name>2, rue de Saint-Louis</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située sur le parvis du Triangle, boîte transparente</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.44513699999998" lon="6.4668149999999995">
+    <name>Rue de l?eglise</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l?abribus du village</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.90201409999999" lon="7.245580900000001">
+    <name>89 Rue de Guebwiller</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant le terrain de pétanque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.66724859999999" lon="6.1770885">
+    <name>1, rue Gabriel Péri, Place du Marché</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Juste devant l&apos;entrée de la ludothèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.39974369999998" lon="6.102402200000001">
+    <name>9 Rue de l Abbé Gouvion</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située à Oeutrange, sur le parking du groupe scolaire Gérard Clément, à côté du distributeur automatique de pain</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.60777100000001" lon="4.956936300000001">
+    <name>rue de la bastille</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à l arrêt de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.74344490938504" lon="4.743304252624513">
+    <name>Rue Jules Ferry</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située en face du collège Jules Leroux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.19913699999999" lon="6.449579">
+    <name>rue du coteau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite se trouve sur al gauche de la rue en descendant vers la Moselle.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.24880590000001" lon="4.333756300000001">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En cours d&apos;installation.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.695183499999985" lon="5.8099232">
+    <name>Rue de Bastogne, 250</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.934313599999996" lon="7.038187">
+    <name>rue altwiller</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>C est à Harskirchen 67260 devant la boulangerie La Huche à Pain, rue Altwiller</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.822362999999996" lon="7.335675999999999">
+    <name>place de Thiers</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située près de l arrêt de bus ligne 4</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.55867400000001" lon="5.741395000000001">
+    <name>rue de l&apos;industrie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le mur du kiosque de la grand-place</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2050716" lon="8.11986">
+    <name>Paul-Münch-Str. 3</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En Allemagne, magnifique boite à livres pour les amateurs du Doctor Who puisque c&apos;est un Tardis</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.771219" lon="5.1625879999999995">
+    <name>rue de la Maréchale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Parc de l&apos;hôtel de ville avec 3 entrées possibleselle est située du côté des jeux pour enfants.  A  noter que cette boite à lire est peu remplie en hiver à cause des aléas climatiques :  humidité, froid</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.00203650000001" lon="7.2837252">
+    <name>rue de Rouffach</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Installer dans l abri de bus a l&apos;entrée du village</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.462091099999995" lon="7.488433400000001">
+    <name>rue de la gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire proposée par la Ville d&apos;Obernai.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.65908769999999" lon="7.0960085">
+    <name>2 rue du stade</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite l&apos;île de Cécile a été installée le 13 mai 2017 à l&apos;occasion de la première journée citoyenne à Traubach le BAs.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.54336239999998" lon="7.7098846">
+    <name>place du Général de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de l&apos;église</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.18550559999998" lon="6.9000089">
+    <name>Église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le mur de l eglise</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.603268799999995" lon="7.750057300000001">
+    <name>Square du Château</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.36000489999998" lon="6.172285000000001">
+    <name>Parc Napoléon</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte rouge dans le parc Napoléon</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.7249716" lon="4.944348">
+    <name>Chemin du limon</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur un lavoir, au croisement avec la rue du cimetière</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.81137879999999" lon="7.7870293">
+    <name>Maison des services</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.7104338" lon="4.9298652">
+    <name>avenue des martyrs de la résistance</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>sur le parking près de la Meuse, face au café</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.214329299999996" lon="6.8674907">
+    <name>147 rue Huber</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Nous comptons sur vous pour venir faire vivre notre boîte à lire en échangeant vos livres contre d&apos;autres et espérons que tous en prendront soin. Elle est dédiée aux livres pour enfants de tous âges. On y trouve des albums, des documentaires et des petits romans. Elle se trouve à l?entrée de l?ecole maternelle la farandole à Petite Rosselle.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.60520649999998" lon="7.592166799999999">
+    <name>1 Rue du Hahnenberg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>près du bureau de Poste rue du Hahnenberghttp://www.ittenheim.fr/fr/actualite/156178/boite-livres-ittenheim</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6044932" lon="6.100789700000001">
+    <name>33 rue Jean Jaurès</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Installée en avril, elle est en cours d aménagement.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.48914699999999" lon="7.6911551">
+    <name>rue du Bourg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans la parc entre l EHPAD du Gentil&apos;Home et la Rue de Neuchâtel, au niveau du terrain de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.188044999999995" lon="7.4097546">
+    <name>Route d illhaeusern</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se situe entre le proxy et la boulangerie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.82210969999999" lon="7.4092076">
+    <name>rue de Bouxwiller</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire au niveau de l&apos;arrêt de bus.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.86464139999999" lon="7.275674800000001">
+    <name>5 rue des bois</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Juste en face de l école.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.691341" lon="6.211">
+    <name>Place Jean Jaurès</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Un turn over assez régulier . Pas trop de livres poubelles.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.5582245" lon="7.307464700000001">
+    <name>Rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Entre la Mairie et le Crédit Mutuel</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6747441" lon="5.8901794">
+    <name>Place du Marché aux Poissons</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite a livre avec beaucoup de choix, renouvellement rapide.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.7220929" lon="4.585708000000001">
+    <name>promenade françois 1er</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>derrière le Bureau d Information Touristique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.57402199999998" lon="7.5504459">
+    <name>2 Rue Anne de Gohr</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près de l&apos;Ecole Baerenfels.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.06094839999998" lon="7.4837077">
+    <name>14 D12</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à coté de la boulangerie, en direction de Colmar</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.68555159999998" lon="4.9071698">
+    <name>rue de la marfée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>quartier de Frénois,  derrière l école, près du square.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.1883433" lon="6.2644373">
+    <name>Rue de la Fontaine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boite à livre ce trouve dans l&apos;abri bus de Méchy rue de la fontaine. Elle a été réalisé par le Foyer Rural Sanry-Méchy et le périscolaire de la commune.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.88707151079381" lon="7.230672240257264">
+    <name>6 Place de l&apos;Église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Entre l&apos;église et la médiathèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2249844" lon="5.9891741">
+    <name>21 rue des platanes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>elle est sur le chemin de promenade à l arrière de la maison, à hauteur de la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.680576599999995" lon="6.170572000000001">
+    <name>Parc Sainte Marie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de la Maison de la Nature</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.1975227" lon="7.2215709">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.67280060000001" lon="6.2085018000000005">
+    <name>La Cali</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la place prêt du feu rouge en face de la ludothèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.75768889999999" lon="7.6420037">
+    <name>Place Général de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite installée depuis juin 2017.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.205149999999996" lon="5.944989">
+    <name>Avenue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près d un parking et d&apos;une petite place de pétanque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.354558" lon="6.525137999999999">
+    <name>Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Installée depuis avril 2018, derrière la fontaine de la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.112193" lon="7.227687000000002">
+    <name>3-Epis, Chemin de la Roche du Corbeau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>en bordure du grand parking, une petite bâtisse de WC-publics recèle dans un mur extérieur abrité une grande étagère-à-livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.008421999999996" lon="6.203881999999999">
+    <name>Parc du Château</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.40292299999998" lon="5.843471">
+    <name>Place de l&apos;église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.584903999999995" lon="5.036454">
+    <name>Place Notre Dame</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.284420999999995" lon="6.9530710000000004">
+    <name>Quai sadi carnot</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite se situe tout au bout du quai Sadi Carnot  côté rond point  juste à côté du pont.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.9138961" lon="7.205244399999999">
+    <name>Rue de la république</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite a lire en face de la mairie derrière le manège régulièrement remplie très sympathique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.018095999999986" lon="6.589541">
+    <name>rue de la xavée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>L&apos;étagère se trouve à l&apos;extérieur du bâtiment Le Volontaire, au centre-ville, côté rue de la Xavée.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.353887999999976" lon="6.196676000000001">
+    <name>Rue De La République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située à l entrée du parc en face du petit parking</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.540393599999994" lon="7.345413599999999">
+    <name>Place des fêtes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Petite boîte à lire située dans le parc de la ville.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.73919800000001" lon="7.0679028">
+    <name>Route de phalsbourg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une Boite a lire a l&apos;entrée du magasin Cora.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.93018809999999" lon="4.6494783">
+    <name>rue des cerisiers</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près de la crèche</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.69009999999999" lon="5.021922">
+    <name>Place</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au niveau de la plaine de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.981182000000004" lon="7.2183085">
+    <name>31 Rue du Stade</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cabane à livres située dans le camping</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.06993300000001" lon="3.9508215999999994">
+    <name>Chemin rural du pont Malo</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Le nom de la boîte à lire est « Bulles et Books ». Elle est située le long du canal au Pont Malo.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.817932" lon="7.721888000000001">
+    <name>route d Ohlungen</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>dans le parc</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.313080199999995" lon="6.0199711">
+    <name>Rue du Conroy</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57907731187228" lon="7.754502296447755">
+    <name>Place des orphelins</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À côté parc jeux enfants. Côté rue Sainte Madeleine</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.747113399999996" lon="4.720845">
+    <name>rue des Mesanges</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>piscine de la Ronde Couture du Lions Club Charleville mezieres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.719486599999996" lon="7.387224400000001">
+    <name>rue de l&apos;Ecole, Hotel de Ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>installée par le Lions Club Mulhouse Europe</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2411796" lon="4.051732">
+    <name>Parc saint bruno</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.04317749999998" lon="3.9599338000000004">
+    <name>9 avenue de Champagne</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La bôite se trouve dans le parc de l Hôtel de Ville, en face du perron.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.592590299999976" lon="3.555855900000001">
+    <name>Rue du Perrey</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Face à la bibliothèque.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.904494899999996" lon="4.0049676">
+    <name>Boulevard Paul Goerg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres Lions</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.96239610000001" lon="4.3187478">
+    <name>4 avenue Charles de gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres proposée par l association Lire et délires en stock, bouquinerie solidaire.Romans et livres pour enfants</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.209957851774675" lon="6.846799850463868">
+    <name>227 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire installée par la bibliothèque municipale avec un espace de détente pour profiter des ouvrages.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.100591999999985" lon="6.7743063">
+    <name>Rue Abbé Wattrin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant l&apos;aire de jeu</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.24566159999999" lon="5.8214975">
+    <name>Rue de Verdun</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cabine téléphonique devant ancienne maison commune</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.62479140000001" lon="6.0825435">
+    <name>6 Rue Des Martyrs</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l&apos;intérieur de l&apos;école de Chaligny Le Mont, accessible pour les élèves depuis la cours de récréation.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.8193686" lon="7.381841399999999">
+    <name>Impasse de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À côté de la mairie. La boîte à lire est une cabine téléphonique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.16219199999999" lon="6.303105999999999">
+    <name>Rue de Darney</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.1052729" lon="6.205223">
+    <name>Mélanie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cour du centre socio culturel bon pasteur</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.10061545310273" lon="6.710768938064576">
+    <name>Maison de la petite enfance L&apos;Arc-en-ciel, rue du Maréchal Joffre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boîte à lire a été instaurée par l&apos;association Lions Club de Saint-Avold dans le but de cultiver le goût de lire. Elle se trouve à l&apos;entrée de la garderie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.69633799999999" lon="6.179472499999999">
+    <name>Place Saint-Epvre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>L&apos;Arbre aux Livres est installé place saint Epvre à Nancy depuis le 7 septembre 2013. Il est entretenue et alimenté par l&apos;association Ville Vieille en action et la Mjc Lillebonne.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.82013109999998" lon="7.5594326">
+    <name>54 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Derrière la mairie, sous un arbre</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.950731" lon="3.6998610000000003">
+    <name>près de l église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.16012700000002" lon="7.369479999999999">
+    <name>1 rue de l Ecole</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.802544000000005" lon="7.168088000000001">
+    <name>rue René Guibert</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A proximité du Parc à cigognes</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.60135649999999" lon="7.750077999999999">
+    <name>Parc du chateau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Grande boite dans un parc pour enfant</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.48632389999999" lon="5.8058053">
+    <name>rue George Sand</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A côté de l église Saint-Eloi</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.668547200000006" lon="4.9548117000000005">
+    <name>Rue du Commerce</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans l&apos;abris bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.55526789999999" lon="6.409372599999999">
+    <name>Place de Lorraine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Petite armoire customisée par le conseil des jeunes</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.157121200000006" lon="5.881939400000001">
+    <name>Rue Gambetta</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.418502199999985" lon="7.4956838">
+    <name>Rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A côté de l école primaire.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.01275350000001" lon="6.2356392">
+    <name>2 rue des Fontaines</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à livres située juste à côté de l&apos;école, proche du golf.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.457130299999996" lon="7.207600399999999">
+    <name>Place du Général de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Grande boite à livre située entre le coiffeur et la Taverne Alsacienne, face à l église</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.631760799999995" lon="7.0740759">
+    <name>rue de l&apos;école</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La cabane à lire se situe en bas de la rue, dans l&apos;ancien abribus...</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.74435799999999" lon="4.739637">
+    <name>rue Chales Prevost</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située juste devant l&apos;entrée de l&apos;école maternelle du Charme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.643621999999986" lon="6.209153">
+    <name>Rond point d Armsheim</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À côté de l arrêt de bus, près de la maison de associations,Très belle construction, bravo !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.6847763" lon="5.8106334">
+    <name>Rue des Faubourgs, 46</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.11244829999999" lon="6.538426499999999">
+    <name>Rue de Hallering</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boite à lire est placée sous l abri bus à côté de la boucherie  Maison Vagner</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.327679" lon="5.8343076">
+    <name>9 route nationale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Petite boîte a livre dans l aire de jeux en face de la Mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2879578" lon="4.0571986">
+    <name>12 rue des terres saint Rémi</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.761891100000014" lon="5.593296">
+    <name>Place Charles de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située devant le conservatoire de musique elle adore le partage de vos lectures et a hâte d&apos;avoir une jumelle dans la ville.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.355671599999994" lon="6.163942499999999">
+    <name>place de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une armoire à livre bleue située au fond du Parc Wilson, près de l aire de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.354616699999994" lon="6.1393864">
+    <name>Rue du maillet</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve à l intérieur du centre commercial GERIC. à côté de la boutique Go Cho</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.14567340000001" lon="6.7898319">
+    <name>9 rue P. Ancel Seitz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se situe au fond du parking du coter droit de la paroisse</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5499234" lon="7.719946099999999">
+    <name>Rue de l&apos;île des Pêcheurs</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près de la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.205014200000015" lon="6.6962117">
+    <name>Place du marché</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La ville de creutzwald a fait rénover 5 boîtes à lettres pour en faire des boîtes à livres. Un compte Instagram leur est dédié : les livres vagabonds</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.821748899999996" lon="7.358434000000001">
+    <name>Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Derrière la mairie, à côté de la maternelle arc en ciel</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.05192719999999" lon="6.2729593">
+    <name>Rue des princes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte se situe au carrefour de le rue Quartier Beauséjour et de la rue des Princes, à la Forge de Thunimont. Commune de Harsault.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.3463788" lon="4.2633926">
+    <name>École maternelle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de l école dans l&apos;abri bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.771907900000016" lon="4.7217634">
+    <name>Place Winston Churchill</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte du Lions Club Rimbaud est dans le square devant le lycée St Paul</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.35227259999999" lon="6.2045737">
+    <name>Aeroparc</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte livres près de l entrée face à l&apos;Amphy</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.37588459999999" lon="8.5104157">
+    <name>Aemtlerstrasse 151 Haupteingang gleich links beim Soldatendenkmal</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>dans le cimetière</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.881872999999985" lon="5.338595999999999">
+    <name>Rue du Port Halte nautique</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.58491399999999" lon="7.739731000000001">
+    <name>Square Saint-Jean</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à livres la plus proche de la gare.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.7021692" lon="7.358831300000001">
+    <name>Rue de Rixheim, Salle Polyvalente</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>installée par le Lions Club Mulhouse Europe</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.36081909999999" lon="4.0027351">
+    <name>Mairie de Saint Lyé</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livre installée par le LIONS CLUB ORLEANS-SOLOGNEPhoto prise lors de l&apos;inauguration</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.61969910000001" lon="5.1917884">
+    <name>Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>MairieÀ droite de la porte sur la façade</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.696190599999994" lon="7.2940385">
+    <name>Place du général de Gaule</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cabane du lecteur</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.460431999999976" lon="7.431096000000001">
+    <name>Place des Tilleuls</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.68906229305015" lon="6.181397438049318">
+    <name>Rue des ponts</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de l&apos;église Saint Sébastien.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.33191209999999" lon="7.6802766">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle est à côté de l&apos;école maternelle, en face de la boulangerieAvec un petit banc pas loin parfait pour manger son petit pain en lisant un bon livre !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.165425199999994" lon="7.296503600000001">
+    <name>24 Rue de la 1E Armée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.569710599999986" lon="7.7523284">
+    <name>Allée du Schluthfeld</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une boîte à livres se trouve devant le jardin partagé Le lombric hardi le long de la ligne de tram entre la place du Schluthfeld et la rue de Lunéville.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.809584299999976" lon="4.7968286">
+    <name>Rue Jean Baptiste Clément</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>située dans un petit renfoncement d une maison de village, beau choix de livres : romans, histoire, enfants, cuisine</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.4938651" lon="5.7548377">
+    <name>rue des roses</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la façade de la cité marchande</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.172629799999996" lon="6.8786807">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au mur de la mairie, près des portes de la salle des fêtes. Sur la gauche, lorsqu&apos;on fait face au bâtiment.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.12695059999999" lon="7.3687363">
+    <name>Galerie Commerciale Shop In Houssen Cora</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à l intérieur de la galerie commerciale</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.761279999999985" lon="5.593158000000001">
+    <name>Place Charles de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire près du conservatoire de Commercy</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.63129559999999" lon="7.738571199999999">
+    <name>rue du collège</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.54969949999999" lon="7.752819900000001">
+    <name>8 avenue de Normandie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le jardin interreligieux  L Oasis de la rencontre, derrière L&apos;église St Vincent  de Paul et tout près de la Médiathèque de la Meinau</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.710971599999986" lon="4.9141429">
+    <name>rue du Maréchal Foch</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>une ancienne cabine téléphonique à trouvé une nouvelle vie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.9775149" lon="5.849646">
+    <name>Grand Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans un abribus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.249783400000005" lon="4.0379543">
+    <name>6, rue Lieutenant Herduin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire dans le cloître de cette belle maison, centre culturel et spirituel, en plein c?ur de Reims.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.655884099999994" lon="4.9640413">
+    <name>Hôpital Geneviève de Gaulle Anthonioz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte, installée par le Lions Club St Dizier 2000, se trouve dans le hall de l hôpital</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.8093057" lon="4.7966655">
+    <name>17 rue jean baptiste clement</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>très grosse boite a lire de l  association le relais</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.3159154" lon="3.9629633">
+    <name>1  place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Placée à l abri sous le porche de la Mairie, cette boîte à lire et ses annexes, documentaires et magazines,  livres jeunesse,  attend les lecteurs.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.7335462" lon="7.3073082000000005">
+    <name>31 Rue Fénelon</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant le cinéma du Centre Bel Air. Installée par le Lions Club Mulhouse Europe</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2567831" lon="6.1673808">
+    <name>17 rue Jacques Brel</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>située le long de la route, près d un terrain vagueelle est rouge</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.269004899999985" lon="6.1053959">
+    <name>19 rue Jean Jaurès</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Tombereau à livres  face à la mairie et la bibliothèque.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.687378800000005" lon="5.8100825">
+    <name>Rue de Bastogne, 30</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cabinet médical Medarel</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.339832" lon="6.0484878">
+    <name>Place François Mitterand</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.215886000000005" lon="6.116957">
+    <name>Rue de l Abani</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A côté du local polyvalent La RucheFrigo à livres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.1947882" lon="7.315196800000001">
+    <name>2 Place Hôtel de Ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à livre se trouve dans un renfoncement au niveau du parking de l&apos;Hôtel de Ville  Grand&apos;Rue.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.140751699999996" lon="4.3666759">
+    <name>Bois des soeurs</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.7446271" lon="7.338014800000001">
+    <name>29 rue de la Sinne</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte  de couleur rose  se trouve face aux jeux pour enfants à l&apos;intérieur du parc Steinbach.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.28660439999999" lon="7.418105000000001">
+    <name>rue de l école</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>devant la bibliothèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.60456349999998" lon="7.590780499999999">
+    <name>rue du Hahnenberg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>grande boite fixée au mur de la poste</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.8653348" lon="7.3507532">
+    <name>3 rue du moulin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire devant le salon de thé Thé O Café.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5582111" lon="7.643045999999999">
+    <name>Place du Lieutenant LESPAGNOL</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.1419358962513" lon="6.626880168914796">
+    <name>Rue du Colonel Bertin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à lire se trouve sur l&apos;aire de jeux sous les arbres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.068716000000016" lon="4.046566">
+    <name>Rue Gaston-paris</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une petite bibliothèque dans la cour de la mairie abritée par les escaliers</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.60029500000001" lon="4.955177">
+    <name>rue du gué nolet</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25031299999999" lon="3.9774089999999993">
+    <name>Champ Paveau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Retrouvez notre boîte à livres du quartier Champ Paveau</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.00089214461476" lon="6.264894604682924">
+    <name>Avenue André Demazure - Bains-les-Bains</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située à coté des anciens Bains Romains</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5418866" lon="6.1410888">
+    <name>Place du Foyer culturel</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Installée en avril 2018, l&apos;aménagement intérieur et la décoration est en cours.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.11588269999998" lon="6.1660625">
+    <name>Boulevard Poincaré</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.31817949999997" lon="7.441624100000001">
+    <name>Place d&apos;Alsace</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur un parking bétonné, sur la gauche en arrivant de Souillac</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.649934999999985" lon="4.918108">
+    <name>Rue de l&apos;école</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l&apos;abri-bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.117045500000025" lon="7.0935597">
+    <name>Cora sarreguemines 50 rue de bitche</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à livres est situé devant les caisses près de la presse</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.51618699999999" lon="7.706628">
+    <name>promenade du Girlenhirsch</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l entrée du parc animalier de Friedel</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.860702599999975" lon="7.2589519">
+    <name>rue de soultz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire rouge  parking à côté  très bon roulement</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.95875399999998" lon="4.3174366">
+    <name>La malle aux livres de la bouquinerie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.15048699999999" lon="5.507319">
+    <name>Grande Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Inauguration de la Boîte à Lire Mercredi 29 juin 2016. La Boîte à lire a été confectionnée par un ébéniste du village avec la participation financière de LA BERGERIE  et de la caisse locale du Crédit Agricole.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.225133" lon="5.966848">
+    <name>Rue de la clairière</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près d une aire de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.86050759999999" lon="7.29731">
+    <name>Rue de Ruelisheim</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Parc pour tous  Offert par le Lions Club de Guebwiller</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.58352049271566" lon="7.741971015930177">
+    <name>Rue du jeu des enfants</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au croisement avec la rue Gustave Doré</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.82979499999998" lon="7.958662999999999">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Banc à livres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.387252399999994" lon="8.5334559">
+    <name>Wasserwerkstrasse 93</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Le magazine de voyage suisse Transhelvetica entretient une boite à lire et échange de livres.Transhelvetischer Büchertausch am alten Bahnhof Letten bei der Redaktion des Schweizer Reisemagazins Transhelvetica.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.346378099999995" lon="3.983142700000001">
+    <name>25 rue de Verdun</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire réalisée par les enfants de l accueil de loisirs et du périscolaire en lien avec le collectif citoyen Loivre en transition et la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.59527190000001" lon="7.4692164000000005">
+    <name>2, Rue de l école</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite a livres de petite taille , fermée et accrochée sous un abri a l arrière de l&apos;école , coté Mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6108962" lon="7.7460472">
+    <name>13 rue de saint Dié</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La cabane à livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.3461674" lon="4.6064379">
+    <name>2 rue des anémones / La Giberie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la clôture de la maison rose dans la rue menant au stade.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.808930600000004" lon="7.177455000000001">
+    <name>Rue Clemenceau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située place de l?Abbé Pierre, a proximité de l Eglise Saint Etienne</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.523751600000004" lon="5.7623193">
+    <name>rue Thiers</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la façade de la poste et du républicain lorrain, face à la place du colonel darche</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.60873360000001" lon="7.528012000000001">
+    <name>Square Albert Schweitzer</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A proximité de la maison pour tous</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.68025389999999" lon="7.215866400000001">
+    <name>Rue de l&apos;église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Jardin de l&apos;ancien presbytère</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.45800199999999" lon="6.517576">
+    <name>Grande rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au milieu du village dans un frigo customisé ...</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.60192469999996" lon="4.9574262000000004">
+    <name>place du pavé</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>sur la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.270153999999984" lon="4.0253774">
+    <name>Place luton</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire rue Emile Zola, en plein milieu de la place Luton, sur le coté du terrain de pétanque.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25259349999999" lon="6.0934819">
+    <name>2A Grand rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant la médiathèque La Pléiade</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.752394709457576" lon="4.732178449630738">
+    <name>Place de Mohon</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située sur la place de l&apos;église</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.91778129999999" lon="7.531955000000001">
+    <name>Rue de la 1ère Armée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite à lire se trouve directement à gauche dans l&apos;entrée du Super U.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.302257" lon="6.1574325000000005">
+    <name>rue de la Gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Grande armoire abritée sous le préau de la gare SNCF</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.07147599999999" lon="6.8763121">
+    <name>Rue Carnot</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite à livres se trouve sur le parvis des droits de l Homme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.6839299" lon="5.8154464">
+    <name>Rue des Capucins, 50</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.1214282" lon="4.3718465">
+    <name>rue du Stade</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à côté de l arrêt de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.3565789" lon="5.6915339">
+    <name>4 rue de la 1ère armée française</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve à l entrée du cinéma Neopolis.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.872258499999994" lon="7.477230800000001">
+    <name>Gare d Ingwiller</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite est située à côté du distributeur de billets SNCF, à la gare d Ingwiller</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.8240669" lon="7.3372743">
+    <name>rue de la première armée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>devant la maison des Associations ancienne MJC Théodore</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57203950000002" lon="7.719238200000001">
+    <name>Rue des mérovingiens</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le quartier Montagne Verte.Aux abords de l église St Arbogast.Elle est trop colorée pour qu&apos;on puisse la louper.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.93513579999998" lon="6.0282598">
+    <name>17 rue abbé Paul varney</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près de la boulangerie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.28309600000001" lon="5.8975715">
+    <name>Rue Maréchal Joffre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À côté de la salle des fêtes, sous les arbres. Petit kiosque très chaleureux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.608170919390595" lon="7.747850418090823">
+    <name>rue de Sarrebourg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La cabane de Denis, au début de la rue</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.7952083" lon="7.029646400000002">
+    <name>8, Route Joffre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ancienne cabine téléphonique, devant l école.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.3409214" lon="6.038694899999999">
+    <name>103 bis rue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A côté du parking  , près du cabinet de kiné</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.17274449999999" lon="7.0147646">
+    <name>1 rue de la meurthe</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.632173999999985" lon="6.314751500000001">
+    <name>Espace Prieuré rue Jean Jaurès</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À l intérieur du bâtiment Cargo</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.04680080000001" lon="7.422362199999999">
+    <name>1 rue de Lebach</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>bibliothèque de rue</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.62093779999999" lon="7.488049100000001">
+    <name>5, place du kaufhaus</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>devant la médiathèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.327568599999985" lon="6.1233591999999994">
+    <name>Grand rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près du parc à côté de l église. Proche du parking de la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.732848900000015" lon="7.7003918">
+    <name>16 Rue de la Gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>devant l&apos;abri à vélos de la gare.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.29546599999999" lon="3.9463070000000005">
+    <name>33 Grande Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Collée au mur, juste à l&apos;entrée de l&apos;école maternelle.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.62336000000001" lon="5.185634">
+    <name>Rue du stade</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au niveau du stade</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.572593299999994" lon="7.468724699999999">
+    <name>46 route du vin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Petite boîte à livre située juste à côté de la boulangerie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.9263128" lon="6.484265000000001">
+    <name>Place de l&apos;Hotel de Ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>boîte offerte par le Lions Club Plombières Remiremont installée à proximité de la médiathèque, de la MJC et de l?ecole de musique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.53740629999998" lon="5.49416">
+    <name>9 avenue Adam</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l intérieur du rox centre culturel et sportif</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25072879999999" lon="3.9918454">
+    <name>Place du commerce</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.871557" lon="7.480031999999999">
+    <name>Parc naturel régional des Vosges du Nord</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire au niveau de la gare, du côté quai.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6240396" lon="7.489277200000001">
+    <name>10 rue des roses</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.560180700000004" lon="5.8376411">
+    <name>28 rue de Rodange</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la façade de la maison.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.324818199999996" lon="5.9304689999999995">
+    <name>Place Beltrame</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte a livre sur la place de la gendarmerie, en face de la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.92550959999998" lon="7.294134000000001">
+    <name>rue de merxheim</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>installer dans l abri de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.61689840000001" lon="6.1051018">
+    <name>6 rue Jean Jaures</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.70128899999999" lon="4.920769">
+    <name>rue Le Chatelier</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>quartier des cités jardin, près de la salle des fêtes.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.06127629999999" lon="3.8444065">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres Lions club</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.04670168446238" lon="7.309577465057375">
+    <name>Rue des Oiseaux</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au centre du Parc</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.75332080000001" lon="7.346855099999999">
+    <name>Nouveau Bassin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte de couleur jaune vif se trouve à l&apos;extrémité ouest du Nouveau Bassin  près de l&apos;arrêt Nordfeld de la ligne 2 du tram.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.132193199999996" lon="7.162303699999999">
+    <name>Parc Lefébure</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.6894295" lon="5.80734">
+    <name>Rue Sainte Croix, 50</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boulangerie Van De Kerkhove</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.62545130000002" lon="6.205169299999999">
+    <name>18 rue du chateau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à livres installée dans une ancienne cabine téléphonique, très chouette !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.028339599999995" lon="7.4394179000000005">
+    <name>6 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Essentiellement pour les enfants car près d une école.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.6063212" lon="7.5733312999999995">
+    <name>128, rue du Gal de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>C&apos;est un petit réfrigérateur qui connait une deuxième vie comme boîte à livre.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.1243252" lon="7.282489499999999">
+    <name>7 Rue du Tir</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans le petit Square Kuehn près de la maison de retraite</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.62143379999999" lon="6.9835773">
+    <name>Parc</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Toute nouvelle boîte à livres, contre la petite maison dans le parc.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.69543740000001" lon="6.167258499999999">
+    <name>23 boulevard Albert 1er</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Un bel Arbre aux Livres tout en palette à destination des étudiants. Il se situe dans le hall du Campus Lettres et Sciences Humaines..</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.5896468" lon="7.768779">
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Wird von der Rheinfelder Bibliothek betrieben und ist in einer ehemaligen Telefonzelle installiert. Einfach die Tür aufmachen und eintreten. Befindet sich auf dem Bahnsteig zwischen den Gleisen.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.5250964" lon="7.478438100000001">
+    <name>Avenue de Souprosse 22</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.7834803" lon="5.0051676">
+    <name>rue de l église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à côté de la mairie, dans la cour de l agence postale.2 cabines téléphoniques recyclées : une en boîte à lire l autre en boîte à dons ou l&apos;on dépose les objets en bon état qui ne nous servent plus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.86320699999999" lon="8.08458">
+    <name>Jardin éphémère</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Bien fournie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.7128749" lon="7.085554000000001">
+    <name>Rue de Bretten</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.16356229999998" lon="6.305825700000001">
+    <name>154 rue de Darney</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte a lire installée au bord de la route à côté de l arrêt de bus à côté du canal.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.183142800000006" lon="6.280370500000001">
+    <name>Rue de l&apos;école</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boite à livre ce trouve sous le préau devant l&apos;école de Sanry-lès-Vigy rue de l&apos;école. Elle a été réalisé par le Foyer Rural Sanry-Méchy et l&apos;école de la commune.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.942761" lon="4.6374643">
+    <name>rue victor hugo</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.59475689999998" lon="7.465387500000001">
+    <name>Place de la fontaine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Grande boîte à livre située sous l arrêt de bus, à côté de la fontaine.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.93413689999999" lon="7.294376300000001">
+    <name>4 rue du Nord</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Installer dans l abri de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.77426789999999" lon="5.608944">
+    <name>2 Place Charles de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à livres se trouve devant la Médiathèque de Vignot.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.61356119999999" lon="7.529017299999999">
+    <name>Parc Soleil</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Très belles boîtes à livre</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6263422" lon="6.114162900000001">
+    <name>24 rue du haldat</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.562461700000014" lon="4.2153612">
+    <name>place de l&apos;Eglise</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au coeur du village  sous l&apos;arrêt de bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.49231069999997" lon="5.188115300000001">
+    <name>11 Place de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à lire est sur la façade de La Poste</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.03411179999998" lon="3.9564105000000005">
+    <name>Place de la Méditerranée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à livres Lions en face de la fleuriste</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.073210399999994" lon="4.4717014">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>2 boîtes dans le village : place de la Mairie et sous un abris bus.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57846059999997" lon="6.5207688">
+    <name>CD 31</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans la Cafetéria de Cora</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.70675059999999" lon="4.943950700000001">
+    <name>bd des écossais</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>tour les myrtilles</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.209869000000005" lon="5.935614">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.635119099999976" lon="6.0466639">
+    <name>2 Rue de Toul</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En cours d&apos;aménagement</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.389763600000016" lon="5.7614684">
+    <name>Mercy le bas</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.16358299999999" lon="6.352203000000001">
+    <name>Lac de Bouzey</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Maison de la bicyclette</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.06262899999999" lon="6.5809426">
+    <name>Centre culturel Créanto, rue de Metz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boîte à lire se trouve à l entrée de la médiathèque. Les cartons sont souvent remplis de magazines que les bibliothécaires sortent des rayons.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.58732099999999" lon="6.031979999999999">
+    <name>8 rue de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Kabin alir installée par la mairie. Plus d info sur le site de la commune rubrique Kabin alir.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.292043899999996" lon="6.5310613">
+    <name>place du marché</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.17246679999999" lon="6.772254700000001">
+    <name>Route de Bruyeres  88640</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve dans la cour à l?arrière de la mairie, 20m après en restant sur la route principale.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5840421" lon="7.435290700000001">
+    <name>154 rue du cercle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Grande boîte de bricolage en plastique avec étagères. devant maison particulière</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.65032379999998" lon="7.7002965">
+    <name>2 rue de Mundolsheim</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une ancienne cabine téléphonique délaissée, transformée en boite à lire pour livres voyageurs !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25148649999999" lon="4.0279097">
+    <name>Rue Libergier</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Petite boite à lire en bois située sur la grille du jardin du musée des Beaux Arts.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.744335899999996" lon="7.317701">
+    <name>16 Rue Théo Fischer</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le quartier Daguerre, inaugurée le 7 Oct 2017 parc Braun, à l initiative des habitants !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.35468769999999" lon="6.1595451">
+    <name>Rue St Pierre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Bibliothèque de Rue.Près du feu rouge , 100m après l Auchan qui fait l&apos;angle.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.84479619999998" lon="7.6111475">
+    <name>rue du Dr. Albert Schweitzer</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans une ancienne cabine téléphonique, sur la place en face du Crédit Mutuel</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.22492687502206" lon="5.989930629730225">
+    <name>21 RUE DES PLATANES</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>SUR LE CHEMIN DE L&apos;ORNE DERRIERE LA MAISON</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2542546" lon="4.0373068">
+    <name>Square des cordeliers</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une boîte à livre verte à l entrée du square, juste à côté de l&apos;école Voltaire.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.94840400000001" lon="5.0086550999999995">
+    <name>40 rue Anatole Gabeur</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Situé au cœur du village dans l&apos;ancien Relais des Postes. En dessous de la Médiathèque.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.61526730000001" lon="6.121628">
+    <name>rue Gaston Deferre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au sein du quartier de Cumène, à côté de l&apos;aire de jeux pour enfants</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.87726" lon="7.210323999999999">
+    <name>Rue de la fonderie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près du cimetière et de l&apos;église dans le coin de l&apos;espace vert : un tonneau couché</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.49267559999998" lon="3.5024613000000007">
+    <name>1 Avenue Pasteur</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l intérieur du cinéma Lumière</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.213467900000005" lon="4.7162647">
+    <name>1 Rue Saint Antoine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.511317099999985" lon="7.642962800000001">
+    <name>Rue des cigognes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Mignonne petite roulotte transformée en boîte à livres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.99151789999999" lon="7.382387200000001">
+    <name>Maison de santé</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.1933914" lon="6.1328968">
+    <name>6 Place Curie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire devant l&apos;école Jean Morette, Place Curie. Accessible à tous !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.951413799999976" lon="7.2918370999999995">
+    <name>Rue du 4ème Spahis Marocains</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Installée par un particulier, en face de l&apos;aire de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25575160000001" lon="6.3479317">
+    <name>rue de Neudelange</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l&apos;aire de jeux, anciennes boites à lettres décorée par les enfants</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.070814100000014" lon="6.2551823">
+    <name>RUE DE LA BETONNE</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>CABINE TELEPHONIQUE RECYCLEE DEVANT LE MONUMENT AUX MORTS</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.74240149999999" lon="4.7468502">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite située devant l école</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.2913226" lon="4.0264814">
+    <name>Rue Paul Wenz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire pour adultes et enfants</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.92619299999999" lon="6.484068">
+    <name>Grande Rue - île aux enfants</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres offerte par le Lions Club Plombières Remiremont et installée à l&apos;entrée de l&apos;ile aux enfants Grande Rue.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.886822499999994" lon="6.392081799999998">
+    <name>Place de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.489262000000004" lon="5.185564">
+    <name>17 rue du Moulin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à lire se trouve dans la cour du Musée de la Bière, à côté de l entrée de la Taverne</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.3609317" lon="6.172272699999998">
+    <name>rue du Général De Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une armoire à livre rouge située au fond du Parc Napoléon, près de l aire de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.07266029999998" lon="7.3482422">
+    <name>78 avenue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte transparente en forme de maisonnette. Elle se trouve devant l Association Espoir.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.7362383" lon="7.484950099999999">
+    <name>1 rue de l&apos;église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Super sympa et pleine de livres....</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.914537" lon="6.591876">
+    <name>Rue de la fontaine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ancienne cabine téléphonique repeinte en rouge</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.66280170000001" lon="7.6031598">
+    <name>10, rue du Feu</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>petite boite dans le parc des droits de l homme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.95302229999999" lon="4.3620039">
+    <name>Petit jard</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à livres se trouve dans le petit jard, allée principale.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.55723239999998" lon="7.7472818">
+    <name>204 avenue de Colmar</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>BURO Club, espace de coworking, à une bibliothèque participative</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.10654869999999" lon="6.167023600000001">
+    <name>Place Philippe de Vigneulles</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.45480289999999" lon="7.1485633">
+    <name>Sentier du château de Salm</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire dans un vieil abri, en haut d un chemin forestier</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.96114249999999" lon="7.239841800000001">
+    <name>Place du Général-de-Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située sur la place, entre la Mairie et La Poste</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.13266689999999" lon="7.3038631999999994">
+    <name>Route des vins</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite a livres se trouve a gauche de la caserne des pompiers sous le porche de la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.62275829999999" lon="5.1875605">
+    <name>4 rue des ecoles</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>École primaire de Blagny</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.077757999999996" lon="7.3531456">
+    <name>6 Avenue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Situer sur la Place Rapp, entre la Caisse d Epargne et le Café Rapp</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.662354099999995" lon="7.349514999999999">
+    <name>1 rue des Seigneurs            mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>2 boîtes une pour les livres jeunesse une autre pour les livres adultes</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.457443000000005" lon="7.42462">
+    <name>46 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>2ème boîte à lire sur OTTROTTsitué à l&apos;office du tourisme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.58186979999999" lon="7.758852100000001">
+    <name>1 rue de l académie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le jardin de la HEAR Strasbourg, une boite à lire plutôt imposante!</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.24171719999999" lon="6.1538792">
+    <name>Rue du Saulcy</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans le lavoir Français, ce lieu offre la possibilité de déposer et d emporter les livres de son choix et même de les lire sur place dans la fraîcheur de cette ancienne fontaine</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5736289" lon="7.76149">
+    <name>Place Jeanne HELBLING</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Gérée par l Association des Résidents Etoile Malraux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6172286" lon="4.9120932999999996">
+    <name>avenue du Piemont</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>dans l abri bus.A savoir qu&apos;il existe aussi une grainothèque,  dans le jardin derrière la mairie, accès par le portail à gauche.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.722069899999994" lon="4.9276132">
+    <name>place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>adossée au mur de droite de la mairie, jolie boîte à lire colorée</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.90291390000001" lon="6.0546985">
+    <name>Place Duroc</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près de l office de tourisme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.97560279999999" lon="3.6450844">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à livres Lions</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.12956169999998" lon="7.2913783">
+    <name>14 Rue des Primevères</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au terrain de jeux du quartier des fleurs, en face de la Pharmacie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.561979" lon="7.525792">
+    <name>square Morcenx</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>dans le petit square à côté de l école primaire</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.7559782" lon="7.319288099999999">
+    <name>41 rue Lavoisier Centre Socio-Culturel Lavoisier Brustlein</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>installée par le Lions Club Mulhouse Europe</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.74179500000001" lon="7.36052">
+    <name>Ecluse</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Mise en place avec l aide de la Ville depuis près de deux ans par deux habitantes de Saverne s&apos;occupant par ailleurs des Incroyables Comestibles ,d&apos;où le tournesol</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.52180580000001" lon="4.3725957">
+    <name>Galerie marchande Carrefour L étoile</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.4956079" lon="7.4834119">
+    <name>Rue Principale 6</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.11786809999998" lon="6.185575400000001">
+    <name>porte des allemands</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ville de Metz Dans le cadre de sa politique d accès à la culture en général, à la lecture en particulier, la Ville de Metz a mis en place un réseau de boîtes à livres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.19636069999998" lon="6.687494199999999">
+    <name>Lac de Creutzwald</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une boîte à lire protégée sur la rive gauche du Lac près de l aire de jeux. Joliment décorée!</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.6835796" lon="5.8080481">
+    <name>Rue Léon Castilhon, 46</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>en face de la prison</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.096117199999995" lon="6.180377">
+    <name>Parc Saint chrétienne - Sablon</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Plusieurs petits nids pour des ouvrages à partager...</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.019890799999985" lon="7.281726699999999">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>dans un coin entre la Mairie et l ecole primaire, un abri recèle une armoire à livres. On y trouve surtout des livres pour enfants, mais pas que</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.111227899999996" lon="4.376854">
+    <name>Place du Marché</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant la Halle</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.817573100000004" lon="6.0979502000000005">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte est située sur le côté des escaliers entre le portail de l école et la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.13489749999997" lon="6.1981374">
+    <name>Parc avenue Paul Langevin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boîte se trouve dans le parc entre le cinéma et 1 école primaire</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57969409999999" lon="7.7615708">
+    <name>Place du foin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le bar Le Chariot</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5844216" lon="7.7388438">
+    <name>10 rue Kageneck</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite accessible via le petit potager entre la médiathèque et la MJM, juste en face du banc. Elle a une vitre de l autre coté.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.17550860000001" lon="6.446234400000001">
+    <name>Rue des Petites Boucheries</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire à côté du lavoir théâtre d Epinal</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57563529999998" lon="7.458808100000001">
+    <name>1 rue des Johannites</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Belle boîte à 30 m de l église, direction Dangolsheim</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.13309900000001" lon="4.3644326">
+    <name>salle la lousianne</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.69904969999998" lon="6.1885332">
+    <name>Rue Lecreulx</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Faisant état de la forte fréquentation de l?espace piétonnier entre la Pépinière et les berges du canal de la Marne au Rhin, l?association la passerelle a souhaité l?aménagement, rue Lecreulx, d?un arbre à livres dénommé Dylan PELOT en hommage à un personnage incontournable de la vie culturelle nancéienne.Dylan PELOT traversait chaque jour la Pépinière et le canal pour se rendre dans son atelier à la MJC Bazin où il devenait professeur de monstres et animait des cours d?Arts plastiques.Génial artiste touche-à-tout. Musicien et parolier au sein de plusieurs groupes musicaux, photographe, sculpteur, illustrateur, écrivain de littérature jeunesse.Appelé Didiche par son entourage et ses amis, il était l?illustrateur de Vincent, le chien terriblement jaune écrit par son père Pierre PELOT et l?auteur de Victor qui pète dessiné par Mathis.Certaines des illustrations de Vincent, le chien terriblement jaune ont été retenues pour figurer sur les éléments en bois à l?intérieur de l?arbre à livres.Objet artistique, cet arbre à livres est une bibliothèque gratuite en auto gestion, installée dans l?espace public auprès duquel les usagers peuvent prendre ou déposer des ouvrages librement. Pour la réalisation de ce mobilier, le choix de l association s?est porté sur la transformation d?une cabine téléphonique.La conception de cette bibliothèque a été confié à deux jeunes architectes : Guilhem VINCENT et Marie-Amélie RAUCOURT.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.50053299999999" lon="5.7555091">
+    <name>7 rue de Longwy</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la façade de la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.28108559999999" lon="4.0969964">
+    <name>130 AVENUE MICHEL BAROIN</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Intermarché Rive de Seine met à la disposition de tous , un magnifique  arbre à livres . Il se situe dans la galerie du supermarché à proximité de bancs pour ceux qui souhaitent  consommer sur place !!</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.54161100000002" lon="7.4178432">
+    <name>172 rue de général de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Grande boite à lire en forme de maison. Plein de livres à lire.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.7963349" lon="6.099287">
+    <name>Église de Marbache</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Parking de l&apos;église.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.771213799999984" lon="7.4151187">
+    <name>Place de la Liberté</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.685248799999975" lon="4.940572499999999">
+    <name>Place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.67262419999999" lon="6.1420314">
+    <name>26 rue de versigny</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>3 jolies boîtes en bois</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.332254199999994" lon="3.7426764000000006">
+    <name>Rue du haut de Troyes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres située entre la mairie et l église.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.56483049999997" lon="7.767093399999999">
+    <name>41 rue de la Ziegelau</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Intégrée dans la palissade devant l immeuble Ecol&apos;khoze.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.3021283" lon="4.0442247">
+    <name>Rue du 25 août</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres située dans le square d&apos;Urmitz</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.05229769999999" lon="7.203193499999999">
+    <name>1 Grand Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A la Mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.236184999999985" lon="5.959441999999999">
+    <name>Rue foch</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près du périscolaire</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.08083999999999" lon="6.925673">
+    <name>Place de l&apos;église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette Boîte à lire et faite à partir d&apos;une ancienne cabine téléphonique</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.7000217" lon="5.761500600000001">
+    <name>104 rue du Panorama</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Jolie boîte dédiée au livre-échange installée en juillet 2017 dans le village de Freylange.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.8196659" lon="7.279802200000001">
+    <name>26 rue principale Graufthal</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Un lire service dans un abri bus en bois, très typique, très alsacien, on adore !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.721558800000004" lon="3.7211667000000004">
+    <name>Place du champ benoist</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.983607" lon="7.398383">
+    <name>rue des herbes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Livres pour enfants et adultes</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.987265499999985" lon="7.3537601000000015">
+    <name>musée de la Grande Place</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sous l abri-bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.111133" lon="5.136705600000001">
+    <name>18 rue de Verdun</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Semblables à 2 grosses boîtes aux lettres situées sur le portail de l&apos;agence de graphisme</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57677580000001" lon="7.697799900000001">
+    <name>76 rue des Capucins</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite à livre est situés dans le quartier de Koenigshoffen à Strasbourg. C est une case à livre très vivante avec beaucoup d&apos;échanges entre voisins.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.78490069999999" lon="7.2848123">
+    <name>Place du général de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.524127299999996" lon="5.7604809">
+    <name>16 avenue André Malraux</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le sas du Centre Social Blanche Haye</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.528334999999984" lon="6.5417320000000005">
+    <name>Rue grandjacquot</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À l?arrêt de bus près des écoles</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.679339" lon="7.657217">
+    <name>Arrêt de bus près de la boulangerie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.929242399999985" lon="7.2339302">
+    <name>21 Rue Principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.9524048" lon="7.176693099999999">
+    <name>90 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le site de l’association la Grange aux Paysages (association d’initiation à la culture et à la nature) près des locaux de l’Office de Tourisme d’Alsace Bossue. Elle est accessible 24/24h et 7/7j.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.63688329999998" lon="4.949246900000002">
+    <name>24 rue Gambetta</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sous les petites Halles de l&apos;ancien marché couvert</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.77206321368044" lon="4.722007513046266">
+    <name>Place Winston Churchill</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans le parc</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.67475419999999" lon="5.813707600000001">
+    <name>Avenue Patton, 93</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire N°1 Arlon.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.34050599999999" lon="3.802191">
+    <name>Rue de Bouvancourt</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l arrêt de bus derrière le monument aux morts</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.302405699999994" lon="5.8335803">
+    <name>1 rue de Lorraine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve entre l hôtel de ville et l&apos;espace culturel.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.8133222" lon="7.3123504">
+    <name>rue d ile de france</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>près de la MJC Jeune Bois</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.80198730000001" lon="7.3802075">
+    <name>33 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A coté de la supérette , pour les adultes et en face de la mairie , dans la cabine téléphonique pour les enfants.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.027105599999985" lon="4.4200155">
+    <name>Rue de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Tous types de lecture, pour enfants, pour ados et adultes. Cette Boite à Lire comporte également des magazines et des livres de cuisine.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.32231429999999" lon="4.0025089">
+    <name>1 place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à lire est installée sous le porche de la mairie de THIL, petit village situé à côté de REIMS, dans la Marne</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.048934299999985" lon="7.431910499999999">
+    <name>Sundhoffen</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.76748469999999" lon="4.7238553">
+    <name>Gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres située à l intérieur de la gare.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.81975410000001" lon="6.1027412">
+    <name>1 rue Prosper Cabirol</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.40313289999999" lon="8.687452">
+    <name>Wilhelmsplatz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite se trouve dans le kiosque au milieu de la place.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.36988219999999" lon="6.177538">
+    <name>29 rue Pellerin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l aire de jeu pour enfants. Petite cabane en bois.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.348368199999996" lon="7.1057211">
+    <name>Maison des services Grand Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve dans la maison des services.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.0749662" lon="7.3507768">
+    <name>Avenue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À l entrée du parking souterrain Place Rapp</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.092155206469144" lon="5.155999660491944">
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite se trouve pas très loin de l&apos;église.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.094561899999995" lon="6.2430518">
+    <name>Route d&apos;Ars Laquenexy</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.19716329999999" lon="7.300181600000001">
+    <name>48.195, 7.319</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.24426099999999" lon="3.9893111">
+    <name>Parc Croix Cordier</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.57192939999999" lon="7.4854311000000004">
+    <name>8 Rue des Soeurs</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Etagère située à l entrée de la bibliothèque sur la droite , accessible aux heures d&apos;ouverture</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.31214749999999" lon="6.259151500000001">
+    <name>rue de la Fontaine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle est bleue, jaune et rouge, se trouve derrière la mairie, dans un passage piétonnier situé entre la rue principale et la rue de la fontaine.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.88914449999999" lon="6.227044700000001">
+    <name>quai Emile Benoit</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le parking en face du bureau de tabac, deux cabines téléphoniques réhabilitées en boîtes à livres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.58481970000001" lon="7.734237199999999">
+    <name>salle d attente dans la Gare de Strasbourg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>étagères dans le Salon Grand Voyageur de la gare de Strasbourg, près du Bruger King.souvent vides, malheureusement.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.687912000000004" lon="6.182229300000001">
+    <name>Rue des ponts</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Nouvelle boite à lire réalisée par le bureau d&apos;architecture Studiolada, qui se situe devant une entrée du centre commerciale Saint-Jean. Très fournie en livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.814415999999994" lon="7.173581500000001">
+    <name>Place des tilleuils</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans une ancienne cabine téléphonique</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.07582649999999" lon="6.228064300000001">
+    <name>rue gargan</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à lire située sur la petite place en face du couvent.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.58618369999999" lon="7.562159499999999">
+    <name>Croisée des Lys</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte située au milieu de la place de la Croisée des Lys.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.674029999999995" lon="7.36029">
+    <name>rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>croisement avec la rue de la fontaine - cabine téléphonique</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.32076851623764" lon="4.068058133125306">
+    <name>54 avenue aristide briant</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le parc des étangs de fouchy, à côté de l&apos;entrée du pavillon exotique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.10509729999999" lon="7.1925295">
+    <name>Lieu dit La Place</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.113272" lon="7.070378">
+    <name>Foyer culturel     rue Roth</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se situe à gauche dans le couloir d entrée,  après le secrétariat.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.26038299999999" lon="4.030855">
+    <name>31 rue de Mars</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Tronc d arbre en guise de boîte à lire.Il est situé juste devant les halles, à l&apos;intersection entre la rue de Mars et la rue Andrieux.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.12598219999998" lon="7.281735">
+    <name>6 Place du Gén de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située place de l hôtel de ville</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.38656099999999" lon="6.2421619999999995">
+    <name>106 Avenue de nieppe</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>À côté du café c est l ancienne cabine téléphonique réhabilitée.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.90460370000001" lon="7.254315500000001">
+    <name>60 Rue de Rouffach</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de la Boulangerie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.25993340000001" lon="6.437557199999999">
+    <name>Ecole</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans une armoire devant l école</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.8774881" lon="8.0698752">
+    <name>Rue Principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Il y a de quoi lire</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.10529979999999" lon="6.9587125">
+    <name>35 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Coté mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.63429199999999" lon="4.980523">
+    <name>Route principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Derrière l abris bus.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.10836479999999" lon="7.434181099999999">
+    <name>Grand Rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.68854829999999" lon="5.3230278">
+    <name>Place de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la place près de la mairie adossée à un banc</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.93711089999999" lon="4.6404389">
+    <name>rue jean baptiste clément</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le parc municipal Rocheteau</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.58528499999999" lon="7.561233">
+    <name>en face de la bibliothèque du Parnasse</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>J&apos;ai souvent apporté des livres dans la boîte à lire, pour soutenir cette belle idée. Mais dernièrement, j&apos;ai remarqué qu&apos;une personne les prenait pour les revendre, très certainement. Je trouve ça triste et démotivant.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.495108900000005" lon="7.4682058">
+    <name>9 Rue Gal Brauer</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une boite à livres, qui ressemble à un grand nid , située à l entrée d&apos;une très jolie médiathèque</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.54820299999999" lon="4.175315">
+    <name>lieu dit  Le chêne sculpté</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>installée par l association Le jardin du livreau point de départ de superbes balades</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.864852499999984" lon="4.3693">
+    <name>grand rue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>aire de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.5010706" lon="6.114447900000001">
+    <name>Rue de la Plaine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sous le préau, Monsieur Liseur s&apos;est attardé près de la boîte à livres et du vieux pressoir. Une table vous attend, venez lui tenir compagnie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.416812799999995" lon="5.7074521">
+    <name>8 rue de la gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Les commerces de proximité VIVAL installent des boites à livres devant tous leurs commerces. Félicitations, très belle réalisation.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.069998900000016" lon="6.8614315999999995">
+    <name>Rue nationale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l entrée du village petite boîte du côté droit en venant de Cappel</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.590178699999996" lon="7.744546800000001">
+    <name>Place de pierre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Mise en place par l&apos;association Envie de quartier</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.59187939999999" lon="7.775909899999999">
+    <name>Parc de L&apos;Orangerie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.15805439999998" lon="7.325545800000001">
+    <name>Place des fetes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Accolée a la salle des fetes</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.67270260000001" lon="6.142104699999999">
+    <name>28 rue de Versigny</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>3 jolies boîtes en bois</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.2981244" lon="4.0719116">
+    <name>Rue du Général de Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à lire gourmande installée dans le marché couvert et dédié aux livres de cuisine.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.285723999999995" lon="4.058516">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.55803999999999" lon="7.533324800000001">
+    <name>2 rue du Viehweg</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Angle des rues du Viehweg et d Altorf</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.641204299999984" lon="6.043754700000001">
+    <name>83 rue de Toul</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres à l&apos;initiative d&apos;habitants. Visible et accessible depuis la voie publique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6586101" lon="7.5136869">
+    <name>15 rue de l église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Face a la mairie, a l intérieur d&apos;un abri pour voyageurs</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.537275799999996" lon="7.456058099999999">
+    <name>Passage des lavoirs</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.78220057747243" lon="6.531313061714174">
+    <name>Place Jeanne d&apos;Arc</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face du musée George de la Tour, près du parking, dans une cabine téléphonique, vous trouverez de charmantes étagères recouvertes de bouquins. Original et surprenant !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.81548289999999" lon="7.7863825">
+    <name>Rue de la Vieille Ile</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se trouve près du parking</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.58740470000001" lon="7.566993600000001">
+    <name>Rue de Huningue</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l&apos;entrée du Parc Trimbach</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.975121100000024" lon="8.1786011">
+    <name>Place de la république</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de la poste près du kiosque.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.80910899999999" lon="7.241035999999999">
+    <name>Place du général De Gaulle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.492381499999986" lon="3.4971195">
+    <name>Place de la Halle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>à l intérieur de la Halle - accessible aux heures d&apos;ouverture du marché</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.13888999999999" lon="7.264023">
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Parc Schweitzer</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.017938600000015" lon="7.530768499999999">
+    <name>rue de l hotel de ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l arrière du batiment de la mairie, contre un mur abrité sous un préau.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.10077289999998" lon="5.1366938">
+    <name>Maison des associations 24 rue des platanes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte à lire se situe dans le hall de la maison des associations, accessible aux heures d ouverture, du lundi au vendredi de 8h30 à 23h et le samedi de 8h30 à 12h - 13h30-18h</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.738534999999985" lon="4.7147353">
+    <name>guillaume.daniele-jean-claude@wanadoo.fr</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>DON de 9 boîtes des 3 LIONS CLUB de CHARLEVILLE-MEZIERES à l initiative de JC GUILLAUME Prdt de la Zone 13 réparties dans les différents quartiers de la Ville</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.08712669999999" lon="6.159862399999999">
+    <name>EHPAD Résidence les acacias</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boite à livres pour tous située devant l EHPAD.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.66063839999999" lon="6.171742">
+    <name>Rue de parme</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.60562900000002" lon="5.043778">
+    <name>Place de la Mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.466518799999996" lon="6.3719896">
+    <name>11 route de Trèves</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>En face de la Tour Eiffel miniature, l ancien poste douanier a été réaménagé en Armoire à Livres. Il y a des ouvrages en français et en allemand, car c&apos;est une armoire transfrontalière.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.34047580000001" lon="6.0381474000000015">
+    <name>place de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Se trouve place de la mairie à Knutange</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.69587229999999" lon="4.9301077">
+    <name>10 place de la gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Bibliothèque libre dans un bar, le BA KUNDA CAFE.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.71686899999998" lon="5.031536000000001">
+    <name>Route principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Au coin de la rue principale et de la route de daigny</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.053490181991016" lon="4.008947610855103">
+    <name>19, rue jules lobet</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Uniquement pour le plaisir de lire</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.60292449999999" lon="7.701583100000001">
+    <name>9 rue Marcel Pagnol</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.56949639999999" lon="7.2855575">
+    <name>98 rue du Nideck</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le parking de l?auberge cascade du Nideck</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.121336000000014" lon="6.173595000000001">
+    <name>Place de la comédie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.40392799999999" lon="6.837065000000001">
+    <name>Gare sncf</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle est située dans le parc près de la gare sncf de raon l étape</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.25656309999998" lon="7.4541013000000005">
+    <name>rue Melsheim</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une etagere protegee par..un rideau de douche! En fonction depuis plusieurs annees.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25813290000001" lon="4.0257686">
+    <name>Square Colbert</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans le parc en face de la gare, du côté de la place d Erlon plutôt, une boîte à lire rouge!</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.24427509999998" lon="4.0346212">
+    <name>Square Georges Sand</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.28803499999999" lon="3.7078063000000006">
+    <name>Place Gambetta</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>4 boîtes à lire dans la commune de Pâlis.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.98574459999999" lon="7.2178699">
+    <name>Rue du Bois</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.810858700000004" lon="7.0648556000000005">
+    <name>Rue des vignes</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Joli petite boite à livres, mise en place par la municipalité de ce village.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.07454469999998" lon="3.878075">
+    <name>Parc de la mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Boîte à livres Lions</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.873186499999996" lon="4.808802799999999">
+    <name>place de l église</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Très grande boîte à lire</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.1001406" lon="6.743309000000001">
+    <name>2 rue du centre</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.254546" lon="5.8295959">
+    <name>Chemin du moulin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans un arrêt de bus sur la route principale</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.68592050000001" lon="6.161279499999999">
+    <name>66 Rue de Laxou</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A l&apos;intérieur  de la Maison Braquehais Boulangerie-pâtisserie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.15484639999998" lon="6.1618851999999995">
+    <name>Woippy plage</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.10633308278889" lon="6.698784828186035">
+    <name>Stade Nautique, rue de la Piscine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boîte à lire a été instaurée par l&apos;association Lions Club de Saint-Avold dans le but de cultiver le goût de lire. Elle se trouve à l&apos;accueil de la piscine.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.61394559999999" lon="7.691244499999999">
+    <name>rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>sur le mur caserne des pompiers</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.8324619" lon="7.560278600000001">
+    <name>51 rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sous l abri bus</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.6266194" lon="8.0749207">
+    <name>49 rue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Implantée Square d&apos;Achern</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.439788" lon="6.0172071">
+    <name>Square de l&apos;Eglise</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Livres à emprunter ou à échanger librement</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.58257649999999" lon="7.846608200000001">
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Bücherschrank Bücherwurm auf dem Marktplatz Non pas une, mais deux armoires à livres, sur la place du marché d une petite ville allemande, à portée de tram de Strasbourg.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.69720299999999" lon="4.945567999999999">
+    <name>rue de Bitche</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>dans le jardin botanique, près du jardin d enfants.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.568717200000016" lon="6.1879952000000005">
+    <name>2 place de l?hôtel de ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Se trouve dans une ancienne cabine téléphonique</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.09096659999998" lon="6.144516000000001">
+    <name>Place de Coubertin</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boite à lire se situe devant l entrée de la piscine municipale. Une très bonne idée, non !</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.66319650000001" lon="4.930913">
+    <name>Route de la Marfée</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située dans le square</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.144584" lon="5.841414000000001">
+    <name>Friauville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l?abri bus près de la machine à pain</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.29219590000001" lon="6.4113679999999995">
+    <name>Vaxoncourt</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A côté du banc jaune pres de la mairie mais de lautre cote de la rue.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="47.78100740000001" lon="7.224535499999999">
+    <name>Graffenwald - Rue de la gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.6227108" lon="5.7178679">
+    <name>Au Pré des Seigneurs</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.23932459999999" lon="4.0376308">
+    <name>rue de la roseraie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>au bord de la coulée verte. Il  en a 3 ou 4 au total.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.41996550000001" lon="7.667517699999999">
+    <name>place du château de la Rebmatt</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>L&apos;arbre à livres se situe devant la médiathèque intercommunale Denise Rack-Salomon.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.99739079999999" lon="6.0999628">
+    <name>Rue du haut lessis</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ancienne cabine téléphonique située devant l église.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.23735899999999" lon="6.1684294">
+    <name>Pont de Metz</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant la Mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.79060329999999" lon="4.6896547">
+    <name>Place d Etion</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur la place, près de l église.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.118782599999996" lon="6.1737998">
+    <name>24 rue du Palais</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Posée sur le guichet du cinéma d&apos;art et essais le Caméo Ariel.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.68516399999999" lon="5.8155821">
+    <name>Rue Porte Neuve, 73</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.51748209999999" lon="7.705198000000001">
+    <name>Parc Friedel - Rue Girlenhirsch</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.396145300000015" lon="6.279224900000001">
+    <name>place de Halle</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Une cabine téléphonique réaménagée en armoire à livres, à côté de l Hôtel de Ville</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.04178829999999" lon="7.306599">
+    <name>à l angle de la Grand Rue, la rue du rempart Sud et la rue de l&apos;Allmend Sud</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur une petite place avec 4 bancs publics sous des arbres, une boite-à-lire en forme d arbre composée de 6 boitiers cubiques.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.38466110000001" lon="5.184177399999999">
+    <name>Rue de l hôtel de ville</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.8209652" lon="6.506442100000001">
+    <name>Place de la Saline</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.160817999999985" lon="5.385864999999999">
+    <name>quai de Londres</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>face à la poste, près du jet d eau</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.670591599999995" lon="5.6000867">
+    <name>58 rue du bois</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.65842779999999" lon="7.5832988">
+    <name>Rue de l école</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>grande boite a lire sous un préau</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.54564630000001" lon="5.1124413">
+    <name>Rue de la Brunette</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Placé juste à coté d&apos;une aire de jeux</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.23651799999999" lon="4.4692069">
+    <name>Supermarché Bi1 - 5 rue des anciennes tanneries</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Cette boite se situe dans la galerie marchande du supermarché Bi1</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.66486629999999" lon="6.1781336">
+    <name>Parc Richard pouille</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>A côté du poste de garde</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.29382219999998" lon="4.0535574">
+    <name>Place gallieni</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ancienne cabine téléphonique située sur la place Gallieni.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.22145669999998" lon="4.0418198">
+    <name>26 rue Lucien Léger</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle se situe à côté de l école maternelle Enelle</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.25244739999998" lon="4.0308083">
+    <name>23 Rue Libergier</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Près du jardin du musée des Beaux-Arts.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.33240229999999" lon="4.1259827">
+    <name>45 rue de la République</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Située sous l&apos;abribus  à côté de la maison de la presse.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.73825639999997" lon="4.925135599999999">
+    <name>Parking mairie</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Dans l ancienne cabine téléphonique.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.55909946717046" lon="7.566597461700441">
+    <name>Rue de la gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Derrière la salle omnisports, sur le terrain de promenade, dans une ancienne cabine téléphonique</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.153918700000006" lon="4.0796864">
+    <name>Place de la république</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.760969699999976" lon="4.715103999999999">
+    <name>place de la Basilique</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>devant la basilique de Mezieres</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.766246099999975" lon="5.5866226">
+    <name>Place de la gare</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Devant l entrée de la gare</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.671097499999995" lon="7.552605799999999">
+    <name>Rue Paul BUCHER</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sous le préau a gauche de la mairie</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="49.16212399999999" lon="3.975032">
+    <name>Rue Saint-Antoine</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Ancien lavoir à Nogent.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.71260119999999" lon="7.4115614">
+    <name>Rue principale</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Elle est de couleur mauve et se trouve sur le petit parking devant la mairie.</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.680169199999995" lon="6.158821200000001">
+    <name>86 boulevard Émile Zola</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>Sur le rebord d un fenêtre</desc>
+    <type>Boite à livre</type>
+  </wpt>
+  <wpt lat="48.81378719999999" lon="7.782844100000001">
+    <name>Place Désiré Brumbt</name>
+    <cmt>Amenity::entertainment:public_bookcase</cmt>
+    <desc>La boîte se situe près de la cage à oiseaux et de l aire de jeux dans le parc de la Gare</desc>
+    <type>Boite à livre</type>
+  </wpt>
+</gpx>

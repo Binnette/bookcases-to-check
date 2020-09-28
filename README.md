@@ -5,7 +5,7 @@ Those bookcases are mainly located in France and french speaking countries. You 
 
 ### View all bookcases (OSM + boite-a-lire.com)
 
-[Map of OSM bookcases and 2019-12-01 dataset](http://u.osmfr.org/m/394538/)
+[Map of OSM bookcases and 2020-09-28 dataset](http://u.osmfr.org/m/394538/)
 
 In this map:
 - OSM bookcases are displayed in **green** ![](https://placehold.it/12/32CD32/000000?text=+) on zoom 14+ with 1 hour cache
@@ -18,7 +18,8 @@ You can view all bookcases from those data here:
 
 |Date      |Bookcases|Map                                       |
 |----------|---------|------------------------------------------|
-|2019-12-01|5551     |[Map with 2019-12-01 data](http://u.osmfr.org/m/394535/)|
+|2020-09-28|6740     |[Map with 2020-09-28 data](https://umap.openstreetmap.fr/en/map/public-bookcases-from-boite-a-lirecom-2020-09-28_504237)|
+|2019-12-01|5551     |[Map with 2019-12-01 data](https://umap.openstreetmap.fr/en/map/public-bookcases-from-boite-a-lirecom-2019-12-01_394535)|
 |2019-09-07|5206     |[Map with 2019-09-07 data](https://umap.openstreetmap.fr/fr/map/public-bookcases_362282#6/46.606/3.889)|
 |2019-05-27|4795     |[Map with 2019-05-27 data](https://umap.openstreetmap.fr/fr/map/2019-05-27-public-bookcases_362245#6/46.606/3.889)|
 
@@ -75,6 +76,7 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 1. Click on link "**Téléchargez toutes les coordonnées**"
 1. Open the CSV with LibreOffice (or anything else)
 1. Remove bookcases without no GPS value
+1. Remove bookcases with comment like "MAJ : n'existe plus" and so on
 1. Repair broken lines (there is some ; in the data)
 1. [Not mandatory] Parse GPS in 2 differents columns
 1. [Not mandatory] Prepare data:
@@ -106,6 +108,7 @@ If those data are not enougth fresh, you can make new file "bookcase.gpx" yourse
 
 |Date      |Bookcases|Bookcase without description|
 |----------|---------|----------------------------|
+|2020-09-28|     6740|                        1093|    
 |2019-12-01|     5551|                         919|
 |2019-09-07|     5206|                         842|
 |2019-05-27|     4795|                         764|
