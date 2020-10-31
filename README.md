@@ -1,6 +1,8 @@
 ## Summary
 In this repository, you will find "public bookcases" exported from website: https://www.boite-a-lire.com/
 
+Note: boite-a-lire.com publish those data under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/) license.
+
 Those bookcases are mainly located in France and french speaking countries. You can display them in OsmAnd, JOSM, uMap etc.
 
 ### View all bookcases (OSM + boite-a-lire.com)
