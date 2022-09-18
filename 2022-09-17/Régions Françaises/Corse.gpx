@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:osmand="https://osmand.net"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <wpt lat="42.2989986" lon="9.1528366">
+        <time>2017-09-29 08:54:52</time>
+        <name>A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.</name>
+        <desc>Dénichée par : Le mennUniversité20250 Corte. . .A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Université, Corte</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="41.997829" lon="9.399904">
+        <time>2017-09-06 14:56:01</time>
+        <name>Armoire à lire près de la boutique bio sous les glycines.</name>
+        <desc>Dénichée par : FlorenceMigliacciaro20243 Prunelli-di-fiumorbo. . .Armoire à lire près de la boutique bio sous les glycines.Crédit photo : Florence</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Migliacciaro, Prunelli-di-fiumorbo</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="42.6326037" lon="8.9380841">
+        <time>2019-08-02 15:55:35</time>
+        <name>A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !</name>
+        <desc>Dénichée par : Sophie noëlCasino20220 Île rousse. . .A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Casino, Île rousse</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="41.9254665" lon="8.7381252">
+        <time>2017-02-23 10:13:07</time>
+        <name>La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio</name>
+        <desc>Dénichée par : BernadetteCours napoléon20000 Ajaccio. . .La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccioCrédit photo : Bernadette</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Cours napoléon, Ajaccio</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="41.4916889" lon="9.0550619">
+        <time>2021-10-04 08:59:06</time>
+        <name>Devant le spar\\nune étagère à livres est présente à gauche de la sortie du magasin</name>
+        <desc>Dénichée par : CelineViagenti20131 Pianottoli-caldarello. . .Devant le spar\\nune étagère à livres est présente à gauche de la sortie du magasin</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Viagenti, Pianottoli-caldarello</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="41.6990639788" lon="8.8409525156">
+        <time>2019-07-29 11:36:45</time>
+        <name>Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.</name>
+        <desc>Dénichée par : Motel logis abbartelloRésidence golfe du valinco, olmeto plage20113 Olmeto. . .Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Résidence golfe du valinco, olmeto plage, Olmeto</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="42.081804" lon="9.060516">
+        <time>2018-01-25 17:28:57</time>
+        <name>La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\\nréapprovisionnée tous les jours ...une vrai mine ...</name>
+        <desc>Dénichée par : Médiathèque de bocognanoBâtiment u palazzu20136 Bocognano. . .La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\\nréapprovisionnée tous les jours ...une vrai mine ...</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Bâtiment u palazzu, Bocognano</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="42.701123" lon="9.451018">
+        <time>2017-02-23 10:24:18</time>
+        <name>La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. </name>
+        <desc>Dénichée par : BernadetteAllée général fieschi20200 Bastia. . .La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. Crédit photo : Bernadette</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Allée général fieschi, Bastia</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <wpt lat="42.7005856" lon="9.4512278">
+        <time>2019-04-15 17:02:53</time>
+        <name>En haut de la place dans une ancienne cabine téléphonique</name>
+        <desc>Dénichée par : PiereschiPlace saint nicolas20200 Bastia. . .En haut de la place dans une ancienne cabine téléphonique</desc>
+        <type>Livres Corse</type>
+        <extensions>
+            <osmand:address>Place saint nicolas, Bastia</osmand:address>
+            <osmand:icon>public_bookcase</osmand:icon>
+            <osmand:background>square</osmand:background>
+            <osmand:color>#ff5020</osmand:color>
+        </extensions>
+    </wpt>
+    <extensions>
+        <osmand:points_groups>
+            <group name="Livres Corse" color="#ff5020" icon="public_bookcase" background="square" />
+        </osmand:points_groups>
+    </extensions>
+</gpx>
