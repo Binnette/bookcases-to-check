@@ -58,7 +58,7 @@ NB: i do not recommand to import the whole file "bookcase.gpx" because OsmAnd wi
 1. Select file bookcase.gpx
 1. It's done, bookcases are displayed on the map
 
-<img alt="Bookcases in OsmAnd" src="/assets/OsmAnd.png" height="30%" width="30%">
+<img alt="Bookcases in OsmAnd" src="./assets/OsmAnd.png" height="30%" width="30%">
 
 ### With JOSM ?
 
