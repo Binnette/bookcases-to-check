@@ -108,7 +108,7 @@ Prerequisites
 |Region                 |2019-12-01|2022-09-17|
 |-----------------------|----------|----------|
 |Total                  |      5551|      8756|
-|France métro           |      5291|      7992|
+|France métro           |      5291|      8413|
 |Nouvelle Aquitaine     |       871|      1307|
 |Ile de France          |       671|      1050|
 |Auvergne Rhone-Alpes   |       646|      1174|

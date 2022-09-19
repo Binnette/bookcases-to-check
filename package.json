@@ -1,0 +1,23 @@
+{
+  "name": "bookcases-to-check",
+  "version": "1.0.0",
+  "description": "Tools to manipulate bookcase dataset",
+  "main": "geojsonToGpx.js",
+  "scripts": {
+    "web": "webPageToGeojson.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binnette/bookcases-to-check.git"
+  },
+  "author": "Binnette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Binnette/bookcases-to-check/issues"
+  },
+  "homepage": "https://github.com/Binnette/bookcases-to-check#readme",
+  "dependencies": {
+    "html-to-text": "^8.2.1"
+  }
+}

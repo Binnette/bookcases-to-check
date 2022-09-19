@@ -6,40 +6,19 @@
         {
             "type": "Feature",
             "properties": {
-                "show": "1",
-                "addr:street": "Université",
-                "name": "Le menn",
-                "created": "2017-09-29 08:54:52",
-                "description": "Dénichée par : Le mennUniversité20250 Corte. . .A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.",
-                "updated": "2017-09-29 08:54:52",
-                "addr:city": "Corte",
-                "addr:zipcode": "20250",
-                "note": "A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.",
-                "addr:country": "France",
-                "id": "1684"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.15283660000,
-                    42.29899860000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "show": "1",
+                "email": "",
                 "id": "1588",
-                "description": "Dénichée par : FlorenceMigliacciaro20243 Prunelli-di-fiumorbo. . .Armoire à lire près de la boutique bio sous les glycines.Crédit photo : Florence",
                 "name": "Florence",
                 "created": "2017-09-06 14:56:01",
                 "addr:street": "Migliacciaro",
+                "img": "20170906150001-1150855.jpg",
                 "note": "Armoire à lire près de la boutique bio sous les glycines.",
                 "addr:city": "Prunelli-di-fiumorbo",
+                "credit": "Florence",
                 "updated": "2017-09-06 14:56:01",
                 "addr:country": "France",
-                "addr:zipcode": "20243"
+                "addr:zipcode": "20243",
+                "html": "Par Florence Migliacciaro 20243 Prunelli-di-fiumorbo Armoire à lire près de la boutique bio sous les glycines. © Florence"
             },
             "geometry": {
                 "type": "Point",
@@ -52,33 +31,62 @@
         {
             "type": "Feature",
             "properties": {
-                "show": "1",
-                "note": "A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !",
-                "addr:street": "Casino",
-                "addr:city": "Île rousse",
-                "updated": "2019-08-02 15:55:35",
-                "name": "Sophie noël",
-                "id": "5132",
-                "created": "2019-08-02 15:55:35",
-                "description": "Dénichée par : Sophie noëlCasino20220 Île rousse. . .A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !",
-                "addr:zipcode": "20220",
-                "addr:country": "France"
+                "name": "Médiathèque de bocognano",
+                "created": "2018-01-25 17:28:57",
+                "addr:zipcode": "20136",
+                "email": "",
+                "credit": "",
+                "id": "2183",
+                "updated": "2018-01-25 17:28:57",
+                "note": "La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands . réapprovisionnée tous les jours ...une vrai mine ...",
+                "addr:city": "Bocognano",
+                "addr:street": "Bâtiment u palazzu",
+                "img": "boitealire_0.png",
+                "addr:country": "France",
+                "html": "Par Médiathèque de bocognano Bâtiment u palazzu 20136 Bocognano La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands . réapprovisionnée tous les jours ...une vrai mine ..."
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    8.93808410000,
-                    42.63260370000
+                    9.06051600000,
+                    42.08180400000
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "description": "Dénichée par : BernadetteCours napoléon20000 Ajaccio. . .La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccioCrédit photo : Bernadette",
-                "show": "1",
+                "updated": "2021-10-04 08:59:06",
+                "addr:street": "Viagenti",
+                "note": "Devant le spar une étagère à livres est présente à gauche de la sortie du magasin",
+                "email": "",
+                "id": "8188",
+                "credit": "",
+                "addr:city": "Pianottoli-caldarello",
+                "html": "Par Celine Viagenti 20131 Pianottoli-caldarello Devant le spar une étagère à livres est présente à gauche de la sortie du magasin",
+                "created": "2021-10-04 08:59:06",
+                "addr:zipcode": "20131",
+                "img": "boitealire_0.png",
+                "name": "Celine",
+                "addr:country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.05506190000,
+                    41.49168890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "img": "20170223101041-9893829.png",
+                "email": "",
+                "credit": "Bernadette",
                 "created": "2017-02-23 10:07:56",
                 "note": "La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio",
+                "html": "Par Bernadette Cours napoléon 20000 Ajaccio La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio © Bernadette",
                 "updated": "2017-02-23 10:13:07",
                 "addr:street": "Cours napoléon",
                 "name": "Bernadette",
@@ -98,40 +106,94 @@
         {
             "type": "Feature",
             "properties": {
-                "updated": "2021-10-04 08:59:06",
-                "show": "1",
-                "addr:street": "Viagenti",
-                "id": "8188",
-                "note": "Devant le spar\\nune étagère à livres est présente à gauche de la sortie du magasin",
-                "addr:city": "Pianottoli-caldarello",
-                "description": "Dénichée par : CelineViagenti20131 Pianottoli-caldarello. . .Devant le spar\\nune étagère à livres est présente à gauche de la sortie du magasin",
-                "created": "2021-10-04 08:59:06",
-                "addr:zipcode": "20131",
-                "name": "Celine",
-                "addr:country": "France"
+                "addr:street": "Université",
+                "name": "Le menn",
+                "created": "2017-09-29 08:54:52",
+                "email": "",
+                "credit": "",
+                "updated": "2017-09-29 08:54:52",
+                "addr:city": "Corte",
+                "addr:zipcode": "20250",
+                "html": "Par Le menn Université 20250 Corte A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.",
+                "note": "A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.",
+                "img": "boitealire_0.png",
+                "addr:country": "France",
+                "id": "1684"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    9.05506190000,
-                    41.49168890000
+                    9.15283660000,
+                    42.29899860000
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "show": "1",
+                "addr:city": "Bastia",
+                "addr:zipcode": "20200",
+                "email": "",
+                "updated": "2019-04-15 17:02:53",
+                "addr:street": "Place saint nicolas",
+                "id": "4615",
+                "credit": "",
+                "note": "En haut de la place dans une ancienne cabine téléphonique",
+                "created": "2019-04-15 17:02:53",
+                "name": "Piereschi",
+                "html": "Par Piereschi Place saint nicolas 20200 Bastia En haut de la place dans une ancienne cabine téléphonique",
+                "img": "boitealire_0.png",
+                "addr:country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.45122780000,
+                    42.70058560000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "note": "A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !",
+                "email": "",
+                "addr:street": "Casino",
+                "credit": "",
+                "addr:city": "Île rousse",
+                "updated": "2019-08-02 15:55:35",
+                "html": "Par Sophie noël Casino 20220 Île rousse A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !",
+                "name": "Sophie noël",
+                "id": "5132",
+                "created": "2019-08-02 15:55:35",
+                "addr:zipcode": "20220",
+                "img": "boitealire_0.png",
+                "addr:country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.93808410000,
+                    42.63260370000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:street": "Résidence golfe du valinco, olmeto plage",
                 "addr:city": "Olmeto",
                 "addr:zipcode": "20113",
+                "email": "",
                 "updated": "2019-07-29 11:36:45",
                 "created": "2019-07-29 11:36:45",
                 "note": "Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.",
-                "description": "Dénichée par : Motel logis abbartelloRésidence golfe du valinco, olmeto plage20113 Olmeto. . .Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.",
+                "credit": "",
                 "name": "Motel logis abbartello",
+                "img": "boitealire_0.png",
                 "id": "5102",
-                "addr:country": "France"
+                "addr:country": "France",
+                "html": "Par Motel logis abbartello Résidence golfe du valinco, olmeto plage 20113 Olmeto Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau."
             },
             "geometry": {
                 "type": "Point",
@@ -144,37 +206,16 @@
         {
             "type": "Feature",
             "properties": {
-                "show": "1",
-                "name": "Médiathèque de bocognano",
-                "created": "2018-01-25 17:28:57",
-                "addr:zipcode": "20136",
-                "id": "2183",
-                "description": "Dénichée par : Médiathèque de bocognanoBâtiment u palazzu20136 Bocognano. . .La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\\nréapprovisionnée tous les jours ...une vrai mine ...",
-                "updated": "2018-01-25 17:28:57",
-                "note": "La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands .\\nréapprovisionnée tous les jours ...une vrai mine ...",
-                "addr:city": "Bocognano",
-                "addr:street": "Bâtiment u palazzu",
-                "addr:country": "France"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.06051600000,
-                    42.08180400000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "show": "1",
                 "addr:city": "Bastia",
                 "addr:zipcode": "20200",
-                "description": "Dénichée par : BernadetteAllée général fieschi20200 Bastia. . .La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. Crédit photo : Bernadette",
+                "img": "20170223102221-3413226.jpg",
+                "email": "",
+                "credit": "Bernadette",
+                "note": "La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas.",
+                "html": "Par Bernadette Allée général fieschi 20200 Bastia La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. © Bernadette",
                 "updated": "2017-02-23 10:24:18",
                 "created": "2017-02-23 10:24:18",
                 "name": "Bernadette",
-                "note": "La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas. ",
                 "addr:street": "Allée général fieschi",
                 "addr:country": "France",
                 "id": "821"
@@ -184,29 +225,6 @@
                 "coordinates": [
                     9.45101800000,
                     42.70112300000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "show": "1",
-                "addr:city": "Bastia",
-                "addr:zipcode": "20200",
-                "updated": "2019-04-15 17:02:53",
-                "addr:street": "Place saint nicolas",
-                "id": "4615",
-                "description": "Dénichée par : PiereschiPlace saint nicolas20200 Bastia. . .En haut de la place dans une ancienne cabine téléphonique",
-                "note": "En haut de la place dans une ancienne cabine téléphonique",
-                "created": "2019-04-15 17:02:53",
-                "name": "Piereschi",
-                "addr:country": "France"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.45122780000,
-                    42.70058560000
                 ]
             }
         }
