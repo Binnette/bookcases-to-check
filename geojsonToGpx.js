@@ -1,21 +1,24 @@
-const fs = require('fs');
-const path = require('path');
-
 // Parameters
 const folder = './2022-09-17/';
+const file = 'data.json';
 
 // Constantes
 const regions = 'Régions Françaises/';
-const books = 'Livres';
-const other = 'Livres hors de France métro';
+const livres = 'BoiteLire';
+const horsFrance = 'BoiteLire hors France métro';
 
 // Globals
 var t;
 
-function saveFile(file, content, nb) {
+// Libs
+const fs = require('fs');
+const path = require('path');
+
+
+function saveFile(file, content) {
     try {
         fs.writeFileSync(file, content, { flag: 'w+' });
-        console.log('OK ' + file + ' ' + nb + ' features')
+        console.log('OK ' + file)
     } catch (err) {
         console.error('KO ' + file + ' ' + err);
     }
@@ -43,6 +46,7 @@ function wFooter(title) {
 
 function clean(text) {
     text = text || '';
+    text = text.replace('&',' et ');
     text = text.replace(/\s+/g,' ');
     return text.trim();
 }
@@ -93,23 +97,14 @@ function wBookcase(b, i, title) {
     }
 }
 
-function geojsonToGpx(file, folder, title) {
-    console.log("Converting " + file + "...")
-    var geo;
-
-    try {
-        const data = fs.readFileSync(folder + file);
-        geo = JSON.parse(data);
-    } catch (err) {
-        console.error(err);
-        return;
-    }
+function convert(geo, title) {
+    var count = geo.features.length;
+    console.log('Converting ' + count + ' features...')
 
     // reset content
     t = '';
     wHeader();
 
-    var count = geo.features.length;
     for (var i = 0; i < count; i++) {
         var boite = geo.features[i];
         wBookcase(boite, i, title);
@@ -117,31 +112,37 @@ function geojsonToGpx(file, folder, title) {
 
     wFooter(title);
 
-    var base = path.basename(file, '.geojson');
+    return t;
+}
 
-    var gpx = folder + base + '.gpx';
-    saveFile(gpx, t, count);
+function readFile(file) {
+    try {
+        const data = fs.readFileSync(file);
+        return JSON.parse(data);
+    } catch (err) {
+        console.error(err);
+    }        
 }
 
 var mainFiles = fs.readdirSync(folder).filter(f => f.endsWith('.geojson'));
 var regionFiles = fs.readdirSync(folder + regions).filter(fn => fn.endsWith('.geojson'));
-var allFiles = mainFiles.concat(regionFiles);
 
-mainFiles.forEach(function(f) {
-    var name = path.basename(f, '.geojson');
-    var title = "";
-    if (name.startsWith("bookcase")) {
-        title = books;
-    } else {
-        title = other;
-    }
-    geojsonToGpx(f, folder, title);
+mainFiles.forEach(function(file) {
+    var name = path.basename(file, '.geojson');
+    var title = name.startsWith('bookcase') ? livres : horsFrance 
+    var data = readFile(folder + file);
+    var converted = convert(data, title);
+    var gpxPath = folder + name + '.gpx';
+    saveFile(gpxPath, converted);
 });
 
-regionFiles.forEach(function(f) {
-    var name = path.basename(f, '.geojson');
-    var title = books + " " + name;
-    geojsonToGpx(f, folder + regions, title);
+regionFiles.forEach(function(file) {
+    var name = path.basename(file, '.geojson');
+    var title = livres + " " + name;
+    var data = readFile(folder + regions + file);
+    var converted = convert(data, title);
+    var gpxPath = folder + regions + name + '.gpx';
+    saveFile(gpxPath, converted);
 });
 
 console.log("Done.")

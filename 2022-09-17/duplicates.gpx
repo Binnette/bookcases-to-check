@@ -4,7 +4,7 @@
     <time>2022-09-06 09:34:28</time>
     <name>b9152 A côté de la poste</name>
     <desc>Par Isa62 Longuenesse 62219 Longuenesse A côté de la poste</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Longuenesse, 62219 Longuenesse, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -16,7 +16,7 @@
     <time>2022-08-26 15:50:01</time>
     <name>b9135 Jardin robin a l angle de la rue etienne sabatier et de la rue paul bert</name>
     <desc>Par Carpe Jardin robin 33500 Libourne Jardin robin a l angle de la rue etienne sabatier et de la rue paul bert</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Jardin robin, 33500 Libourne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -26,9 +26,9 @@
   </wpt>
   <wpt lat="48.4821782" lon="5.135738">
     <time>2022-08-18 09:53:00</time>
-    <name>b9090 A côté de la boîte à lettres p & t</name>
-    <desc>Par Barbier 14 grande rue 52300 Autigny le petit A côté de la boîte à lettres p & t</desc>
-    <type>Livres hors de France métro</type>
+    <name>b9090 A côté de la boîte à lettres p et t</name>
+    <desc>Par Barbier 14 grande rue 52300 Autigny le petit A côté de la boîte à lettres p et t</desc>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>14 grande rue, 52300 Autigny le petit, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -40,7 +40,7 @@
     <time>2022-08-17 17:35:04</time>
     <name>b9081</name>
     <desc>Par De jesus gaëlle 82 rue gustave courtois 70000 Pusey</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>82 rue gustave courtois, 70000 Pusey, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -52,7 +52,7 @@
     <time>2022-07-21 11:15:05</time>
     <name>b8994 Se situe juste au-dessus de la boîte d envois de courriers postaux jaune.</name>
     <desc>Par Betti Notre dame d autres, place de l'Église 12120 Arvieu Se situe juste au-dessus de la boîte d envois de courriers postaux jaune.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Notre dame d autres, place de l'Église, 12120 Arvieu, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -64,7 +64,7 @@
     <time>2022-07-21 11:13:19</time>
     <name>b8984 La boîte est sous les platanes devant la boulangerie</name>
     <desc>Par Axel Place du 14 juillet 34350 Vendres La boîte est sous les platanes devant la boulangerie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place du 14 juillet, 34350 Vendres, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -76,7 +76,7 @@
     <time>2022-07-13 10:38:59</time>
     <name>b8972 Se situe juste au-dessus de la boîte jaune d envoi de courrier postaux.</name>
     <desc>Par Betti Notre dame d aures, place de l'église 12120 Arvieu Se situe juste au-dessus de la boîte jaune d envoi de courrier postaux.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Notre dame d aures, place de l'église, 12120 Arvieu, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -88,7 +88,7 @@
     <time>2022-07-04 10:30:48</time>
     <name>b8960 C’est un ancien frigo qui accueille des livres, classés par thème et renouvelés tous les mois. il est en accès libre pour les touristes et les habitants de la région . c’est un endroit touristique avec lieu de promenade, plan d’eau, pêche et camping à proximité.</name>
     <desc>Par Saint-nizier le bouchoux Domaine de mépillat 01560 Saint nizier le bouchoux C’est un ancien frigo qui accueille des livres, classés par thème et renouvelés tous les mois. il est en accès libre pour les touristes et les habitants de la région . c’est un endroit touristique avec lieu de promenade, plan d’eau, pêche et camping à proximité.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Domaine de mépillat, 01560 Saint nizier le bouchoux, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -100,7 +100,7 @@
     <time>2022-07-04 10:14:10</time>
     <name>b8938 La boîte est contre le mur de l école élémentaire</name>
     <desc>Par Axel Parking de l école pierre et marie curie 66260 Saint laurent de cerdans La boîte est contre le mur de l école élémentaire</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Parking de l école pierre et marie curie, 66260 Saint laurent de cerdans, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -112,7 +112,7 @@
     <time>2022-05-31 09:37:37</time>
     <name>b8895 Ancien abri bus</name>
     <desc>Par Malo Moulin de parabère 65500 Larreule-parabère Ancien abri bus</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Moulin de parabère, 65500 Larreule-parabère, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -124,7 +124,7 @@
     <time>2022-05-24 16:41:02</time>
     <name>b8880 Deux belle boites à livres crée et décorer par les enfants du périscolaire de l idonniére.</name>
     <desc>Par Périscolaire idonnière Rue de la croix bouet 85170 Le poiré sur vie Deux belle boites à livres crée et décorer par les enfants du périscolaire de l idonniére.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de la croix bouet, 85170 Le poiré sur vie, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -136,7 +136,7 @@
     <time>2022-05-23 17:06:33</time>
     <name>b8874 Plusieurs boites à livres dans notre centre commercial, à disposition des clients.</name>
     <desc>Par Steel 2 rue ferrer 42000 Saint etienne Plusieurs boites à livres dans notre centre commercial, à disposition des clients.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>2 rue ferrer, 42000 Saint etienne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -148,7 +148,7 @@
     <time>2022-05-05 09:43:51</time>
     <name>b8813 La boîte ce trouve dans le renfoncement juste après le bar tabac et coiffeuse</name>
     <desc>Par Baumann Rue de provence 07430 Saint cyr La boîte ce trouve dans le renfoncement juste après le bar tabac et coiffeuse</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de provence, 07430 Saint cyr, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -160,7 +160,7 @@
     <time>2022-05-05 09:38:13</time>
     <name>b8806 Place du marché faventines</name>
     <desc>Par Alexis chazard 64 rue faventines 26000 Valence Place du marché faventines</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>64 rue faventines, 26000 Valence, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -172,7 +172,7 @@
     <time>2022-05-05 09:33:43</time>
     <name>b8798 En haut des gradins du stade d eau vive</name>
     <desc>Par Thibaut Avenue de l yser - stade d'eau vive 64110 Mazères-lezons En haut des gradins du stade d eau vive</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue de l yser - stade d'eau vive, 64110 Mazères-lezons, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -184,7 +184,7 @@
     <time>2022-04-22 12:04:27</time>
     <name>b8793 A coter du parking de la gare</name>
     <desc>Par Oliv Avenue du geral leclerc 91610 Ballancourt A coter du parking de la gare</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue du geral leclerc, 91610 Ballancourt, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -196,7 +196,7 @@
     <time>2022-04-11 10:09:13</time>
     <name>b8746 À l intérieur de l'église saint-paul.</name>
     <desc>Par Guingambrésil 174 rue du faubourg du pont-neuf 86000 Poitiers À l intérieur de l'église saint-paul.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>174 rue du faubourg du pont-neuf, 86000 Poitiers, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -208,7 +208,7 @@
     <time>2022-04-11 09:53:11</time>
     <name>b8741 Situé à côté de la mairie</name>
     <desc>Par Sipp Place de la lorraine 54385 Manonville Situé à côté de la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la lorraine, 54385 Manonville, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -220,7 +220,7 @@
     <time>2022-03-29 09:33:52</time>
     <name>b8722</name>
     <desc>Par Honorinecullen 3 place de la mairie 24300 Augignac</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>3 place de la mairie, 24300 Augignac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -232,7 +232,7 @@
     <time>2022-03-23 09:49:31</time>
     <name>b8711 Sous l arrêt de bus.</name>
     <desc>Par Esaels Face à la mairie 14220 Combray Sous l arrêt de bus.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Face à la mairie, 14220 Combray, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -244,7 +244,7 @@
     <time>2022-03-22 11:51:34</time>
     <name>b8680 Devant l école maternelle victor hugo.</name>
     <desc>Par Mai Voie georges danton 78210 Saint cyr l école Devant l école maternelle victor hugo.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Voie georges danton, 78210 Saint cyr l école, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -256,7 +256,7 @@
     <time>2022-03-22 11:51:11</time>
     <name>b8678 Dans le hall de l abribus sur la placette</name>
     <desc>Par Philippe 134 rue la provençale 26510 Cornillon sur l oule Dans le hall de l abribus sur la placette</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>134 rue la provençale, 26510 Cornillon sur l oule, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -268,7 +268,7 @@
     <time>2022-03-21 09:35:10</time>
     <name>b8640 Boite située devant l entrée de la mairie de noyarey</name>
     <desc>Par Corlin 75 rue du maupas 38360 Noyarey Boite située devant l entrée de la mairie de noyarey</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>75 rue du maupas, 38360 Noyarey, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -280,7 +280,7 @@
     <time>2022-03-10 09:18:34</time>
     <name>b8633 Boite devant l école</name>
     <desc>Par Chris. Ecole 12350 Lanuejouls Boite devant l école</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Ecole, 12350 Lanuejouls, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -292,7 +292,7 @@
     <time>2022-02-23 13:08:26</time>
     <name>b8548 Boite a livres crée par la ressourcerie.</name>
     <desc>Par Ressourcerie Rue des remparts 67120 Molsheim Boite a livres crée par la ressourcerie.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue des remparts, 67120 Molsheim, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -304,7 +304,7 @@
     <time>2022-02-17 17:23:15</time>
     <name>b8532 À côté de l'entrée de l?école primaire</name>
     <desc>Par Chrystelle 6 rue danielle casanova 78210 Saint cyr l ecole À côté de l'entrée de l?école primaire</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>6 rue danielle casanova, 78210 Saint cyr l ecole, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -316,7 +316,7 @@
     <time>2022-02-11 09:27:21</time>
     <name>b8506 Jolie boîte à lire juste en face du monument présent à la mairie !</name>
     <desc>Par Laura Mairie 57490 L?hôpital / spitel Jolie boîte à lire juste en face du monument présent à la mairie !</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Mairie, 57490 L?hôpital / spitel, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -328,7 +328,7 @@
     <time>2022-02-03 12:04:53</time>
     <name>b8490 Située à l entrée de l'allée couverte</name>
     <desc>Par Monvoisin benoit Allée de plein ciel 77350 Le mée sur seine Située à l entrée de l'allée couverte</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Allée de plein ciel, 77350 Le mée sur seine, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -340,7 +340,7 @@
     <time>2022-01-10 09:33:33</time>
     <name>b8426 À côté de l entrée du carrefour dans la galerie commerciale</name>
     <desc>Par Booncorps Centre commercial 017 Angoulins À côté de l entrée du carrefour dans la galerie commerciale</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Centre commercial, 017 Angoulins, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -352,7 +352,7 @@
     <time>2022-01-10 09:27:41</time>
     <name>b8409 A l intérieur du centre commercial à gauche de l'entrée de carrefour,un grand local rempli de bibliothèques.</name>
     <desc>Par Pascale boncorps Centre commercial 17690 Angoulins sur mer A l intérieur du centre commercial à gauche de l'entrée de carrefour,un grand local rempli de bibliothèques.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Centre commercial, 17690 Angoulins sur mer, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -364,7 +364,7 @@
     <time>2021-12-20 09:08:49</time>
     <name>b8388 Boîte venant d être installée par la mairie de neuilly.</name>
     <desc>Par Elsa jacquinot Square françois d humières 92200 Neuilly-sur-seine Boîte venant d être installée par la mairie de neuilly.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Square françois d humières, 92200 Neuilly-sur-seine, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -376,7 +376,7 @@
     <time>2021-12-02 08:57:48</time>
     <name>b8352 Au niveau des tennis</name>
     <desc>Par Gigi Avenue de la gare 34290 Espondeilhan Au niveau des tennis</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue de la gare, 34290 Espondeilhan, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -388,7 +388,7 @@
     <time>2021-11-30 16:04:51</time>
     <name>b8346 A la plage du plan d eau, 74150 rumilly</name>
     <desc>Par Ghislaine Chemin du moulin RUMILLY 74150 A la plage du plan d eau, 74150 rumilly</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Chemin du moulin, RUMILLY 74150, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -400,7 +400,7 @@
     <time>2021-10-18 09:01:09</time>
     <name>b8202 Dans l ancienne cabine téléphonique face à l'église</name>
     <desc>Par Axel Rue principale rd 12 32420 Villefranche d astarac Dans l ancienne cabine téléphonique face à l'église</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue principale rd 12, 32420 Villefranche d astarac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -412,7 +412,7 @@
     <time>2021-10-18 09:00:49</time>
     <name>b8201 La boite est sur le côté de la mairie</name>
     <desc>Par Axel Place jean sénac 32170 Miélan La boite est sur le côté de la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place jean sénac, 32170 Miélan, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -424,7 +424,7 @@
     <time>2021-10-18 09:00:26</time>
     <name>b8200 Boite à côté de la poste, sur la grande place</name>
     <desc>Par Axel Place de l estelette 65230 Castelnau magnoac Boite à côté de la poste, sur la grande place</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de l estelette, 65230 Castelnau magnoac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -436,7 +436,7 @@
     <time>2021-10-04 08:57:52</time>
     <name>b8185 Sur le petit parking contre le garage en bois</name>
     <desc>Par Aubrac brie salers 3 chemin de l école 77160 Saint hilliers Sur le petit parking contre le garage en bois</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>3 chemin de l école, 77160 Saint hilliers, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -448,7 +448,7 @@
     <time>2021-09-30 15:55:05</time>
     <name>b8179 Petite boîte à livres sous le porche entre la place grassion fredot et la placette des ursulines.</name>
     <desc>Par Flow Place grassion 63670 Le cendre Petite boîte à livres sous le porche entre la place grassion fredot et la placette des ursulines.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place grassion, 63670 Le cendre, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -460,7 +460,7 @@
     <time>2021-09-27 11:38:02</time>
     <name>b8145 Placée entre les arbres place du marché,face à la mer,dos ala boulangerie</name>
     <desc>Par Mille colette Centre de vie 29280 Plougonvelin Placée entre les arbres place du marché,face à la mer,dos ala boulangerie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Centre de vie, 29280 Plougonvelin, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -472,7 +472,7 @@
     <time>2021-09-08 12:15:08</time>
     <name>b8101 Un peu cachée, derrière le point de covoiturage</name>
     <desc>Par Agnès bonnefoy 60 avenue Édouard herriot 69170 Tarare Un peu cachée, derrière le point de covoiturage</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>60 avenue Édouard herriot, 69170 Tarare, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -484,7 +484,7 @@
     <time>2021-09-08 12:14:57</time>
     <name>b8100 Un peu cachée, derrière le point de covoiturage</name>
     <desc>Par Agnès b 60 avenue Édouard herriot 69170 Tarare Un peu cachée, derrière le point de covoiturage</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>60 avenue Édouard herriot, 69170 Tarare, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -496,7 +496,7 @@
     <time>2021-09-08 12:14:57</time>
     <name>b8099 Un peu cachée, derrière le point de covoiturage</name>
     <desc>Par Agnès b 60 avenue Édouard herriot 69170 Tarare Un peu cachée, derrière le point de covoiturage</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>60 avenue Édouard herriot, 69170 Tarare, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -508,7 +508,7 @@
     <time>2021-09-08 12:14:19</time>
     <name>b8095 Aire de jeux de la promenade des bords de marne</name>
     <desc>Par Neuilly notre ville Chemin de l Écluse 93330 Neuilly-sur-marne Aire de jeux de la promenade des bords de marne</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Chemin de l Écluse, 93330 Neuilly-sur-marne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -520,7 +520,7 @@
     <time>2021-09-07 09:20:44</time>
     <name>b8057 En face de l?école élémentaire.</name>
     <desc>Par Nath Rue du rouvion 54800 Hatrize En face de l?école élémentaire.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du rouvion, 54800 Hatrize, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -532,7 +532,7 @@
     <time>2021-08-10 09:23:27</time>
     <name>b7974 À l?angle de la mairie</name>
     <desc>Par Mouton1712 Route de pont-audemer 27260 Epaignes À l?angle de la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route de pont-audemer, 27260 Epaignes, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -544,7 +544,7 @@
     <time>2021-08-09 17:31:20</time>
     <name>b7965</name>
     <desc>Par Coline b. Promenade aristide briant 14830 Langrune-sur-mer</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Promenade aristide briant, 14830 Langrune-sur-mer, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -556,7 +556,7 @@
     <time>2021-08-09 15:34:27</time>
     <name>b7961 Petite maison posée sur gabion en milieu de hameau.</name>
     <desc>Par Poteaux nathalie 8 hameau du moulin blanc 59165 Auberchicourt Petite maison posée sur gabion en milieu de hameau.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>8 hameau du moulin blanc, 59165 Auberchicourt, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -568,7 +568,7 @@
     <time>2021-08-02 17:05:42</time>
     <name>b7913</name>
     <desc>Par Derory Place de la mairie 42260 Bussy albieux</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la mairie, 42260 Bussy albieux, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -580,7 +580,7 @@
     <time>2021-08-02 17:05:09</time>
     <name>b7909 Une ancienne cabine téléphonique réhabilitée en cabine à livre. installée au niveau du jardin du centre social</name>
     <desc>Par Véronique 80 chemin rouge 59155 Faches thumesnil Une ancienne cabine téléphonique réhabilitée en cabine à livre. installée au niveau du jardin du centre social</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>80 chemin rouge, 59155 Faches thumesnil, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -592,7 +592,7 @@
     <time>2021-08-02 12:57:33</time>
     <name>b7902 Près de la mairie</name>
     <desc>Par Mouton1712 Route de pont-audemer 27260 Epaignes Près de la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route de pont-audemer, 27260 Epaignes, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -604,7 +604,7 @@
     <time>2021-07-30 11:20:46</time>
     <name>b7889 En face de l épicerie et la pharmacie</name>
     <desc>Par Magré Place olivier guichard 44410 Assérac En face de l épicerie et la pharmacie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place olivier guichard, 44410 Assérac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -616,7 +616,7 @@
     <time>2021-07-23 15:19:12</time>
     <name>b7778 Poser sur un muret d une maison</name>
     <desc>Par Mel 21 rue prad morgard 56300 Pontivy Poser sur un muret d une maison</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>21 rue prad morgard, 56300 Pontivy, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -628,7 +628,7 @@
     <time>2021-07-16 10:19:21</time>
     <name>b7760 Sous le porche juste avant le fief</name>
     <desc>Par Chloe Chateau neuf de mazenc 26160 Chateau neuf de mazenc Sous le porche juste avant le fief</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Chateau neuf de mazenc, 26160 Chateau neuf de mazenc, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -640,7 +640,7 @@
     <time>2021-07-13 10:19:11</time>
     <name>b7751 Devant vival</name>
     <desc>Par Francesca Place de la mairie 23000 Saint laurent Devant vival</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la mairie, 23000 Saint laurent, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -652,7 +652,7 @@
     <time>2021-07-09 16:49:30</time>
     <name>b7741 Boîte à troc également</name>
     <desc>Par Calie Le bourg 42780 Violay Boîte à troc également</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Le bourg, 42780 Violay, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -664,7 +664,7 @@
     <time>2021-07-06 10:13:06</time>
     <name>b7733</name>
     <desc>Par Aaa 104 rue humblot 62138 Auchy les mines</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>104 rue humblot, 62138 Auchy les mines, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -676,7 +676,7 @@
     <time>2021-06-22 20:12:35</time>
     <name>b7671 Boite à livre placée devant l entré du stade lionel heurtebize.</name>
     <desc>Par Gregory Place mattéotti 77420 Champs sur marne Boite à livre placée devant l entré du stade lionel heurtebize.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place mattéotti, 77420 Champs sur marne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -688,7 +688,7 @@
     <time>2021-06-11 10:09:39</time>
     <name>b7623 Frigo transformé en boîte à lire.</name>
     <desc>Par Andrea fortner Rua carpina, 220 05601-020 São paulo Frigo transformé en boîte à lire.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rua carpina, 220, 05601-020 São paulo, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -700,7 +700,7 @@
     <time>2021-06-10 10:26:06</time>
     <name>b7617 Boîte en bois contre le mur de l église</name>
     <desc>Par Francesca Rue des écoles 87800 Saint-maurice-les-brousses Boîte en bois contre le mur de l église</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue des écoles, 87800 Saint-maurice-les-brousses, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -712,7 +712,7 @@
     <time>2021-05-19 11:28:10</time>
     <name>b7496 Meuble rouge</name>
     <desc>Par Francescaa Route de bort, les bardys 87480 Saint-priest-taurion Meuble rouge</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route de bort, les bardys, 87480 Saint-priest-taurion, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -724,7 +724,7 @@
     <time>2021-04-23 16:41:28</time>
     <name>b7422</name>
     <desc>Par Loann 60 rue de la correspondance 38840 Saint-hilaire-du-rosier</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>60 rue de la correspondance, 38840 Saint-hilaire-du-rosier, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -736,7 +736,7 @@
     <time>2021-04-23 15:40:48</time>
     <name>b7421</name>
     <desc>Par Anne Promenade jane et paulette nardal 75014 Paris</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Promenade jane et paulette nardal, 75014 Paris, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -748,7 +748,7 @@
     <time>2021-04-23 15:38:38</time>
     <name>b7418</name>
     <desc>Par Val.g 3 rue durouchoux 75014 Paris</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>3 rue durouchoux, 75014 Paris, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -760,7 +760,7 @@
     <time>2021-04-19 10:26:27</time>
     <name>b7373 Encore une boite sur notre commune réalisée par l'association repaircafe24.</name>
     <desc>Par Repaircafe24 24530 24530 Condat sur tincou Encore une boite sur notre commune réalisée par l'association repaircafe24.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>24530, 24530 Condat sur tincou, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -772,7 +772,7 @@
     <time>2021-04-06 13:56:35</time>
     <name>b7329 A côté de l épicerie</name>
     <desc>Par José Rue madeleine 38000 Grenoble A côté de l épicerie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue madeleine, 38000 Grenoble, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -784,7 +784,7 @@
     <time>2021-04-06 13:55:44</time>
     <name>b7324 C est une ancienne cabine téléphonique ,elle se situe au niveau du parking de la mairie</name>
     <desc>Par Lauzet Place de la mairie 23000 La sauniere C est une ancienne cabine téléphonique ,elle se situe au niveau du parking de la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la mairie, 23000 La sauniere, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -796,7 +796,7 @@
     <time>2021-03-08 09:59:25</time>
     <name>b7286 La boite est un ancien frigo décoré.</name>
     <desc>Par Fabinette Place de la mairie 54260 Allondrelle-la-malmaison La boite est un ancien frigo décoré.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la mairie, 54260 Allondrelle-la-malmaison, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -808,7 +808,7 @@
     <time>2021-03-01 09:01:26</time>
     <name>b7268 Belle bote situe au niveau du chemin pour pitons.</name>
     <desc>Par F. laurent Rue du clos d orvilliers 10420 Les nos-prs-troyes Belle bote situe au niveau du chemin pour pitons.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du clos d orvilliers, 10420 Les nos-prs-troyes, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -820,7 +820,7 @@
     <time>2021-02-25 15:42:42</time>
     <name>b7266 Sur le parking de l espace salvador allende</name>
     <desc>Par Marco Nutellafrites@gmail.com 29700 Pluguffan Sur le parking de l espace salvador allende</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Nutellafrites@gmail.com, 29700 Pluguffan, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -832,7 +832,7 @@
     <time>2021-02-25 15:42:24</time>
     <name>b7264 Au pied d un des immeubles de la cité hlm de kerivoas</name>
     <desc>Par Marco Nutellafrites@gmail.com 29770 Audierne Au pied d un des immeubles de la cité hlm de kerivoas</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Nutellafrites@gmail.com, 29770 Audierne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -844,7 +844,7 @@
     <time>2021-02-25 15:42:14</time>
     <name>b7263 à l entrée du parking de l'office de tourisme</name>
     <desc>Par Marco Nutellafrites@gmail.com 29780 Plouhinec à l entrée du parking de l'office de tourisme</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Nutellafrites@gmail.com, 29780 Plouhinec, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -856,7 +856,7 @@
     <time>2021-02-18 12:33:58</time>
     <name>b7231 Gros cylindre jaune et noir fermé au milieu de la place</name>
     <desc>Par Nolwenn Place duquesne 44600 Saint-nazaire Gros cylindre jaune et noir fermé au milieu de la place</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place duquesne, 44600 Saint-nazaire, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -868,7 +868,7 @@
     <time>2021-02-17 14:06:12</time>
     <name>b7227 Petit cabanon collé à l ancienne école.</name>
     <desc>Par Richard noah Route des sapins 39300 Équevillon Petit cabanon collé à l ancienne école.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route des sapins, 39300 Équevillon, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -880,7 +880,7 @@
     <time>2021-02-15 10:17:09</time>
     <name>b7224 Cabine téléphonique transformée en boîte à livre</name>
     <desc>Par sabine place de la mairie 01310 polliat Cabine téléphonique transformée en boîte à livre</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>place de la mairie, 01310 polliat, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -892,7 +892,7 @@
     <time>2021-02-08 12:58:11</time>
     <name>b7196 Près de l entrée, sous le auvent du bâtiment, dans une horloge comtoise recyclée.</name>
     <desc>Par Claire b Jardins d oasis - jardin des muats 42170 St just-st rambert Près de l entrée, sous le auvent du bâtiment, dans une horloge comtoise recyclée.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Jardins d oasis - jardin des muats, 42170 St just-st rambert, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -904,7 +904,7 @@
     <time>2021-01-06 11:00:14</time>
     <name>b7079 Ancienne cabine téléphonique devant la mairie.</name>
     <desc>Par Lison Grand rue 63630 Saint bonnet le chastel Ancienne cabine téléphonique devant la mairie.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Grand rue, 63630 Saint bonnet le chastel, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -916,7 +916,7 @@
     <time>2021-01-06 10:52:48</time>
     <name>b7069 Boite à lire située dans l abris bus de frontenex</name>
     <desc>Par Thierry d Route de tamié, frontenex FAVERGES SE 74210 Boite à lire située dans l abris bus de frontenex</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route de tamié, frontenex, FAVERGES SE 74210, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -928,7 +928,7 @@
     <time>2020-12-14 09:40:56</time>
     <name>b7037 À la mairie il y a une boîte près des escaliers de l ancienne entrée et une armoire à livres un peu plus loin entre l'ancienne et la nouvelle entrée.</name>
     <desc>Par Gwen ma Le bourg 14380 Landelles et coupigny À la mairie il y a une boîte près des escaliers de l ancienne entrée et une armoire à livres un peu plus loin entre l'ancienne et la nouvelle entrée.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Le bourg, 14380 Landelles et coupigny, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -940,7 +940,7 @@
     <time>2020-12-11 16:49:42</time>
     <name>b7028 Boite à lire dans l ancienne cabine téléphonique</name>
     <desc>Par Rousse Rue de l eglise 81580 Cambounet sur sor Boite à lire dans l ancienne cabine téléphonique</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de l eglise, 81580 Cambounet sur sor, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -952,7 +952,7 @@
     <time>2020-11-12 16:00:39</time>
     <name>b6916 La cabane à livres est proche de l arrêt de bus.</name>
     <desc>Par Fabinette 13 grand place 55600 Marville La cabane à livres est proche de l arrêt de bus.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>13 grand place, 55600 Marville, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -964,7 +964,7 @@
     <time>2020-11-12 15:58:28</time>
     <name>b6910 Ancienne boîte aux lettres reconvertie en boîte à livres....</name>
     <desc>Par Thierry truchi Quai de sauzens 11170 Caux et sauzens Ancienne boîte aux lettres reconvertie en boîte à livres....</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Quai de sauzens, 11170 Caux et sauzens, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -976,7 +976,7 @@
     <time>2020-10-27 08:17:49</time>
     <name>b6855 La boite à lire se trouve auprès de la halte-garderie en face de la mairie.</name>
     <desc>Par Boite à lire 49 17 rue de la mairie 49740 La romagne La boite à lire se trouve auprès de la halte-garderie en face de la mairie.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>17 rue de la mairie, 49740 La romagne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -988,7 +988,7 @@
     <time>2020-10-27 08:17:43</time>
     <name>b6854 La boite à lire se trouve auprès de la halte-garderie en face de la mairie.</name>
     <desc>Par Boite à lire 49 17 rue de la mairie 49740 La romagne La boite à lire se trouve auprès de la halte-garderie en face de la mairie.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>17 rue de la mairie, 49740 La romagne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1000,7 +1000,7 @@
     <time>2020-10-26 08:43:22</time>
     <name>b6814 Cabine téléphonique transformée en boîte à livres, face au parc paul-thiery</name>
     <desc>Par Fabinette 6 rue justin paul 55400 Etain Cabine téléphonique transformée en boîte à livres, face au parc paul-thiery</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>6 rue justin paul, 55400 Etain, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1012,7 +1012,7 @@
     <time>2020-09-14 10:36:10</time>
     <name>b6733</name>
     <desc>Par Le lan Place de l église 22470 Plouezec</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de l église, 22470 Plouezec, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1024,7 +1024,7 @@
     <time>2020-09-14 10:33:49</time>
     <name>b6721 Boite à lire originale dans une ancienne bascule de pesée !</name>
     <desc>Par Audrey Place principale 71300 Mont-saint-vincent Boite à lire originale dans une ancienne bascule de pesée !</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place principale, 71300 Mont-saint-vincent, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1036,7 +1036,7 @@
     <time>2020-09-07 15:35:59</time>
     <name>b6676 Elle est placé a l entrée du lac à droite en face de la station sport nautique</name>
     <desc>Par Pwin Station sport nautique de jugon les lacs 22270 Jugon les lacs Elle est placé a l entrée du lac à droite en face de la station sport nautique</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Station sport nautique de jugon les lacs, 22270 Jugon les lacs, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1048,7 +1048,7 @@
     <time>2020-08-28 10:13:12</time>
     <name>b6637 Une grande pièce à livres thématique en plein village !</name>
     <desc>Par Gros museau fouisseur Le bourg 21430 Ménessaire Une grande pièce à livres thématique en plein village !</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Le bourg, 21430 Ménessaire, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1060,7 +1060,7 @@
     <time>2020-08-27 17:21:05</time>
     <name>b6566 Cette belle boîte à lire nouvellement rénovée se situe sur la place de l école du village de matouta.</name>
     <desc>Par Médiathèque du sud sauvage 8, chemin cascavelles 97480 Saint-joseph Cette belle boîte à lire nouvellement rénovée se situe sur la place de l école du village de matouta.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>8, chemin cascavelles, 97480 Saint-joseph, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1072,7 +1072,7 @@
     <time>2020-08-27 17:18:28</time>
     <name>b6561 Dans l abri bus avec vue sur la mer.</name>
     <desc>Par Rose Rue du port 29600 Carantec Dans l abri bus avec vue sur la mer.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du port, 29600 Carantec, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1084,7 +1084,7 @@
     <time>2020-08-19 16:58:47</time>
     <name>b6527</name>
     <desc>Par Anne 15 rue du dr calmette 22400 Lamballe</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>15 rue du dr calmette, 22400 Lamballe, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1096,7 +1096,7 @@
     <time>2020-08-06 14:34:34</time>
     <name>b6493 Boite aux livres , le long du mur du restaurant le balcon de théûs</name>
     <desc>Par V.r. 175 rte du mont cololombis 05190 Theus Boite aux livres , le long du mur du restaurant le balcon de théûs</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>175 rte du mont cololombis, 05190 Theus, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1108,7 +1108,7 @@
     <time>2020-06-12 17:03:05</time>
     <name>b6252 La bal renseignée par figuin se situe à la réunion et sur la carte de france, elle apparaît en isère. elle n est donc pas à la bonne place.</name>
     <desc>Par Valérie rey 17 chemin du rond 97480 Saint-joseph La bal renseignée par figuin se situe à la réunion et sur la carte de france, elle apparaît en isère. elle n est donc pas à la bonne place.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>17 chemin du rond, 97480 Saint-joseph, La réunion</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1120,7 +1120,7 @@
     <time>2020-06-12 16:54:50</time>
     <name>b6246 La boîte se trouve au croisement principal du village, sous l?ancien travail à b?uf et face au monument aux morts</name>
     <desc>Par Tristan Le bourg 46300 Prouilhac La boîte se trouve au croisement principal du village, sous l?ancien travail à b?uf et face au monument aux morts</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Le bourg, 46300 Prouilhac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1132,7 +1132,7 @@
     <time>2020-05-20 09:26:02</time>
     <name>b6084 Contre le mur, juste à gauche de la boulangerie</name>
     <desc>Par Laulau Place louis lafargue 64990 Lahonce Contre le mur, juste à gauche de la boulangerie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place louis lafargue, 64990 Lahonce, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1144,7 +1144,7 @@
     <time>2020-03-09 17:15:33</time>
     <name>b5973</name>
     <desc>Par Jpl84 Place de verdun à coté du manége 84200 Carpentras</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de verdun à coté du manége, 84200 Carpentras, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1156,7 +1156,7 @@
     <time>2020-02-26 16:54:16</time>
     <name>b5903 Située devant le terrain de pétanque</name>
     <desc>Par Domenech Salle du parc 17220 Salles sur mer Située devant le terrain de pétanque</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Salle du parc, 17220 Salles sur mer, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1168,7 +1168,7 @@
     <time>2020-02-14 17:10:58</time>
     <name>b5846 A coté de l église, sous le pigeonnier!</name>
     <desc>Par Association les amis du castet Au castet 32370 Ste christie d armagnac A coté de l église, sous le pigeonnier!</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Au castet, 32370 Ste christie d armagnac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1180,7 +1180,7 @@
     <time>2020-02-09 21:18:28</time>
     <name>b5821 La boite à lire se trouve à l est du donjon, à l'entrée du parc</name>
     <desc>Par Alain Place de la république 17800 Pons La boite à lire se trouve à l est du donjon, à l'entrée du parc</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la république, 17800 Pons, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1192,7 +1192,7 @@
     <time>2020-02-09 21:17:28</time>
     <name>b5817 Toute petite boîte à lire située sur le trottoir devant l'espace valentine</name>
     <desc>Par Hervé 25 rue de l'audience 13011 Marseille Toute petite boîte à lire située sur le trottoir devant l'espace valentine</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>25 rue de l'audience, 13011 Marseille, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1204,7 +1204,7 @@
     <time>2020-02-03 09:05:35</time>
     <name>b5780</name>
     <desc>Par Annouk Place du 19 mars 1962 92600 Asnières sur seine © Annouk</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place du 19 mars 1962, 92600 Asnières sur seine, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1216,7 +1216,7 @@
     <time>2019-12-12 15:03:47</time>
     <name>b5618</name>
     <desc>Par Mairie de neuilly sur seine Square jean mermoz 92200 Neuilly sur seine</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Square jean mermoz, 92200 Neuilly sur seine, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1228,7 +1228,7 @@
     <time>2019-12-02 09:21:25</time>
     <name>b5584 Trois jolies boites colorées et bien visibles, rose, bleue et verte, installées sur la placette devant la mairie</name>
     <desc>Par Cla Le bourg, charbonnières 71099 Charbonnières Trois jolies boites colorées et bien visibles, rose, bleue et verte, installées sur la placette devant la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Le bourg, charbonnières, 71099 Charbonnières, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1240,7 +1240,7 @@
     <time>2019-11-25 10:03:14</time>
     <name>b5551</name>
     <desc>Par Bibliothèque de chalmazel 4 au bourg 42920 Chalmazel jeansagnere © Bibliothèque de chalmazel</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>4 au bourg, 42920 Chalmazel jeansagnere, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1252,7 +1252,7 @@
     <time>2019-10-28 09:11:13</time>
     <name>b5451 Dans le hall de la gare, face aux guichet, à côté du distributeur.</name>
     <desc>Par Hugo Gare de monaco monte-carlo, pont sainte-devote 98000 Monaco Dans le hall de la gare, face aux guichet, à côté du distributeur.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Gare de monaco monte-carlo, pont sainte-devote, 98000 Monaco, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1264,7 +1264,7 @@
     <time>2019-09-10 10:45:25</time>
     <name>b5235</name>
     <desc>Par Cailliau Rue de spycker 59380 Spycker</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de spycker, 59380 Spycker, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1276,7 +1276,7 @@
     <time>2019-09-10 10:45:14</time>
     <name>b5234 Emplacement méridien de paris, borne de spycker.</name>
     <desc>Par Cailliau Rue de spycker 59380 Spycker Emplacement méridien de paris, borne de spycker.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de spycker, 59380 Spycker, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1288,7 +1288,7 @@
     <time>2019-09-06 09:45:36</time>
     <name>b5214 Grande boîte au niveau 1 en face du nouveau manège pour enfants et en face d une partie d'auchan</name>
     <desc>Par Anju Avenue des 3 fontaines, 95000 cergy 95300 Cergy prefecture Grande boîte au niveau 1 en face du nouveau manège pour enfants et en face d une partie d'auchan</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue des 3 fontaines, 95000 cergy, 95300 Cergy prefecture, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1300,7 +1300,7 @@
     <time>2019-08-07 09:55:49</time>
     <name>b5163 Près d un parking et d'une petite place de pétanque</name>
     <desc>Par Élodiez Avenue de la république 54580 Moineville Près d un parking et d'une petite place de pétanque</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue de la république, 54580 Moineville, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1312,7 +1312,7 @@
     <time>2019-08-07 09:55:31</time>
     <name>b5162 Boîte lions club située au square balagué, à proximité de la caisse d'Épargne, à côté des bancs derrière les cabinets.</name>
     <desc>Par Loïc Square balagué 09200 Saint-girons Boîte lions club située au square balagué, à proximité de la caisse d'Épargne, à côté des bancs derrière les cabinets. © Loïc</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Square balagué, 09200 Saint-girons, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1324,7 +1324,7 @@
     <time>2019-08-05 11:34:37</time>
     <name>b5151 Devant la mairie de sougy</name>
     <desc>Par Titoune Grande rue 45410 Sougy Devant la mairie de sougy</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Grande rue, 45410 Sougy, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1336,7 +1336,7 @@
     <time>2020-05-20 09:00:10</time>
     <name>b4997</name>
     <desc>Par Ecoquartier lacapelle cabanac Le bourg 46700 Lacapelle cabanac</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Le bourg, 46700 Lacapelle cabanac, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1348,7 +1348,7 @@
     <time>2019-05-20 09:55:58</time>
     <name>b4773 Boîte située sur l avenue kennedy, en face de la pharmacie kennedy, juste à côté de l'arrêt de bus alsace-bretagne [image google maps]</name>
     <desc>Par A p Avenue kennedy 95300 Pontoise Boîte située sur l avenue kennedy, en face de la pharmacie kennedy, juste à côté de l'arrêt de bus alsace-bretagne [image google maps] © A p</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue kennedy, 95300 Pontoise, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1360,7 +1360,7 @@
     <time>2019-04-23 09:55:07</time>
     <name>b4643</name>
     <desc>Par Aurélie Place mauget 49630 Corné</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place mauget, 49630 Corné, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1372,7 +1372,7 @@
     <time>2019-04-02 09:27:47</time>
     <name>b4575 Ancienne cabine téléphonique sur la place en face du magasin tegut</name>
     <desc>Par Céline Feldbergstraße 1, 65527 Niedernhausen Ancienne cabine téléphonique sur la place en face du magasin tegut</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Feldbergstraße 1,, 65527 Niedernhausen, Allemagne</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1384,7 +1384,7 @@
     <time>2019-03-22 14:37:05</time>
     <name>b4527 La boite se trouve dans le hall d accueil de la ferme du vinatier, la structure culturelle de l'hôpital du vinatier</name>
     <desc>Par Chareire pauline La ferme du vinatier 95 boulevard pinel 69678 Bron La boite se trouve dans le hall d accueil de la ferme du vinatier, la structure culturelle de l'hôpital du vinatier</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>La ferme du vinatier 95 boulevard pinel, 69678 Bron, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1396,7 +1396,7 @@
     <time>2019-03-22 14:36:32</time>
     <name>b4526 La boite se trouve dans le hall d accueil de la ferme du vinatier, la structure culturelle de l'hôpital du vinatier</name>
     <desc>Par Chareire pauline La ferme du vinatier 95 boulevard pinel 69678 Bron La boite se trouve dans le hall d accueil de la ferme du vinatier, la structure culturelle de l'hôpital du vinatier</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>La ferme du vinatier 95 boulevard pinel, 69678 Bron, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1408,7 +1408,7 @@
     <time>2019-03-19 17:01:24</time>
     <name>b4500</name>
     <desc>Par Thomas Rue basse 84660 Maubec</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue basse, 84660 Maubec, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1420,7 +1420,7 @@
     <time>2019-03-04 09:48:03</time>
     <name>b4418 Elle est située sur une route de campagne dans un hameau</name>
     <desc>Par Altomist 32 hameau du hil 35135 Chantepie Elle est située sur une route de campagne dans un hameau</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>32 hameau du hil, 35135 Chantepie, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1432,7 +1432,7 @@
     <time>2019-03-01 10:43:58</time>
     <name>b4406 Cette boîte à lire/livres est installée depuis février 2019, inaugurée le jeudi 28 février 2019. elle a été réalisée par m.girault, agent du collège. le projet est conçu en partenariat avec mme raimbeault, maire d e saint clair sur l elle, pour que d autres boîtes à lire voient le jour au fil du temps sur le territoire...</name>
     <desc>Par College jean grémillon 17 rue maurice genevoix 50680 Saint clair sur l elle Cette boîte à lire/livres est installée depuis février 2019, inaugurée le jeudi 28 février 2019. elle a été réalisée par m.girault, agent du collège. le projet est conçu en partenariat avec mme raimbeault, maire d e saint clair sur l elle, pour que d autres boîtes à lire voient le jour au fil du temps sur le territoire...</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>17 rue maurice genevoix, 50680 Saint clair sur l elle, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1444,7 +1444,7 @@
     <time>2019-02-22 09:28:51</time>
     <name>b4381</name>
     <desc>Par Lemonnier Rue pierre et marie curie 76220 Gournay-en-bray</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue pierre et marie curie, 76220 Gournay-en-bray, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1456,7 +1456,7 @@
     <time>2019-02-21 13:58:55</time>
     <name>b4342 Sur le parking du scarabée biocoop</name>
     <desc>Par Altomist Saint gregoire 35000 Saint gregoire Sur le parking du scarabée biocoop</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Saint gregoire, 35000 Saint gregoire, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1468,7 +1468,7 @@
     <time>2019-02-08 16:02:39</time>
     <name>b4306 Très belle boite à livres à ushuaia en argentine</name>
     <desc>Par Bibounine MaipÙ 1401 09410 Terre de feu Très belle boite à livres à ushuaia en argentine</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>MaipÙ 1401, 09410 Terre de feu, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1480,7 +1480,7 @@
     <time>2019-02-05 15:58:54</time>
     <name>b4286</name>
     <desc>Par Arwen Rue de franche comté 01250 Nivigne et suran</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de franche comté, 01250 Nivigne et suran, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1492,7 +1492,7 @@
     <time>2019-01-21 09:38:28</time>
     <name>b4210 Boîte à lire à l?entrée de la piscine</name>
     <desc>Par Vincent castagnet Piscine brossolette 94100 Saint maur des fossés Boîte à lire à l?entrée de la piscine</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Piscine brossolette, 94100 Saint maur des fossés, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1504,7 +1504,7 @@
     <time>2018-12-04 10:24:33</time>
     <name>b4074 Ancienne cabine téléphonique sur la place peinte en rouge.</name>
     <desc>Par Leti Parking mairie 08200 Saint menges Ancienne cabine téléphonique sur la place peinte en rouge.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Parking mairie, 08200 Saint menges, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1516,7 +1516,7 @@
     <time>2018-11-21 14:57:14</time>
     <name>b4043 Grande boîte à lire noire. a droite de la supérette vival</name>
     <desc>Par Stephanie c Rue du chemin neuf 56360 Sauzon Grande boîte à lire noire. a droite de la supérette vival</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du chemin neuf, 56360 Sauzon, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1528,7 +1528,7 @@
     <time>2018-11-14 12:19:26</time>
     <name>b4007 Près de l aire des camping-cars</name>
     <desc>Par Kmad Rue du général leclerc 50220 Ducey Près de l aire des camping-cars</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du général leclerc, 50220 Ducey, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1540,7 +1540,7 @@
     <time>2018-11-12 10:09:01</time>
     <name>b3969 Dans le hall à côté de l entrée de la mairie/poste.</name>
     <desc>Par Alizé david Place claude guichard - le bourg 71260 Azé Dans le hall à côté de l entrée de la mairie/poste.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place claude guichard - le bourg, 71260 Azé, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1552,7 +1552,7 @@
     <time>2018-11-12 10:08:14</time>
     <name>b3966</name>
     <desc>Par Lions béziers doyen Jardin de la plantade 34500 Beziers</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Jardin de la plantade, 34500 Beziers, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1564,7 +1564,7 @@
     <time>2018-11-12 10:07:58</time>
     <name>b3965</name>
     <desc>Par Lions béziers doyen Jardin de st-jean d aureilhan 34500 Beziers</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Jardin de st-jean d aureilhan, 34500 Beziers, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1576,7 +1576,7 @@
     <time>2018-10-10 19:23:26</time>
     <name>b3848 Boîte située à côté des jeux pour enfants.</name>
     <desc>Par Aurélien Place du mail 49250 Beaufort en vallée Boîte située à côté des jeux pour enfants.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place du mail, 49250 Beaufort en vallée, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1588,7 +1588,7 @@
     <time>2018-10-10 19:23:12</time>
     <name>b3847</name>
     <desc>Par Aurélien Promenade des rimiaux 49250 Beaufort en vallée</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Promenade des rimiaux, 49250 Beaufort en vallée, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1600,7 +1600,7 @@
     <time>2018-10-08 09:30:38</time>
     <name>b3833 Elle se trouve à côté de la poste</name>
     <desc>Par Annick Place mauget 49630 Corné Elle se trouve à côté de la poste</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place mauget, 49630 Corné, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1612,7 +1612,7 @@
     <time>2018-10-01 11:57:47</time>
     <name>b3782</name>
     <desc>Par Magno Étang de saint ouen 41100 Saint ouen</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Étang de saint ouen, 41100 Saint ouen, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1624,7 +1624,7 @@
     <time>2020-03-02 08:21:30</time>
     <name>b3712 Croisement rue jean monnet a l arret de bus</name>
     <desc>Par Fonteyne Rue romanette 02000 Laon Croisement rue jean monnet a l arret de bus</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue romanette, 02000 Laon, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1636,7 +1636,7 @@
     <time>2018-09-21 10:14:05</time>
     <name>b3705</name>
     <desc>Par Mairie langeron Mairie 58240 Langeron © Mairie langeron</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Mairie, 58240 Langeron, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1648,7 +1648,7 @@
     <time>2018-09-17 09:23:45</time>
     <name>b3677 Jolie boîte en forme de pêcherie pour rappeler toutes celles qui sont situées à proximité, le long de la loire</name>
     <desc>Par Sophie Port de la maison verte 44560 Corsept Jolie boîte en forme de pêcherie pour rappeler toutes celles qui sont situées à proximité, le long de la loire</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Port de la maison verte, 44560 Corsept, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1660,7 +1660,7 @@
     <time>2018-09-03 10:19:11</time>
     <name>b3591 Dans la cabine téléphonique devant l église</name>
     <desc>Par Kmad Place de l eglise 35250 Saint medard sur ille Dans la cabine téléphonique devant l église</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de l eglise, 35250 Saint medard sur ille, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1672,7 +1672,7 @@
     <time>2018-08-31 17:35:05</time>
     <name>b3582 Au bord de la route</name>
     <desc>Par Jacqueline Chemin de la pyramide 06941 Verlaine Au bord de la route</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Chemin de la pyramide, 06941 Verlaine, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1684,7 +1684,7 @@
     <time>2018-08-22 13:43:35</time>
     <name>b3495 Une vraie petite bibliothèque en accès libre 24h/24</name>
     <desc>Par Aurélien Rue du camp de l'arbonne 84410 Crillon le brave Une vraie petite bibliothèque en accès libre 24h/24</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue du camp de l'arbonne, 84410 Crillon le brave, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1696,7 +1696,7 @@
     <time>2018-08-13 09:48:50</time>
     <name>b3381 à l'intérieur de la cafétariat de la galerie marchande</name>
     <desc>Par Daniel vignot Centre commercial les portes de taverny 95150 Taverny à l'intérieur de la cafétariat de la galerie marchande</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Centre commercial les portes de taverny, 95150 Taverny, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1708,7 +1708,7 @@
     <time>2018-08-13 09:48:28</time>
     <name>b3380 Près de l abri bus</name>
     <desc>Par Daniel vignot Place verdun 95150 Taverny Près de l abri bus</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place verdun, 95150 Taverny, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1720,7 +1720,7 @@
     <time>2018-08-06 11:44:12</time>
     <name>b3319 Ancienne cabine téléphonique transformée en boîte à livres située devant la mairie.</name>
     <desc>Par Aurélien Mairie de sambin 41120 Sambin Ancienne cabine téléphonique transformée en boîte à livres située devant la mairie.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Mairie de sambin, 41120 Sambin, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1732,7 +1732,7 @@
     <time>2018-07-30 09:23:35</time>
     <name>b3251 Située devant le local la ressourcerie du val d arly qui est une association qui donne une 2ème vie aux objets. https://laressourcerieduvaldarly.com/</name>
     <desc>Par Thierry d. 179 avenue de savoie 73590 Flumet Située devant le local la ressourcerie du val d arly qui est une association qui donne une 2ème vie aux objets. https://laressourcerieduvaldarly.com/</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>179 avenue de savoie, 73590 Flumet, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1744,7 +1744,7 @@
     <time>2018-07-30 09:20:25</time>
     <name>b3230 À côté de la mairie. il y a aussi un distributeur de pain.</name>
     <desc>Par Pascale973 10 rue aristide briand 27180 Asnières-sur-iton À côté de la mairie. il y a aussi un distributeur de pain.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>10 rue aristide briand, 27180 Asnières-sur-iton, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1756,7 +1756,7 @@
     <time>2018-07-30 09:18:26</time>
     <name>b3220</name>
     <desc>Par Passeur-x Place jeanne helbling 67000 Strasbourg</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place jeanne helbling, 67000 Strasbourg, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1768,7 +1768,7 @@
     <time>2018-07-20 12:51:28</time>
     <name>b3142 La mairie a mis en place six boîtes à lire réparties dans la ville</name>
     <desc>Par Annelise meyer Parc du saut du loup 94170 Le perreux sur marne La mairie a mis en place six boîtes à lire réparties dans la ville</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Parc du saut du loup, 94170 Le perreux sur marne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1780,7 +1780,7 @@
     <time>2018-06-27 09:12:37</time>
     <name>b3012 Boîte située dans le jardin de la sla.</name>
     <desc>Par Aurélien 12 rue du maréchal foch 49300 Cholet Boîte située dans le jardin de la sla.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>12 rue du maréchal foch, 49300 Cholet, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1792,7 +1792,7 @@
     <time>2018-09-18 16:34:12</time>
     <name>b2977 Entre le centre commercial rivétoile et le cinéma ugc cité cité, tout près de la médiathèque malraux, depuis juin 2018 gérée par l association des résidents etoile malraux</name>
     <desc>Par Geneviève Place jeanne helbling 67100 Strasbourg Entre le centre commercial rivétoile et le cinéma ugc cité cité, tout près de la médiathèque malraux, depuis juin 2018 gérée par l association des résidents etoile malraux © Geneviève</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place jeanne helbling, 67100 Strasbourg, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1804,7 +1804,7 @@
     <time>2018-06-14 16:38:58</time>
     <name>b2954 Elle est située entre l arcature et le restaurant scolaire françois mitterrand.</name>
     <desc>Par Vaux-le-pénil Place navalcarnero 77000 Vaux-le-pénil Elle est située entre l arcature et le restaurant scolaire françois mitterrand. © Vaux-le-pénil</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place navalcarnero, 77000 Vaux-le-pénil, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1816,7 +1816,7 @@
     <time>2019-06-25 15:12:08</time>
     <name>b2929 Devant le restaurant chefsanstoque</name>
     <desc>Par Cuypers 6 rue du faustay 04160 Anthisnes Devant le restaurant chefsanstoque © Cuypers</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>6 rue du faustay, 04160 Anthisnes, Belgique</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1828,7 +1828,7 @@
     <time>2018-05-01 16:01:25</time>
     <name>b2637 Route de l ecole</name>
     <desc>Par Callonne Route de l ecole 33920 Saugon Route de l ecole</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route de l ecole, 33920 Saugon, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1840,7 +1840,7 @@
     <time>2018-04-16 09:29:59</time>
     <name>b2553 Boite en cours de réalisation. projet de quartier personnel et privé des riverains de la rue de melun en accord avec l'agenda 21 de la ville.</name>
     <desc>Par Dominique machure 54 rue de melun 77176 Savigny-le-temple Boite en cours de réalisation. projet de quartier personnel et privé des riverains de la rue de melun en accord avec l'agenda 21 de la ville. © Dominique machure</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>54 rue de melun, 77176 Savigny-le-temple, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1852,7 +1852,7 @@
     <time>2018-03-26 17:29:29</time>
     <name>b2467 La cabine aux livres du bizet, centre social des 4 saisons</name>
     <desc>Par Maxicat 1 rue du maréchal joffre 59280 Armentières La cabine aux livres du bizet, centre social des 4 saisons © Maxicat</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>1 rue du maréchal joffre, 59280 Armentières, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1864,7 +1864,7 @@
     <time>2018-03-12 09:48:38</time>
     <name>b2405 ...</name>
     <desc>Par Baillargeaux Rue de la grange saint pierre 86000 Poitiers ... © Baillargeaux</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de la grange saint pierre, 86000 Poitiers, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1876,7 +1876,7 @@
     <time>2018-02-15 09:53:30</time>
     <name>b2271 Une grande idée</name>
     <desc>Par Elisa jane Place andrée marie perrin 69290 Craponne Une grande idée © Elisa jane</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place andrée marie perrin, 69290 Craponne, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1888,7 +1888,7 @@
     <time>2018-02-05 14:01:08</time>
     <name>b2245 La boîte à lire est située dans le hall d accueil du bâtiment b</name>
     <desc>Par Campus mazier 2 avenue antoine mazier 22000 Saint-brieuc La boîte à lire est située dans le hall d accueil du bâtiment b © Campus mazier</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>2 avenue antoine mazier, 22000 Saint-brieuc, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1900,7 +1900,7 @@
     <time>2018-01-29 10:50:14</time>
     <name>b2186 Sur la place du collège, à proximité d'un des bancs, devant le magasin larralde, une des boîtes à lire municipales vous attend - et elle est souvent remplie !</name>
     <desc>Par Sia Place du collège 64500 Saint-jean de luz Sur la place du collège, à proximité d'un des bancs, devant le magasin larralde, une des boîtes à lire municipales vous attend - et elle est souvent remplie !</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place du collège, 64500 Saint-jean de luz, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1912,7 +1912,7 @@
     <time>2017-08-21 09:30:01</time>
     <name>b1503 La boite se trouve sur le mur côté route de la mairie.</name>
     <desc>Par Cindy Route du chef-lieu 74250 Fillinges La boite se trouve sur le mur côté route de la mairie. © Cindy</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Route du chef-lieu, 74250 Fillinges, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1924,7 +1924,7 @@
     <time>2017-08-17 15:57:22</time>
     <name>b1486 La boite à lire se trouve dans le restaurant pomme de pain provence.</name>
     <desc>Par Pomme de pain provence 70 rue de provence 75009 Paris La boite à lire se trouve dans le restaurant pomme de pain provence.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>70 rue de provence, 75009 Paris, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1936,7 +1936,7 @@
     <time>2017-08-17 15:54:18</time>
     <name>b1483 La boite à lire se trouve dans le restaurant pomme de pain.</name>
     <desc>Par Pomme de pain 87 rue de la république 69002 Lyon La boite à lire se trouve dans le restaurant pomme de pain.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>87 rue de la république, 69002 Lyon, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1948,7 +1948,7 @@
     <time>2017-08-17 15:52:43</time>
     <name>b1481 La boite à lire se trouve dans le pomme de pain.</name>
     <desc>Par Pomme de pain 86 avenue de kleber 75016 Paris La boite à lire se trouve dans le pomme de pain.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>86 avenue de kleber, 75016 Paris, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1960,7 +1960,7 @@
     <time>2017-07-12 17:17:58</time>
     <name>b1249 A l'entrée de la cafétéria en face du stand à crêpes.</name>
     <desc>Par Ébène Cd 31 54300 Moncel-lès-lunéville A l'entrée de la cafétéria en face du stand à crêpes.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Cd 31, 54300 Moncel-lès-lunéville, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1972,7 +1972,7 @@
     <time>2017-05-29 09:51:59</time>
     <name>b1128 Ancienne cabine téléphonique peinte en multicolore.</name>
     <desc>Par Ginger Place carnot 59500 Douai Ancienne cabine téléphonique peinte en multicolore.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place carnot, 59500 Douai, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1984,7 +1984,7 @@
     <time>2017-05-29 09:48:19</time>
     <name>b1125 Sur le parking de l'église.</name>
     <desc>Par Cécile bourlange 63113 Picherande Sur le parking de l'église. © Cécile bourlange</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>63113 Picherande, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -1996,7 +1996,7 @@
     <time>2017-04-27 17:32:27</time>
     <name>b1050 Près de la pharmacie, du terrain de pétanques et en face de la petite poste.</name>
     <desc>Par Moreau chantal Rue jean jaurès 78711 Mantes la ville Près de la pharmacie, du terrain de pétanques et en face de la petite poste.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue jean jaurès, 78711 Mantes la ville, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2008,7 +2008,7 @@
     <time>2017-04-06 15:58:21</time>
     <name>b967</name>
     <desc>Par Bibliothèque espace livre plaisir Rue de l'enseignement 166 04102 Ougree</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de l'enseignement 166, 04102 Ougree, Belgique</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2020,7 +2020,7 @@
     <time>2017-03-07 09:49:01</time>
     <name>b881 La boite à lire se situe à côté de la pharmacie.</name>
     <desc>Par Duchateau Place de la poste 86340 Roches prÉmarie andillÉ La boite à lire se situe à côté de la pharmacie.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place de la poste, 86340 Roches prÉmarie andillÉ, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2032,7 +2032,7 @@
     <time>2017-02-24 12:23:53</time>
     <name>b849 La boite est située du côté de l'avenue des meliettes !</name>
     <desc>Par Nicole p. 5 rue de la boucaudais 35135 Chantepie La boite est située du côté de l'avenue des meliettes ! © Nicole p.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>5 rue de la boucaudais, 35135 Chantepie, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2044,7 +2044,7 @@
     <time>2017-02-06 10:09:15</time>
     <name>b798 Inaugurée le jeudi 2 février 2017</name>
     <desc>Par Aluchon Jardin velpeau 37000 Tours Inaugurée le jeudi 2 février 2017 © Aluchon</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Jardin velpeau, 37000 Tours, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2056,7 +2056,7 @@
     <time></time>
     <name>b688 La boite se situe au niveau de l'abris-bus</name>
     <desc>Par Jackie 18 place gaston phoebus 64800 Bruges-capbis-mifaget La boite se situe au niveau de l'abris-bus</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>18 place gaston phoebus, 64800 Bruges-capbis-mifaget, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2068,7 +2068,7 @@
     <time></time>
     <name>b687 La boite se situe au niveau de l'abris-bus</name>
     <desc>Par Jackie 18 place gaston phoebus 64800 Bruges-capbis-mifaget La boite se situe au niveau de l'abris-bus</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>18 place gaston phoebus, 64800 Bruges-capbis-mifaget, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2080,7 +2080,7 @@
     <time></time>
     <name>b686</name>
     <desc>Par Jackie 1 place de l'eglise 64800 Capbis</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>1 place de l'eglise, 64800 Capbis, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2092,7 +2092,7 @@
     <time></time>
     <name>b627 Au milieu de la place</name>
     <desc>Par Agrion Place gérard philippe 03630 Désertines Au milieu de la place</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place gérard philippe, 03630 Désertines, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2104,7 +2104,7 @@
     <time></time>
     <name>b574</name>
     <desc>Par Mary Rue de l étang 35250 Saint-aubin-d'aubigné</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue de l étang, 35250 Saint-aubin-d'aubigné, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2116,7 +2116,7 @@
     <time></time>
     <name>b475 Ancienne cabine téléphonique du village reconvertie en bibliothèque de rue depuis le 1er juillet 2016</name>
     <desc>Par Hanemian Grande rue 58210 Menou Ancienne cabine téléphonique du village reconvertie en bibliothèque de rue depuis le 1er juillet 2016</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Grande rue, 58210 Menou, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2128,7 +2128,7 @@
     <time></time>
     <name>b425</name>
     <desc>Par Clemence Place centrale 64470 Tardets-sorholus</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Place centrale, 64470 Tardets-sorholus, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2140,7 +2140,7 @@
     <time></time>
     <name>b421 Réalisées par les services techniques municipaux et en partenariat avec le lions club de saint-flour</name>
     <desc>Par Chirand Square maurice montel 15100 Saint flour Réalisées par les services techniques municipaux et en partenariat avec le lions club de saint-flour</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Square maurice montel, 15100 Saint flour, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2152,7 +2152,7 @@
     <time></time>
     <name>b328 Boite à lire installée par la mairie</name>
     <desc>Par Isabelle Parc de la mairie 42290 Sorbiers Boite à lire installée par la mairie</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Parc de la mairie, 42290 Sorbiers, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2164,7 +2164,7 @@
     <time></time>
     <name>b219 Une nouvelle boîte à lire installée par amiens métropole devant le diapason école de musique d'etouvie.</name>
     <desc>Par Jules v. Avenue de bourgogne 80090 Amiens Une nouvelle boîte à lire installée par amiens métropole devant le diapason école de musique d'etouvie. © Jules v.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Avenue de bourgogne, 80090 Amiens, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2176,7 +2176,7 @@
     <time></time>
     <name>b218 La cabine anglaise de la chaussée jules ferry s'est refaite une beauté ! transformée en boîte à lire elle fait le bonheur de ses nouveaux usagers !</name>
     <desc>Par Jules v. 45 chaussée jules ferry 80090 Amiens La cabine anglaise de la chaussée jules ferry s'est refaite une beauté ! transformée en boîte à lire elle fait le bonheur de ses nouveaux usagers ! © Jules v.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>45 chaussée jules ferry, 80090 Amiens, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2188,7 +2188,7 @@
     <time></time>
     <name>b163 J'ai mis cette boite en fonction avec l'aide de ma mairie car je peux faire partager ma passion et mon métier je suis libraire.</name>
     <desc>Par Céline Rue des deportes 37130 Brehemont J'ai mis cette boite en fonction avec l'aide de ma mairie car je peux faire partager ma passion et mon métier je suis libraire. © Céline</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue des deportes, 37130 Brehemont, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2200,7 +2200,7 @@
     <time></time>
     <name>b157 Située dans une ancienne boîte à lettres dans le mur d une maison</name>
     <desc>Par Béatrice Rue clémenceau 44210 Pornic Située dans une ancienne boîte à lettres dans le mur d une maison</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>Rue clémenceau, 44210 Pornic, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2212,7 +2212,7 @@
     <time></time>
     <name>b86 Jolie boîte près du restaurant le petit st pierre.</name>
     <desc>Par Eléo 38 rue de l'église 56510 Saintt pierre quiberon Jolie boîte près du restaurant le petit st pierre.</desc>
-    <type>Livres hors de France métro</type>
+    <type>BoiteLire hors France métro</type>
     <extensions>
       <osmand:address>38 rue de l'église, 56510 Saintt pierre quiberon, France</osmand:address>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2222,7 +2222,7 @@
   </wpt>
   <extensions>
     <osmand:points_groups>
-      <group name="Livres hors de France métro" color="#ff5020" icon="public_bookcase" background="square" />
+      <group name="BoiteLire hors France métro" color="#ff5020" icon="public_bookcase" background="square" />
     </osmand:points_groups>
   </extensions>
 </gpx>

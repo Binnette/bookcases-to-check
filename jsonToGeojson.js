@@ -5,11 +5,14 @@
  * Grab those lines and put them behind in the "var data" by following the example
  * Then run this script in nodejs to create bookcase.geojson
  */
-const fs = require('fs');
-const { convert } = require('html-to-text');
 
 // Parameters
-const folder = "./2022-09-17/"
+const folder = './2022-09-17/';
+const file = 'data.json';
+
+// Libs
+const fs = require('fs');
+const { convert } = require('html-to-text');
 
 // This function get rid of " and html markup. So it keep only the text
 function getText(toConvert) {
@@ -23,16 +26,16 @@ function getText(toConvert) {
     return text.trim();
 }
 
-function saveFile(file, content, nb) {
+function saveFile(file, content) {
     try {
         fs.writeFileSync(file, content, { flag: 'w+' });
-        console.log('OK ' + file + ' ' + nb + ' features')
+        console.log('OK ' + file)
     } catch (err) {
         console.error('KO ' + file + ' ' + err);
     }
 }
 
-function convertAndSave(data, filename) {
+function convert(data) {
     var count = data.length;
     console.log('Converting...');
 
@@ -47,8 +50,8 @@ function convertAndSave(data, filename) {
         var b = data[i];
         var coord = b.coord_gps.split(",");
         var id = parseFloat(b.id);
-        var lon = parseFloat(coord[0]);
-        var lat = parseFloat(coord[1]);
+        var lat = parseFloat(coord[0]);
+        var lon = parseFloat(coord[1]);
         // Create the geojson feature
         var f = {
             "type": "Feature",
@@ -71,7 +74,7 @@ function convertAndSave(data, filename) {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    lat, lon
+                    lon, lat
                 ]
             }
         };
@@ -79,25 +82,26 @@ function convertAndSave(data, filename) {
         geo.features.push(f);
     }
 
-    // Convert the geojson object to string
-    var txt = JSON.stringify(geo, null, 4);
+    console.log("Converted " + geo.features.length);
 
-    saveFile(folder + filename + ".geojson", txt, count);
+    // Convert the geojson object to string
+    return JSON.stringify(geo, null, 4);
 }
 
-var data = require(folder + 'data.json');
+// Read data
+const data = require(folder + file);
 
 console.log("Sort data...");
-// sort by id desc
-data = data.sort(function (a, b) { return parseInt(b.id) - parseInt(a.id) });
+// sort books by id desc
+var books = data.sort(function (a, b) { return parseInt(b.id) - parseInt(a.id) });
 
 // remove duplicates
 var coords = [];
 var duplicates = [];
 var uniques = [];
 
-for (var i = 0; i < data.length; i++) {
-    var cur = data[i];
+for (var i = 0; i < books.length; i++) {
+    var cur = books[i];
     var curCoords = cur.coord_gps.replaceAll(' ', '');
     if (coords.includes(curCoords)) {
         // This is a duplicate!
@@ -109,11 +113,13 @@ for (var i = 0; i < data.length; i++) {
     }
 }
 
-console.log("# Total: " + data.length);
+console.log("# Total: " + books.length);
 console.log("# Uniques: " + uniques.length);
-convertAndSave(uniques, "bookcase");
-console.log("");
+uniques = convert(uniques);
+saveFile(folder + "bookcase.geojson", uniques);
 
 console.log("# Duplicates: " + duplicates.length);
-convertAndSave(duplicates, "duplicates");
+duplicates = convert(duplicates);
+saveFile(folder + "duplicates.geojson", duplicates);
+
 console.log("Done.");

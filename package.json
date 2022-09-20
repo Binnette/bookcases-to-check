@@ -1,10 +1,9 @@
 {
   "name": "bookcases-to-check",
   "version": "1.0.0",
-  "description": "Tools to manipulate bookcase dataset",
-  "main": "geojsonToGpx.js",
+  "description": "Bookcases from boite-a-lire",
+  "main": "jsonToGeojson.js",
   "scripts": {
-    "web": "webPageToGeojson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
