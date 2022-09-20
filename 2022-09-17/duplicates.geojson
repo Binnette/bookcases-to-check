@@ -4528,6 +4528,84 @@
         {
             "type": "Feature",
             "properties": {
+                "id": "627",
+                "name": "Agrion",
+                "html": "Par Agrion Place gérard philippe 03630 Désertines Au milieu de la place",
+                "img": "BL061120167926412.jpg",
+                "imgAdmin": "",
+                "email": "",
+                "addr:street": "Place gérard philippe",
+                "addr:zipcode": "03630",
+                "addr:city": "Désertines",
+                "addr:country": "France",
+                "note": "Au milieu de la place",
+                "created": "",
+                "updated": "",
+                "credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6218397,
+                    46.3647584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "574",
+                "name": "Mary",
+                "html": "Par Mary Rue de l étang 35250 Saint-aubin-d'aubigné",
+                "img": "BL211020163047152.jpg",
+                "imgAdmin": "",
+                "email": "",
+                "addr:street": "Rue de l étang",
+                "addr:zipcode": "35250",
+                "addr:city": "Saint-aubin-d'aubigné",
+                "addr:country": "France",
+                "note": "",
+                "created": "",
+                "updated": "",
+                "credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.602737,
+                    48.262153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "475",
+                "name": "Hanemian",
+                "html": "Par Hanemian Grande rue 58210 Menou Ancienne cabine téléphonique du village reconvertie en bibliothèque de rue depuis le 1er juillet 2016",
+                "img": "BL220920165141199.jpg",
+                "imgAdmin": "",
+                "email": "",
+                "addr:street": "Grande rue",
+                "addr:zipcode": "58210",
+                "addr:city": "Menou",
+                "addr:country": "France",
+                "note": "Ancienne cabine téléphonique du village reconvertie en bibliothèque de rue depuis le 1er juillet 2016",
+                "created": "",
+                "updated": "",
+                "credit": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2796785,
+                    47.3686788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "425",
                 "name": "Clemence",
                 "html": "Par Clemence Place centrale 64470 Tardets-sorholus",
@@ -4600,6 +4678,58 @@
                 "coordinates": [
                     4.449389,
                     45.490467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "219",
+                "name": "Jules v.",
+                "html": "Par Jules v. Avenue de bourgogne 80090 Amiens Une nouvelle boîte à lire installée par amiens métropole devant le diapason école de musique d'etouvie. © Jules v.",
+                "img": "BL010720166586635.jpg",
+                "imgAdmin": "",
+                "email": "",
+                "addr:street": "Avenue de bourgogne",
+                "addr:zipcode": "80090",
+                "addr:city": "Amiens",
+                "addr:country": "France",
+                "note": "Une nouvelle boîte à lire installée par amiens métropole devant le diapason école de musique d'etouvie.",
+                "created": "",
+                "updated": "",
+                "credit": "Jules v."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2521289,
+                    49.9150685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "218",
+                "name": "Jules v.",
+                "html": "Par Jules v. 45 chaussée jules ferry 80090 Amiens La cabine anglaise de la chaussée jules ferry s'est refaite une beauté ! transformée en boîte à lire elle fait le bonheur de ses nouveaux usagers ! © Jules v.",
+                "img": "BL010720162514470.jpg",
+                "imgAdmin": "",
+                "email": "",
+                "addr:street": "45 chaussée jules ferry",
+                "addr:zipcode": "80090",
+                "addr:city": "Amiens",
+                "addr:country": "France",
+                "note": "La cabine anglaise de la chaussée jules ferry s'est refaite une beauté ! transformée en boîte à lire elle fait le bonheur de ses nouveaux usagers !",
+                "created": "",
+                "updated": "",
+                "credit": "Jules v."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3237698,
+                    49.8842368
                 ]
             }
         },

@@ -98,13 +98,14 @@ var uniques = [];
 
 for (var i = 0; i < data.length; i++) {
     var cur = data[i];
-    if (coords.includes(cur.coord_gps)) {
+    var curCoords = cur.coord_gps.replaceAll(' ', '');
+    if (coords.includes(curCoords)) {
         // This is a duplicate!
         duplicates.push(cur);
     } else {
         // Not a duplicate
         uniques.push(cur);
-        coords.push(cur.coord_gps);
+        coords.push(curCoords);
     }
 }
 

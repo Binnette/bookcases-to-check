@@ -19,7 +19,7 @@ You can view all bookcases from those data here:
 
 |Date      |Bookcases|Map                                       |
 |----------|---------|------------------------------------------|
-|2022-09-17|8756     |[Map with 2022-09-17 data](http://u.osmfr.org/m/808996)|
+|2022-09-17|8571     |[Map with 2022-09-17 data](http://u.osmfr.org/m/808996)|
 |2020-09-28|6740     |[Map with 2020-09-28 data](http://u.osmfr.org/m/504237)|
 |2019-12-01|5551     |[Map with 2019-12-01 data](http://u.osmfr.org/m/394535)|
 |2019-09-07|5206     |[Map with 2019-09-07 data](http://u.osmfr.org/m/362282)|
@@ -97,7 +97,7 @@ Prerequisites
 
 |Date      |Bookcases|Bookcase without description|
 |----------|---------|----------------------------|
-|2022-09-17|     8756|                        1356|
+|2022-09-17|     8571|                        1356|
 |2020-09-28|     6740|                        1093|    
 |2019-12-01|     5551|                         919|
 |2019-09-07|     5206|                         842|
@@ -108,7 +108,10 @@ Prerequisites
 |Region                 |2019-12-01|2022-09-17|
 |-----------------------|----------|----------|
 |Total                  |      5551|      8756|
-|France métro           |      5291|      8413|
+|Duplicates             |          |       185|
+|Uniques                |          |      8571|
+|Out France Metro       |          |       343|
+|France métro           |      5291|      8228|
 |Nouvelle Aquitaine     |       871|      1307|
 |Ile de France          |       671|      1050|
 |Auvergne Rhone-Alpes   |       646|      1174|
