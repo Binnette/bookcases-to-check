@@ -1,7 +1,7 @@
 {
   "name": "bookcases-to-check",
   "version": "1.0.0",
-  "description": "Bookcases from boite-a-lire",
+  "description": "Bookcases from https://www.boite-a-lire.com/",
   "main": "jsonToGeojson.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

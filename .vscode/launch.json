@@ -7,16 +7,16 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Web to Geojson",
+            "name": "JSON to GeoJSON",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\webPageToGeojson.js"
+            "program": "${workspaceFolder}\\jsonToGeojson.js"
         },
         {
             "type": "node",
             "request": "launch",
-            "name": "Geojson to GPX",
+            "name": "GeoJSON to GPX",
             "skipFiles": [
                 "<node_internals>/**"
             ],
