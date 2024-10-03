@@ -1,39 +1,28 @@
-## Summary
-In this repository, you will find "public bookcases" exported from website: https://www.boite-a-lire.com/
+# bookcases-boite-a-lire
 
-Note: boite-a-lire.com publish those data under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/) license.
+This repository host public bookcases exported from: https://www.boite-a-lire.com/
+
+Note: boite-a-lire.com publishes those data under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/) license.
 
 Those bookcases are mainly located in France and french speaking countries. You can display them in OsmAnd, JOSM, uMap etc.
 
-### View all bookcases (OSM + boite-a-lire.com)
+## View bookcases on a map
 
-[Map of OSM bookcases and 2022-09-17 dataset](http://u.osmfr.org/m/394538)
+- [Bookcases from OSM and boite-a-lire.com (2024-10-03)](http://u.osmfr.org/m/394538)
 
 In this map:
 - OSM bookcases are displayed in **green** ![](https://placehold.it/12/32CD32/000000?text=+) on zoom 14+ with 1 hour cache
 - boite-a-lire.com bookcases are displayed in **red** ![](https://placehold.it/12/DC143C/000000?text=+)
 
-### View only boite-a-lire.com
-
-You can view all bookcases from those data here: 
-
-|Date      |Bookcases|Map                                       |
-|----------|---------|------------------------------------------|
-|2022-09-17|8571     |[Map with 2022-09-17 data](http://u.osmfr.org/m/808996)|
-|2020-09-28|6740     |[Map with 2020-09-28 data](http://u.osmfr.org/m/504237)|
-|2019-12-01|5551     |[Map with 2019-12-01 data](http://u.osmfr.org/m/394535)|
-|2019-09-07|5206     |[Map with 2019-09-07 data](http://u.osmfr.org/m/362282)|
-|2019-05-27|4795     |[Map with 2019-05-27 data](http://u.osmfr.org/m/362245)|
-
-### Repo hierarchy
+## Repo hierarchy
 
 - **YYYY-MM-DD**: date I export data from the website.
-  - **bookcase.gpx**: favourite file to use in OsmAnd.
-  - **bookcase.geojson**: file to use in JOSM.
+  - **bookcases.gpx**: favourite file to use in OsmAnd.
+  - **bookcases.geojson**: file to use in JOSM.
 
-## WARNING !!! DO NOT IMPORT IN OPENSTREETMAP !!!
+## WARNING! DO NOT IMPORT IN OPENSTREETMAP!
 
-:warning: **DO NOT IMPORT THOSE DATA IN OPENSTREETMAP !!!** :warning:
+:warning: **DO NOT IMPORT THOSE DATA IN OPENSTREETMAP!** :warning:
 
 Those "*supposed bookcases*" needs to be checked by a survey **in real life**, on the field.
 
@@ -48,80 +37,118 @@ But you need to check if those bookcases exists in real life before adding it in
 
 ### With OsmAnd ?
 
-NB: i do not recommand to import the whole file "bookcase.gpx" because OsmAnd will become lagguy. Instead use the gpx in "Régions Françaises" folder.
+NB: do not import "bookcases.gpx" because OsmAnd can be lagguy. Instead use one of the gpx in "Régions Françaises" folder.
 
-1. Download bookcase.gpx from the latest export
-1. Copy bookcase.gpx to your device
-1. Open OsmAnd on your device
-1. Go to Favorites
-1. Use the button **+** (import button)
-1. Select file bookcase.gpx
-1. It's done, bookcases are displayed on the map
+1. Download bookcases.gpx from the latest export
+2. Copy bookcases.gpx to your device
+3. Open OsmAnd on your device
+4. Go to Favorites
+5. Use the button **+** (import button)
+6. Select file bookcases.gpx
+7. It's done, bookcases are displayed on the map
 
 <img alt="Bookcases in OsmAnd" src="./assets/OsmAnd.png" height="30%" width="30%">
 
 ### With JOSM ?
 
-1. Download bookcase.gpx from the latest export
-1. Use button Open File in JOSM
-1. Select file bookcase.gpx
-1. It's done, bookcase are displayed on the map
+1. Download bookcases.gpx from the latest export
+2. Use button Open File in JOSM
+3. Select file bookcases.gpx
+4. It's done, bookcase are displayed on the map
 
-## How to extrack data ?
+## How to update data ?
 
 ### Extract data from web site
 
 1. Visit https://www.boite-a-lire.com/
-1. Wait until the map is fully loaded
-1. Save the web page on your desktop and open it in your editor
-1. Search for "var json" and keep only these lines
-1. Copy these lines in the file "webPageToGeojson.js" (follow the template)
-1. Run the script in your browser devtools (or maybein nodejs)
-1. Copy the result in a geojson file
+2. Wait until the map is fully loaded
+3. Open debugger console of your web brower and run following script
 
-### Filter bookcase by french region
+````js
+// Initialize an array to hold non-null JSON objects
+var jsonArray = [];
 
-Prerequisites
-- JOSM with plugin UtilPlugin2
+// Initialize a counter for consecutive null JSONs
+var nullCount = 0;
 
-1. Open the geojson in JOSM
-1. Import region from file assets/georef-france-region.geojson
-1. Select a region and merge it in bookcase layer
-1. Be sure your region is select
-1. Press Alt+Maj+I to select all bookcases inside the region
-1. Copy/paster these bookcase in a new layer Ctr+C / Ctrl+Alt+V
-1. Delete the region contour
-1. Save the layer as a new geojson file with region name
+// Variables to track the min and max indices of non-null JSONs
+var minIndex = null;
+var maxIndex = null;
+
+// Loop through json0 to jsonXXXXX
+for (var i = 0; i <= 99999; i++) {
+    var jsonVar = window['json' + i];
+
+    if (jsonVar !== null && jsonVar !== undefined) {
+        jsonArray.push(jsonVar);
+        nullCount = 0; // Reset null counter
+
+        // Update min and max indices
+        if (minIndex === null) {
+            minIndex = i;
+        }
+        maxIndex = i;
+    } else {
+        console.log('Found null JSON at json' + i);
+        nullCount++;
+    }
+
+    // Stop the loop if 10 consecutive null JSONs are found
+    if (nullCount >= 10) {
+        break;
+    }
+}
+
+// Log the min and max indices of non-null JSONs
+console.log('Min non-null JSON index: json' + minIndex);
+console.log('Max non-null JSON index: json' + maxIndex);
+// Log the length of the array
+console.log('Total non-null JSON objects: ' + jsonArray.length);
+// Convert JSON array to string
+var jsonString = JSON.stringify(jsonArray, null, 2);
+// Create a Blob from the JSON string
+var blob = new Blob([jsonString], { type: "application/json" });
+// Create a link element
+var link = document.createElement("a");
+// Set the download attribute with a filename
+link.download = "data.json";
+// Create a URL for the Blob and set it as the href attribute
+link.href = window.URL.createObjectURL(blob);
+// Append the link to the body
+document.body.appendChild(link);
+// Programmatically click the link to trigger the download
+link.click();
+// Remove the link from the document
+document.body.removeChild(link);
+````
+
+Wait until the script finish. It will propose you a file to download. Save this file in a new folder with current date. Name the file data.json
+
+### Parse data
+
+1. Run `step1ParseDataJson.py` to produce file bookcases.geojson
+2. Run `step2FilterBookcasesByRegions.py` to split the bookcases in one geojson file for each french region
+3. Run `step3ConvertGeojsonToOsmandGpx.py` to convert each geojson file into a OsmAnd favorite GPX file
 
 ## Stats
 
-|Date      |Bookcases|Bookcase without description|
-|----------|---------|----------------------------|
-|2022-09-17|     8571|                        1356|
-|2020-09-28|     6740|                        1093|    
-|2019-12-01|     5551|                         919|
-|2019-09-07|     5206|                         842|
-|2019-05-27|     4795|                         764|
-
-## Stats by region 
-
-|Region                 |2019-12-01|2022-09-17|
-|-----------------------|----------|----------|
-|Total                  |      5551|      8756|
-|Duplicates             |          |       185|
-|Uniques                |          |      8571|
-|Out France Metro       |          |       343|
-|France métro           |      5291|      8228|
-|Nouvelle Aquitaine     |       871|      1307|
-|Ile de France          |       671|      1050|
-|Auvergne Rhone-Alpes   |       646|      1174|
-|Occitanie              |       436|       736|
-|Grand Est              |       448|       673|
-|Hauts de France        |       361|       565|
-|Pays de la Loire       |       361|       519|
-|Bretagne               |       359|       504|
-|Bourgogne Franche-Comte|       288|       437|
-|Normandie              |       311|       430|
-|Centre Val de Loire    |       300|       412|
-|PACA                   |       240|       412|
-|Corse                  |         9|         9|
+|Region                 |2019-12-01|2022-09-17|2024-10-03|
+|-----------------------|----------|----------|----------|
+|Total                  |      5551|      8756|      9885|
+|Duplicates             |          |       185|       199|
+|Uniques                |          |      8571|      9686|
+|Out France Metro       |          |       343|       346|
+|France métro           |      5291|      8228|      9340|
+|Nouvelle Aquitaine     |       871|      1307|      1538|
+|Ile de France          |       671|      1050|      1197|
+|Auvergne Rhone-Alpes   |       646|      1174|      1356|
+|Occitanie              |       436|       736|       877|
+|Grand Est              |       448|       673|       767|
+|Hauts de France        |       361|       565|       597|
+|Pays de la Loire       |       361|       519|       559|
+|Bretagne               |       359|       504|       555|
+|Bourgogne Franche-Comte|       288|       437|       482|
+|Normandie              |       311|       430|       464|
+|Centre Val de Loire    |       300|       412|       466|
+|PACA                   |       240|       412|       470|
+|Corse                  |         9|         9|        12|

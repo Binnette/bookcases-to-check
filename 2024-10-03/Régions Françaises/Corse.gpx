@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.701123" lon="9.451018">
+    <time>2017-02-23T10:24:18Z</time>
+    <name>Bernadette b821</name>
+    <desc>La boite se trouve dans une ancienne cabine téléphonique sur la place st nicolas.</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Allée général fieschi, 20200 Bastia, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.9254665" lon="8.7381252">
+    <time>2017-02-23T10:13:07Z</time>
+    <name>Bernadette b820</name>
+    <desc>La boite se trouve dans le bistrot du cours juste en face de la préfecture d'ajaccio</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Cours napoléon, 20000 Ajaccio, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.4916889" lon="9.0550619">
+    <time>2021-10-04T08:59:06Z</time>
+    <name>Celine b8188</name>
+    <desc>Devant le spar une étagère à livres est présente à gauche de la sortie du magasin</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Viagenti, 20131 Pianottoli-caldarello, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6326037" lon="8.9380841">
+    <time>2019-08-02T15:55:35Z</time>
+    <name>Sophie noël b5132</name>
+    <desc>A la sortie du casino, près des caisses, il y a une petite caisse de livres en libre service !</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Casino, 20220 Île rousse, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.699063978799174" lon="8.840952515602114">
+    <time>2019-07-29T11:36:45Z</time>
+    <name>Motel logis abbartello b5102</name>
+    <desc>Petite boite à lire au rond point du motel et du spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Résidence golfe du valinco, olmeto plage, 20113 Olmeto, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7005856" lon="9.4512278">
+    <time>2019-04-15T17:02:53Z</time>
+    <name>Piereschi b4615</name>
+    <desc>En haut de la place dans une ancienne cabine téléphonique</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Place saint nicolas, 20200 Bastia, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.081804" lon="9.060516">
+    <time>2018-01-25T17:28:57Z</time>
+    <name>Médiathèque de bocognano b2183</name>
+    <desc>La boîte à lire se trouve à l'entrée de la médiathèque. des livres pour les petits et grands . réapprovisionnée tous les jours ...une vrai mine ...</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Bâtiment u palazzu, 20136 Bocognano, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.2989986" lon="9.1528366">
+    <time>2017-09-29T08:54:52Z</time>
+    <name>Le menn b1684</name>
+    <desc>A votre disposition dans le hall du bâtiment desanti-bibliothèque universitaire.</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Université, 20250 Corte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.997829" lon="9.399904">
+    <time>2017-09-06T14:56:01Z</time>
+    <name>Florence b1588</name>
+    <desc>Armoire à lire près de la boutique bio sous les glycines.</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Migliacciaro, 20243 Prunelli-di-fiumorbo, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.1301786" lon="9.2985424">
+    <time>2024-09-30T09:53:41Z</time>
+    <name>Philippe caulier b10343</name>
+    <desc>Dans le magasin alimentation générale, au centre du village</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>D 343, 20242 Vezzani, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.30351" lon="9.15859">
+    <time>2024-09-30T09:53:29Z</time>
+    <name>Philippe caulier b10342</name>
+    <desc>Dans le hall, armoire plus étagère !</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Gare de corte, 20250 Corte, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6194115" lon="8.9079782">
+    <time>2024-09-20T09:28:43Z</time>
+    <name>Philippe caulier b10334</name>
+    <desc>En face du restaurant la cantina</desc>
+    <type>BoiteLire Corse</type>
+    <extensions>
+      <osmand:address>Piazza di l'ormu, 20256 Corbara, France</osmand:address>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="BoiteLire Corse" color="#ff5020" icon="public_bookcase" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
