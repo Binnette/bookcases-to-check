@@ -6,6 +6,10 @@ Note: boite-a-lire.com publishes those data under [CC-BY-NC-SA](https://creative
 
 Those bookcases are mainly located in France and french speaking countries. You can display them in OsmAnd, JOSM, uMap etc.
 
+![Bookcase count history](assets/bookcase_count_history.png)
+
+![Distribution pie](assets/bookcase_distribution_pie_chart.png)
+
 ## View bookcases on a map
 
 - [Bookcases from OSM and boite-a-lire.com (2024-10-03)](http://u.osmfr.org/m/394538)
@@ -58,77 +62,9 @@ NB: do not import "bookcases.gpx" because OsmAnd can be lagguy. Instead use one 
 
 ## How to update data ?
 
-### Extract data from web site
-
-1. Visit https://www.boite-a-lire.com/
-2. Wait until the map is fully loaded
-3. Open debugger console of your web brower and run following script
-
-````js
-// Initialize an array to hold non-null JSON objects
-var jsonArray = [];
-
-// Initialize a counter for consecutive null JSONs
-var nullCount = 0;
-
-// Variables to track the min and max indices of non-null JSONs
-var minIndex = null;
-var maxIndex = null;
-
-// Loop through json0 to jsonXXXXX
-for (var i = 0; i <= 99999; i++) {
-    var jsonVar = window['json' + i];
-
-    if (jsonVar !== null && jsonVar !== undefined) {
-        jsonArray.push(jsonVar);
-        nullCount = 0; // Reset null counter
-
-        // Update min and max indices
-        if (minIndex === null) {
-            minIndex = i;
-        }
-        maxIndex = i;
-    } else {
-        console.log('Found null JSON at json' + i);
-        nullCount++;
-    }
-
-    // Stop the loop if 10 consecutive null JSONs are found
-    if (nullCount >= 10) {
-        break;
-    }
-}
-
-// Log the min and max indices of non-null JSONs
-console.log('Min non-null JSON index: json' + minIndex);
-console.log('Max non-null JSON index: json' + maxIndex);
-// Log the length of the array
-console.log('Total non-null JSON objects: ' + jsonArray.length);
-// Convert JSON array to string
-var jsonString = JSON.stringify(jsonArray, null, 2);
-// Create a Blob from the JSON string
-var blob = new Blob([jsonString], { type: "application/json" });
-// Create a link element
-var link = document.createElement("a");
-// Set the download attribute with a filename
-link.download = "data.json";
-// Create a URL for the Blob and set it as the href attribute
-link.href = window.URL.createObjectURL(blob);
-// Append the link to the body
-document.body.appendChild(link);
-// Programmatically click the link to trigger the download
-link.click();
-// Remove the link from the document
-document.body.removeChild(link);
-````
-
-Wait until the script finish. It will propose you a file to download. Save this file in a new folder with current date. Name the file data.json
-
-### Parse data
-
-1. Run `step1ParseDataJson.py` to produce file bookcases.geojson
-2. Run `step2FilterBookcasesByRegions.py` to split the bookcases in one geojson file for each french region
-3. Run `step3ConvertGeojsonToOsmandGpx.py` to convert each geojson file into a OsmAnd favorite GPX file
+1. Run `1_fetch_bookcases.py` to fetch bookcase and create bookcases.geojson
+2. Run `2_filter_by_region.py` to split the bookcases in one geojson file for each french region
+3. Run `3_create_OsmAnd_gpx.py` to convert each geojson file into a OsmAnd favorite GPX file
 
 ## Stats
 

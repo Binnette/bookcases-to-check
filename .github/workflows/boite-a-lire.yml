@@ -1,0 +1,56 @@
+name: Boite-a-lire Workflow
+
+on:
+  schedule:
+    - cron: '0 1 1 * *'  # Runs at 01:00 UTC on the first day of every month
+  workflow_dispatch:  # Allows manual triggering from the GitHub web interface
+
+jobs:
+  run-boite-a-lire:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Delete previous data folder
+      run: find . -type d -regex './[0-9]{4}-[0-9]{2}-[0-9]{2}' -exec rm -rf {} +
+
+    - name: Install ChromeDriver
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-chromedriver
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 geojson shapely pandas matplotlib fake_useragent selenium
+
+    - name: Run fetch bookcases script
+      run: python 1_fetch_bookcases.py
+
+    - name: Run filter by region script
+      run: python 2_filter_by_region.py
+
+    - name: Run create OsmAnd GPX script
+      run: python 3_create_OsmAnd_gpx.py
+
+    - name: Generate graphic
+      run: python 4_generate_graphic.py
+
+    - name: Get the current date
+      id: date
+      run: echo "current_date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Boite-a-lire ${{ env.current_date }}"
