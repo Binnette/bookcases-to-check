@@ -1,9 +1,8 @@
-import csv
 import matplotlib.pyplot as plt
 import pandas as pd
 
 # Constants for file paths
-HISTORY_FILE = 'bookcase_count_history.csv'
+HISTORY_FILE = 'assets/bookcase_count_history.csv'
 GRAPHIC_FILE = 'assets/bookcase_count_history.png'
 PIE_CHART_FILE = 'assets/bookcase_distribution_pie_chart.png'
 

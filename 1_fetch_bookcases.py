@@ -1,18 +1,17 @@
-import requests
-from bs4 import BeautifulSoup
-import re
+import geojson
 import json
 import os
-from datetime import datetime
-import geojson
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from fake_useragent import UserAgent
+import re
 import subprocess
+from bs4 import BeautifulSoup
+from fake_useragent import UserAgent
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+import shutil
 
 # Set up Selenium WebDriver options
 chrome_options = Options()
@@ -40,9 +39,14 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 # Constants
 URL = 'https://www.boite-a-lire.com/'
 
-# Get the current date
-current_date = datetime.now().strftime("%Y-%m-%d")
-folder_path = current_date
+# Set the folder path to "bookcases"
+folder_path = 'bookcases'
+
+# Delete the folder if it exists
+if os.path.exists(folder_path):
+    shutil.rmtree(folder_path)
+
+# Create the folder
 os.makedirs(folder_path, exist_ok=True)
 
 # Get the webpage content
@@ -71,15 +75,16 @@ for script in soup.find_all('script'):
                 print(f"Failed to parse JSON: {str(e)}")
                 print(f"JSON string: {match}")
 
-print(f"Found {len(jsonArray)} JSON objects on the webpage")
+total_bookcases = len(jsonArray)
+print(f"Found {total_bookcases} bookcases on the webpage")
 
 # Sort data by id in descending order
 jsonArray.sort(key=lambda x: x["id"], reverse=True)
 
 # Initialize GeoJSON structures
 features = []
-duplicates = []
 seen_coordinates = set()
+duplicates = 0
 
 # Check for duplicates and convert to GeoJSON
 for item in jsonArray:
@@ -88,29 +93,25 @@ for item in jsonArray:
         geometry=geojson.Point((coordinates[1], coordinates[0])),
         properties=item
     )
-    if coordinates in seen_coordinates:
-        duplicates.append(feature)
-    else:
+    if coordinates not in seen_coordinates:
         seen_coordinates.add(coordinates)
         features.append(feature)
+    else:
+        duplicates += 1
 
-# Create GeoJSON FeatureCollections
+# Create GeoJSON FeatureCollection
 geojson_data = geojson.FeatureCollection(features)
-duplicates_geojson_data = geojson.FeatureCollection(duplicates)
 
 # Save the GeoJSON to a file
 output_file_path = os.path.join(folder_path, "bookcases.geojson")
 with open(output_file_path, 'w', encoding='utf-8') as file:
     geojson.dump(geojson_data, file, ensure_ascii=False, indent=4)
 
-# Save duplicates to a separate GeoJSON file
-duplicates_file_path = os.path.join(folder_path, "duplicates.geojson")
-with open(duplicates_file_path, 'w', encoding='utf-8') as file:
-    geojson.dump(duplicates_geojson_data, file, ensure_ascii=False, indent=4)
-
 # Log the results
 print(f"GeoJSON created: {output_file_path}")
-print(f"Bookcases: {len(geojson_data['features'])}, Duplicates: {len(duplicates_geojson_data['features'])}")
+print(f"Total bookcases: {total_bookcases}")
+print(f"Unique bookcases: {len(geojson_data['features'])}")
+print(f"Duplicate bookcases: {duplicates}")
 
 # Exit with a non-zero status code if no bookcases were found
 if len(geojson_data['features']) == 0:

@@ -1,5 +1,3 @@
-#sudo apt install python3-gpxpy python3-shapely
-#pip install shapely
 import os
 import json
 from shapely.geometry import shape, Point, Polygon
@@ -7,8 +5,7 @@ from datetime import datetime
 import csv
 
 # Constants
-current_date = datetime.now().strftime("%Y-%m-%d")
-folder = current_date
+folder = "bookcases"
 
 # Define the order of the columns
 column_order = ['date', 'total', 'out_of_region', 'Auvergne-Rhône-Alpes', 'Bourgogne-Franche-Comté', 'Bretagne', 'Centre-Val de Loire', 'Corse', 'Grand Est', 'Hauts-de-France', 'Île-de-France', 'Normandie', 'Nouvelle-Aquitaine', 'Occitanie', 'Pays de la Loire', 'Provence-Alpes-Côte d\'Azur']
@@ -16,7 +13,7 @@ column_order = ['date', 'total', 'out_of_region', 'Auvergne-Rhône-Alpes', 'Bour
 # Paths to the input files
 regions_file_path = 'assets/georef-france-region-custom.geojson'
 bookcases_file_path = f'{folder}/bookcases.geojson'
-csv_output_path = 'bookcase_count_history.csv'
+csv_output_path = 'assets/bookcase_count_history.csv'
 
 # Load the regions and bookcases data
 with open(regions_file_path, 'r', encoding='utf-8') as f:
@@ -79,6 +76,9 @@ if not os.path.exists(csv_output_path):
     with open(csv_output_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(column_order)
+
+# Get the current date
+current_date = datetime.now().strftime("%Y-%m-%d")
 
 # Prepare data for CSV
 region_counts = {region_name: len(bookcases['features']) for region_name, bookcases in region_bookcases.items()}
